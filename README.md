@@ -1,6 +1,6 @@
 # Web-Scraping-Test
 Solution to LexisNexis coding problem
-This program gathers the information of doctors from the Arkansas State Medical Board whose last names start with 'za' and outputs the results as a CSV file.
+This program gathers the information of doctors from the Arkansas State Medical Board whose last names start with 'za' and outputs the results as a CSV file. The results file that I produced is included as results.csv
 
 This was run in Eclipse 4.5.2 on Windows 10 with the following .jar files added to the libraries of the project:
 
