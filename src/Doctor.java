@@ -3,15 +3,15 @@ import java.util.List;
 
 //The Doctor class stores information taken from a doctor's webpage
  
-public class Doctor {
+public final class Doctor {
 	private String name = "";
-	private String city;
-	private String state;
-	private String zip;
-	private String licenseNum;
-	private String expDate;
-	private String licenseStatus;
-	private int amount = 0;
+	private String city = "";
+	private String state = "";
+	private String zip = "";
+	private String licenseNum = "";
+	private String expDate = "";
+	private String licenseStatus = "";
+	private int amountOfOccurences = 0;
 	
 	public Doctor() {
 	}
@@ -25,10 +25,6 @@ public class Doctor {
 		this.expDate = expDate;
 		this.licenseStatus = licenseStatus;
 	}
-	
-	/*
-	 * GET FUNCTIONS
-	 */
 	public String getName() {
 		return name;
 	}
@@ -51,12 +47,8 @@ public class Doctor {
 		return licenseStatus;
 	}
 	public int getAmount() {
-		return amount;
+		return amountOfOccurences;
 	}
-	
-	/*
-	 * SET FUNCTIONS
-	 */
 	public void setName(String name) {
 		this.name = name;
 	}
@@ -79,10 +71,11 @@ public class Doctor {
 		this.licenseStatus = licenseStatus;
 	}
 	public void setAmount(int amount) {
-		this.amount = amount;
+		this.amountOfOccurences = amount;
 	}
 	
-	/**Sets all the values of the Doctor at once, in the same order as the constructor.
+	/**
+	 * Sets all the values of the Doctor at once, in the same order as the constructor.
 	 */
 	public void setAll(String name, String city, String state, String zip, String licenseNum, 
 			String expDate, String licenseStatus) {
@@ -94,10 +87,11 @@ public class Doctor {
 		this.expDate = expDate;
 		this.licenseStatus = licenseStatus;
 	}
-	/**Increments the amount by one, meaning this doctor already showed up in the search.
+	/**
+	 * Increments the amount by one, meaning this doctor already showed up in the search.
 	 */
 	public void addAmount() {
-		this.amount++;
+		this.amountOfOccurences++;
 	}
 	
 	@Override
@@ -107,7 +101,8 @@ public class Doctor {
 						+ ", licenseStatus = " + licenseStatus + "]";
 	}
 	
-	/**Returns the object Doctor as a list of strings. Used to have the data added to the CSV
+	/**
+	 * Returns the object Doctor as a list of strings. Used to have the data added to the CSV
 	 * 
 	 * @return ret		A list containing all the values of the Doctor object.
 	 */
@@ -129,7 +124,7 @@ public class Doctor {
 	 */
 	public Doctor clone() {
 		Doctor tmpDoc = new Doctor(name, city, state, zip, licenseNum, expDate, licenseStatus);
-		tmpDoc.setAmount(amount);
+		tmpDoc.setAmount(amountOfOccurences);
 		return tmpDoc;
 	}
 }
