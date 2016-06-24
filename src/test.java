@@ -6,9 +6,10 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class Test {
-	
-	private static FileWriter FW = null;
-	private static CSVPrinter CSVFP = null;
+	/*
+	 * The warnings in the console at the start and on each new page are all due to HtmlUnit.
+	 */
+	private final static String OUTPUT_FILE_NAME = "results.csv";
 	private static final CSVFormat CSV_FILE_FORMAT = CSVFormat.DEFAULT.withRecordSeparator("\n");
 	private static final Object [] HEADER = 
 		{"name","city","state","zip","licenseNum","expirationDate","licenseStatus"};
@@ -16,24 +17,24 @@ public class Test {
 	public static void main(String[] args){
 			ArMedicalParser p = new ArMedicalParser();
 			List<Doctor> docList = p.execute(1, "za");
-			try {
-				printDoctorList(docList, "results.csv");
-			} catch (IOException e) {
-				e.printStackTrace();
+			if(docList != null) {
+				try {
+					printDoctorList(docList, OUTPUT_FILE_NAME);
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
 			}
 	}
-	
 	/**
-	 * Prints a list of Doctor objects into a CSV file.
+	 * Prints a List<Doctor> into a CSV file.
 	 * 
 	 * @param doctors				List of doctors to be printed
 	 * @param fileName			Name of output file
 	 * @throws IOException
 	 */
 	private static void printDoctorList(List<Doctor> doctors, String fileName) throws IOException {
-		FW = new FileWriter(fileName);
-		CSVFP = new CSVPrinter(FW, CSV_FILE_FORMAT);
-		CSVFP = new CSVPrinter(FW, CSV_FILE_FORMAT);
+		FileWriter FW = new FileWriter(fileName);
+		CSVPrinter CSVFP = new CSVPrinter(FW, CSV_FILE_FORMAT);
 		CSVFP.printRecord(HEADER);
 		for(Doctor d : doctors) {
 			CSVFP.printRecord(d.asList());

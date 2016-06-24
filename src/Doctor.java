@@ -90,8 +90,8 @@ public final class Doctor {
 	/**
 	 * Increments the amount by one, meaning this doctor already showed up in the search.
 	 */
-	public void addAmount() {
-		this.amountOfOccurences++;
+	public void addAmount(int i) {
+		this.amountOfOccurences += i;
 	}
 	
 	@Override
@@ -102,7 +102,7 @@ public final class Doctor {
 	}
 	
 	/**
-	 * Returns the object Doctor as a list of strings. Used to have the data added to the CSV
+	 * Returns the object Doctor as a list of strings.
 	 * 
 	 * @return ret		A list containing all the values of the Doctor object.
 	 */
@@ -116,15 +116,5 @@ public final class Doctor {
 		ret.add(expDate);
 		ret.add(licenseStatus);
 		return ret;
-	}
-	
-	/**Returns a clone of the Doctor object.
-	 * 
-	 * @return 		A Doctor object that has the same values as the current one.
-	 */
-	public Doctor clone() {
-		Doctor tmpDoc = new Doctor(name, city, state, zip, licenseNum, expDate, licenseStatus);
-		tmpDoc.setAmount(amountOfOccurences);
-		return tmpDoc;
 	}
 }
