@@ -8,7 +8,12 @@ import java.io.IOException;
 public class Test {
 	/*
 	 * The warnings in the console at the start and on each new page are all due to HtmlUnit.
+	 * 
+	 * RADIO is which radio button is selected, 0 is License Number and 1 is Last Name.
+	 * QUERY is the query used in the search.
 	 */
+	private final static int RADIO = 1;
+	private final static String QUERY = "za";
 	private final static String OUTPUT_FILE_NAME = "results.csv";
 	private static final CSVFormat CSV_FILE_FORMAT = CSVFormat.DEFAULT.withRecordSeparator("\n");
 	private static final Object [] HEADER = 
@@ -16,7 +21,7 @@ public class Test {
 
 	public static void main(String[] args){
 			ArMedicalParser p = new ArMedicalParser();
-			List<Doctor> docList = p.execute(1, "za");
+			List<Doctor> docList = p.execute(RADIO, QUERY);
 			if(docList != null) {
 				try {
 					printDoctorList(docList, OUTPUT_FILE_NAME);
