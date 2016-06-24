@@ -12,7 +12,7 @@ import java.io.IOException;
  * @author walco005
  */
 public class ArMedicalParser implements WebsiteParser<Doctor> {
-	private List<Doctor> DOCTOR_LIST = new ArrayList<Doctor>();
+	private final List<Doctor> DOCTOR_LIST = new ArrayList<Doctor>();
 	private final CharSequence JS_SEQUENCE = "javascript";
 	private final String SPAN_ID
 		= "<span id=\"ctl00_ctl00_MainContentPlaceHolder_innercontent_";
