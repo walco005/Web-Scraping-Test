@@ -1,6 +1,8 @@
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVPrinter;
 
+import com.jaunt.JauntException;
+
 import java.util.List;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -19,16 +21,27 @@ public class Test {
 	private static final Object [] HEADER = 
 		{"name","city","state","zip","licenseNum","expirationDate","licenseStatus"};
 
-	public static void main(String[] args){
-			ArMedicalParser p = new ArMedicalParser();
-			List<Doctor> docList = p.execute(RADIO, QUERY);
-			if(docList != null) {
-				try {
-					printDoctorList(docList, OUTPUT_FILE_NAME);
-				} catch (IOException e) {
-					e.printStackTrace();
-				}
+	public static void main(String[] args) throws JauntException, IOException{
+		ArMedicalParser p = new ArMedicalParser();
+		List<Doctor> docList = p.execute(RADIO, QUERY);
+		if(docList != null) {
+			try {
+				System.out.println("Printing results...");
+				printDoctorList(docList, OUTPUT_FILE_NAME);
+				System.out.println("Results printed to " + OUTPUT_FILE_NAME);
+			} catch (IOException e) {
+				e.printStackTrace();
 			}
+		} else {
+			switch(RADIO) {
+			case 0:
+				System.out.println("No doctors found with the license number " + QUERY);
+				break;
+			case 1:
+				System.out.println("No doctors found whose last name begins with \"" + QUERY + "\"");
+				break;
+			}
+		}
 	}
 	/**
 	 * Prints a List<Doctor> into a CSV file.

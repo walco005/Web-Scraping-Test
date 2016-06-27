@@ -8,6 +8,7 @@ public final class Doctor {
 	private String city = "";
 	private String state = "";
 	private String zip = "";
+	private String mailingAddress = "";
 	private String licenseNum = "";
 	private String expDate = "";
 	private String licenseStatus = "";
@@ -15,12 +16,13 @@ public final class Doctor {
 	
 	public Doctor() {
 	}
-	public Doctor(String name, String city, String state, String zip, String licenseNum, 
-			String expDate, String licenseStatus) {
+	public Doctor(String name, String city, String state, String zip, String mailingAddress,
+			String licenseNum, String expDate, String licenseStatus) {
 		this.name = name;
 		this.city = city;
 		this.state = state;
 		this.zip = zip;
+		this.mailingAddress = mailingAddress;
 		this.licenseNum = licenseNum;
 		this.expDate = expDate;
 		this.licenseStatus = licenseStatus;
@@ -36,6 +38,9 @@ public final class Doctor {
 	}
 	public String getZip() {
 		return zip;
+	}
+	public String getMailingAddress() {
+		return mailingAddress;
 	}
 	public String getLicenseNum() {
 		return licenseNum;
@@ -61,6 +66,9 @@ public final class Doctor {
 	public void setZip(String zip) {
 		this.zip = zip;
 	}
+	public void setMailingAddress(String mailingAddress) {
+		this.mailingAddress = mailingAddress;
+	}
 	public void setLicenseNum(String licenseNum) {
 		this.licenseNum = licenseNum;
 	}
@@ -78,7 +86,7 @@ public final class Doctor {
 	 * Sets all the values of the Doctor at once, in the same order as the constructor.
 	 */
 	public void setAll(String name, String city, String state, String zip, String licenseNum, 
-			String expDate, String licenseStatus) {
+			String expDate, String licenseStatus, String mailingAddress) {
 		this.name = name;
 		this.city = city;
 		this.state = state;
@@ -86,6 +94,7 @@ public final class Doctor {
 		this.licenseNum = licenseNum;
 		this.expDate = expDate;
 		this.licenseStatus = licenseStatus;
+		this.mailingAddress = mailingAddress;
 	}
 	/**
 	 * Increments the amount by one, meaning this doctor already showed up in the search.

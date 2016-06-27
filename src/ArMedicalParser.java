@@ -16,6 +16,7 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 	private final CharSequence JS_SEQUENCE = "javascript";
 	private final String SPAN_ID
 		= "<span id=\"ctl00_ctl00_MainContentPlaceHolder_innercontent_";
+	private final WebClient WEB_CLIENT = new WebClient();
 
 	/**
 	 * Executes the parser and goes through the Arkansas Medical Board website parsing the given
@@ -25,39 +26,108 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 	 * @param request		What the user wants to search for.
 	 * @throws IOException 
 	 */
-	public List<Doctor> execute(int radio, String request){
+	
+	public List<Doctor> execute(int radio, String query) {
 		UserAgent userAgent = new UserAgent();
-		WebClient webClient = new WebClient();
-		HtmlPage page = null;
 		try {
 			userAgent.visit("http://www.armedicalboard.org/public/verify/default.aspx");
-			userAgent.doc.apply(radio, request);
+			userAgent.doc.apply(radio, query);
 			userAgent.doc.submit("Search");
-			
-			int numPagesToParse = 1;
-			Elements hrefs = userAgent.doc.findFirst("<table>").findEvery("<a href>");
-			String last = hrefs.getElement(hrefs.size() - 1).innerHTML();
-			if(last.contains("...")) {
-				System.out.println("The current system can only parse searches with 10 or less pages of " +
-					"results, so only the first 10 pages will be parsed.");
-				numPagesToParse = 10;
-			}
-			if(!last.equals("select") && numPagesToParse != 10) {
-				numPagesToParse = Integer.parseInt(last);
-			}
-			
-			for(int i = 1; i <= numPagesToParse; i++) {
-				if(i == 1) {
-					page = webClient.getPage(userAgent.getLocation());
+			HtmlPage page = WEB_CLIENT.getPage(userAgent.getLocation());
+			if(radio == 0) {
+				if(userAgent.doc.findEvery("<h1 style=\"color:Red\"> + "
+					+ "THIS IS NOT AN OFFICIAL LICENSE VERIFICATION").size() == 1) {
+					//TODO: create a function that grabs a single result based on the license number given.
 				} else {
-					page = webClient.getPage(getNextPage(i));
+					return null;
 				}
-        userAgent.openContent(page.asXml());
-        Elements links = userAgent.doc.findFirst("<table>").findEvery("<a href>");
-        getDoctorsFromSearchResults(links);
 			}
+			parseResultsPage(page, 1);
 		} catch (JauntException | IOException e) {
-			System.out.println(e);
+			e.printStackTrace();
+		} finally {
+			try {
+				userAgent.close();
+				WEB_CLIENT.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+		
+		return DOCTOR_LIST;
+	}
+	
+	/**
+	 * Parses the results page and is looped until completion of the parsing.
+	 * @throws NotFound 
+	 * @throws ResponseException 
+	 * @throws IOException 
+	 */
+	private void parseResultsPage(HtmlPage page, int startPage){
+		UserAgent userAgent = new UserAgent();
+		try {
+			int numPagesToParse;
+			userAgent.openContent(page.asXml());
+			Elements links = userAgent.doc.findFirst("<table>").findEvery("<a href>");
+			String last = links.getElement(links.size() - 1).innerHTML();
+			last = last.replaceAll("\\s+", "");
+			switch(last) {
+			case "...":
+				//The 'not completed' case. This will need to go through all the pages, then restart on the '+1'th page.
+				String lastNum = links.getElement(links.size() - 2).innerHTML();
+				lastNum = lastNum.replaceAll("\\s+", "");
+				numPagesToParse = Integer.parseInt(lastNum);
+				loopResultsPages(page.asXml(), startPage, numPagesToParse);
+				int newStartingPageNum = numPagesToParse + 1;
+				parseResultsPage(WEB_CLIENT.getPage(getNextPage(newStartingPageNum)), newStartingPageNum);
+				break;
+			case "select":
+				//The 'completed' case. This is the last page.
+				getDoctorsFromSearchResults(links);
+				break;
+			default:
+				//The 'almost completed' case. This will complete the parsing.
+				if (last.matches("\\d+")) {
+					numPagesToParse = Integer.parseInt(last);
+					loopResultsPages(page.asXml(), startPage, numPagesToParse);
+				}
+				break;
+			}
+		}catch(JauntException | IOException e) {
+			e.printStackTrace();
+		} finally {
+			try {
+				userAgent.close();
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+	}
+	/**
+	 * Loops through a specified part of the result pages.
+	 * 
+	 * @param pageAsXml 	The beginning page of the list as Xml.
+	 * @param startPage		The number of the starting page.
+	 * @param endPage			The number of the ending page.
+	 */
+	private void loopResultsPages(String pageAsXml, int startPage, int endPage) {
+		HtmlPage page = null;
+		UserAgent userAgent = new UserAgent();
+		WebClient webClient = new WebClient();
+		try {
+			for(int i = startPage; i <= endPage; i++) {
+				if(i == startPage) {
+					userAgent.openContent(pageAsXml);
+				} else {
+					page = WEB_CLIENT.getPage(getNextPage(i));
+		      userAgent.openContent(page.asXml());
+				}
+	      Elements links = userAgent.doc.findFirst("<table>").findEvery("<a href>");
+	      System.out.println("Retrieving page " + i + "...");
+	      getDoctorsFromSearchResults(links);
+			}
+		} catch(JauntException | IOException e) {
+			e.printStackTrace();
 		} finally {
 			try {
 				userAgent.close();
@@ -66,7 +136,6 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 				e.printStackTrace();
 			}
 		}
-		return DOCTOR_LIST;
 	}
 
 	/**
@@ -101,7 +170,9 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 				tmp = "http://www.armedicalboard.org/public/verify/" + 
 						e.toString().substring(9, e.toString().length() - 2);
 				Doctor tempDoc = getFromUrl(tmp);
-				DOCTOR_LIST.add(tempDoc);
+				if(!tempDoc.getName().equals("NOT A REAL NAME THIS IS AN ERROR")) {
+					DOCTOR_LIST.add(tempDoc);
+				}
 			}
 		}
 	}
@@ -119,10 +190,16 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 		try {
 			Doctor tmpDoc = new Doctor();
 			userAgent.visit(url);
+			if(userAgent.doc.findEvery("<title>Error on page").size() == 1) {
+				System.out.println("Doctor could not be returned because of error on webpage: " + url);
+				tmpDoc.setName("NOT A REAL NAME THIS IS AN ERROR");
+				return tmpDoc;
+			}
 			String name = userAgent.doc.findFirst(SPAN_ID + "ListView1_ctrl0_Label1\">").innerHTML();
 			String city = "";
 			String state = "";
 			String zip = "";
+			String mailingAddress = "";
 			/*
 			 * Sets city/state/zip as long as there's NOT a div containing "No data was returned".
 			 */
@@ -130,6 +207,7 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 				city = userAgent.doc.findFirst(SPAN_ID + "ListView2_ctrl0_Label3\">").innerHTML();
 				state = userAgent.doc.findFirst(SPAN_ID + "ListView2_ctrl0_Label4\">").innerHTML();
 				zip = userAgent.doc.findFirst(SPAN_ID + "ListView2_ctrl0_Label5\">").innerHTML();
+				mailingAddress = userAgent.doc.findFirst(SPAN_ID + "ListView2_ctrl0_Label1\">").innerHTML();
 			}
 			String licNum = "";
 			String expDate = "";
@@ -139,15 +217,15 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 			 * shares the same name as the current one.
 			 */
 			if(DOCTOR_LIST.size() != 0) {
-				if(DOCTOR_LIST.get(DOCTOR_LIST.size() - 1).getName().equals(name)) {
-					Doctor prevDoc = DOCTOR_LIST.get(DOCTOR_LIST.size() - 1);
+				Doctor prevDoc = DOCTOR_LIST.get(DOCTOR_LIST.size() - 1);
+				if(prevDoc.getName().equals(name) && prevDoc.getMailingAddress().equals(mailingAddress)) {
 					tmpDoc.setAmount(prevDoc.getAmount());
 				}
 			}
 			licNum = userAgent.doc.findFirst(SPAN_ID + "ListView3_ctrl"+tmpDoc.getAmount()+"_Label1\">").innerHTML();
 			expDate = userAgent.doc.findFirst(SPAN_ID + "ListView3_ctrl"+tmpDoc.getAmount()+"_Label3\">").innerHTML();
 			status = userAgent.doc.findFirst(SPAN_ID + "ListView3_ctrl"+tmpDoc.getAmount()+"_Label5\">").innerHTML();
-			tmpDoc.setAll(name, city, state, zip, licNum, expDate, status);
+			tmpDoc.setAll(name, city, state, zip, licNum, expDate, status, mailingAddress);
 			tmpDoc.addAmount(1);
 			return tmpDoc;
 		} catch (JauntException e) {
