@@ -1,7 +1,10 @@
 import java.util.ArrayList;
 import java.util.List;
 
-//The Doctor class stores information taken from a doctor's webpage
+/**
+ * The Doctor class stores information about a doctor, to be used in a parser.
+ * @author walco005
+ */
  
 public final class Doctor {
 	private String name = "";
@@ -81,9 +84,17 @@ public final class Doctor {
 	public void setAmount(int amount) {
 		this.amountOfOccurences = amount;
 	}
-	
+
 	/**
-	 * Sets all the values of the Doctor at once, in the same order as the constructor.
+	 * Sets all the values of the Doctor object.
+	 * @param name
+	 * @param city
+	 * @param state
+	 * @param zip
+	 * @param licenseNum
+	 * @param expDate
+	 * @param licenseStatus
+	 * @param mailingAddress
 	 */
 	public void setAll(String name, String city, String state, String zip, String licenseNum, 
 			String expDate, String licenseStatus, String mailingAddress) {
@@ -96,13 +107,7 @@ public final class Doctor {
 		this.licenseStatus = licenseStatus;
 		this.mailingAddress = mailingAddress;
 	}
-	/**
-	 * Increments the amount by one, meaning this doctor already showed up in the search.
-	 */
-	public void addAmount(int i) {
-		this.amountOfOccurences += i;
-	}
-	
+
 	@Override
 	public String toString() {
 		return "Doctor[name = " + name + ", city = " + city + ", state = " + state + ", zip = " + zip
@@ -112,8 +117,7 @@ public final class Doctor {
 	
 	/**
 	 * Returns the object Doctor as a list of strings.
-	 * 
-	 * @return ret		A list containing all the values of the Doctor object.
+	 * @return ret		A list containing all the relevant values of the Doctor object.
 	 */
 	public List<String> asList() {
 		List<String> ret = new ArrayList<String>();

@@ -1,58 +1,1738 @@
 name,city,state,zip,licenseNum,expirationDate,licenseStatus
-"Hussein A. J. Zabad, M.D.",Crescent City,FL,32112,E-0251,03/01/1997,Inactive
-"Luis Manuel Zabala, M.D.",Little Rock,AR,72202,E-3880,06/30/2011,Inactive
-"Dwight P. Zabel, M.D.",Branson,MO,65616,E-5093,05/31/2017,Active
-"Dwight P. Zabel, M.D.",Branson,MO,65616,T2006-172,12/08/2006,Inactive
-"Alan Deane Zablocki, M.D.",San Antonio,TX,78229,C-6981,03/01/1992,Inactive
-"Leena George Zachariah, OT",Charlotte,NC,28213,OTR1223,01/31/2002,Inactive
-"Leena George Zachariah, OT",Charlotte,NC,28213,,04/30/1996,Inactive
-"Leena George Zachariah, OT",Charlotte,NC,28213,,12/15/1997,Inactive
-"Valsala Tholath Zachariah, OT-A",Forrest City,AR,72335,OT-A404,09/30/2005,Inactive
-"June A. Zachary, LRCP",Ellenwood,GA,30294,RCP-0819,01/31/2014,Inactive
-"Peter George Zack, M.D.",Wilmington,NC,28403,C-2994,03/01/1998,Inactive
-"Stephen Paul Zacker, M.D.",Oklahoma City,OK,73162,E-1148,05/31/1999,Inactive
-"Sunbal Zafar, M.D.",Benton,AR,72015,E-4635,11/30/2016,Active
-"Sunbal Zafar, M.D.",Benton,AR,72015,T2005-124,10/07/2005,Inactive
-"Haris Zafarullah, M.D.",Memphis,TN,38120,E-6388,06/30/2016,Active
-"Nikhat Sima Zafiruddin, M.D.",Sebring,FL,33872,E-2143,12/31/2000,Inactive
-"Nikhat Sima Zafiruddin, M.D.",Sebring,FL,33872,T99-028,04/09/1999,Inactive
-"Tamara K. Zagustin, M.D.",Little Rock,AR,72207,,,Inactive
-"Donna Jeanne Zahniser, M.D.",El Dorado,AR,71730,C-4985,10/31/2016,Active
-"Amna Ahmad Zaidi, M.D.",Memphis,TN,38103,E-6389,11/30/2012,Inactive
-"Mone Zaidi, M.D.",Bronx,NY,10471,E-1219,04/30/2015,Inactive
-"Mone Zaidi, M.D.",Bronx,NY,10471,T95-008,09/13/1996,Inactive
-"Nader Ali Zaidi, M.D.",Kingman,AZ,86409,E-5033,01/31/2017,Active
-"Nader Ali Zaidi, M.D.",Kingman,AZ,86409,T2006-101,10/06/2006,Inactive
-"Nasir Hussain Zaidi, M.D.",Memphis,TN,38125,,,Inactive
-"Saiyid-Naufal T. Zaidi, M.D.",Pine Bluff,AR,71603,E-8946,02/28/2017,Active
-"Harry Allie Zain, M.D.",Little Rock,AR,72209,E-0250,03/01/1996,Inactive
-"Rose Zajicek, LRCP",Fayetteville,AR,72701,RCP-1298,04/30/2017,Active
-"Linda Kraus Zak, M.D.",Sunrise,FL,33323,E-5973,05/31/2010,Inactive
-"Linda Kraus Zak, M.D.",Sunrise,FL,33323,T2008-170,02/06/2009,Inactive
-"Dala Zakaria, M.D.",Little Rock,AR,72202,E-8083,10/31/2016,Active
-"Dala Zakaria, M.D.",Little Rock,AR,72202,T2013-037,08/02/2013,Inactive
-"Nia Noelle Millan Zalamea, M.D.",Memphis,TN,38104,E-8317,12/31/2016,Active
-"Roderick Millan Zalamea, M.D.",Huntsville,AL,35801,E-4500,07/31/2016,Active
-"Alan Harold Zalta, M.D.",Cincinnati,OH,45219,R-2846,03/01/1985,Inactive
-"Ismael Zamilpa, M.D.",Little Rock,AR,72202,E-7255,10/31/2016,Active
-"Jesus Gabriel Zamora, M.D.",Richardson,TX,75080,E-6819,03/31/2012,Inactive
-"Abbas Zand, M.D.",,,,C-4677,,Inactive
-"Alfred A. Zanette, M.D.",West Covina,CA,91790,R-1533,03/01/1991,Inactive
-"Maurizio Zangari, M.D.",Little Rock,AR,72205,E-0366,04/30/2017,Active
-"Michael Timothy Zanone, M.D.",Horn Lake,MS,38637,R-3421,08/31/2016,Active
-"Sara  Ann Zappulla, PA",Little Rock,AR,72205,PA-541,03/31/2017,Active
-"Sara  Ann Zappulla, PA",Little Rock,AR,72205,P-T1343,02/07/2014,Inactive
-"Mehdi Zarabi, M.D.",Blue Springs,MO,64015,,,Inactive
-"Mehdi Zarabi, M.D.",Blue Springs,MO,64015,,,Inactive
-"Yuri Alexander Zarate Torres, M.D.",Little Rock,AR,72202,E-7720,08/31/2016,Active
-"Mohammad Zare-Mehrjerdi, M.D.",Pasadena,TX,77503,E-1218,03/01/1998,Inactive
-"Mohammad Zare-Mehrjerdi, M.D.",Pasadena,TX,77503,T97-022,03/14/1997,Inactive
-"Nasir Zareen, M.D.",Jacksonville,AR,72076,E-6160,01/31/2017,Active
-"Raymond  Jude Zastrow, M.D.",Milwaukee,WI,53223,E-7760,03/31/2014,Inactive
-"Ana J. Zavadzkas, M.D.",Rockford,IL,61102-2112,E-4227,06/30/2011,Inactive
-"Jacqueline Nicole Zavala, LRCP",Siloam Springs,AR,72761,RCP-3869,11/30/2016,Active
-"Oscar Fernando Zavala, M.D.",Condado,PR,00907,C-8189,03/31/1999,Inactive
-"Gregory Michael Zawada, M.D.",Sherwood,AR,72120,E-4895,04/30/2017,Active
-"Yacin Muftah Zawam, M.D.",Dallas,TX,75225,E-8280,09/30/2016,Active
-"Yacin Muftah Zawam, M.D.",Dallas,TX,75225,T2013-107,10/04/2013,Inactive
-"Jihane Zaza Dit Yafawi, M.D.",El Dorado,AR,71730,E-8515,04/30/2016,Inactive
+"A & S Medical Corporation, P.A.,  ",Russellville,AR,72801,MC-2704,07/31/2010,Inactive
+"A Clinic for Wellness, PLLC,  ",Little Rock,AR,72205,MC-2816,02/28/2014,Inactive
+"A Clinic for Women, PLC,  ",Little Rock,AR,72205,MC-1819,05/31/2013,Inactive
+"A-ROC, P.A.",North Little Rock,AR,72114,MC-1566,12/31/1999,Inactive
+"A. Bruce Junkin, M.D., P.A.",Newport,AR,72112,MC-0527,12/31/1993,Inactive
+"A. E. B. Pediatrics, P.L.C., ",Jonesboro,AR,72401,MC-3132,08/31/2016,Active
+"A.B. Junkin, M.D., PLLC",Newport,AR,72112,MC-1897,04/30/2003,Inactive
+"A.B. Shahbandar, M.D., P.A.",Fort Smith,AR,72903,MC-1504,12/31/1995,Inactive
+"A.G. Kumpuris, M.D. & J.L. Davis, M.D., P.A.",Little Rock,AR,72205,MC-1911,07/31/2002,Inactive
+"A.K. Busby, M.D., Medical and Surgical Clinic, P.A.",Monticello,AR,71655,MC-0879,12/31/1994,Inactive
+"Mary Oline Aaland, M.D.",Fort Wayne,IN,46805,N-8194,08/31/2003,Inactive
+"Jannice Owens Aaron, M.D.",New Albany,IN,47151-1678,E-1506,08/31/2000,Inactive
+"Jannice Owens Aaron, M.D.",New Albany,IN,47151-1678,T97-194,12/05/1997,Inactive
+"John  Aaron, M.D.",Fair Oaks,CA,95628-1805,,,Inactive
+"Steven Pryce Aaronson, M.D.",Brentwood,TN,37027,N-7625,03/01/1995,Inactive
+"Bushra Abbasi, M.D.",Plano,TX,75075,E-6568,08/31/2016,Active
+"Bushra Abbasi, M.D.",Plano,TX,75075,T2010-115,08/06/2010,Inactive
+"Seema Abbasi, M.D.",Coralville,IA,52241,E-0254,03/01/1998,Inactive
+"Iftikharul Haque Abbasy, M.D.",Hinsdale,IL,60522,E-4952,10/31/2016,Active
+"Iftikharul Haque Abbasy, M.D.",Hinsdale,IL,60522,T2006-143,10/06/2006,Inactive
+"Devin Lee Abbe, LRCP",Mountain Home,AR,72653,RCP-1632,04/30/2007,Inactive
+"Steven Jay Abbey, M.D.",Buffalo,NY,14221,E-3509,01/31/2005,Inactive
+"Steven Jay Abbey, M.D.",Buffalo,NY,14221,T2002-122,12/06/2002,Inactive
+"Colleen Abbott, LRCP",Rogers,AR,72756,RCP-1217,08/31/2016,Active
+"Jacqueline Rose Abbott, OT",,UN,,OTR1145,10/31/1999,Inactive
+"Judy Ann Abbott, M.D.",Bearden,AR,71720,C-7886,12/31/2003,Inactive
+"Weldon Sylvesta Abbott, M.D.",Salt Lake City,UT,84102,C-1963,03/01/1994,Inactive
+"William Wood Abbott, M.D.",Little Rock,AR,72207,C-2188,03/01/1997,Inactive
+"Leslie Abbott-Boone, OT",Scott AFB,IL,62225,OTR1251,09/30/2016,Active
+"ABC Medical Solutions, PLLC,  ",Little Rock,AR,72207,MC-2744,12/31/2016,Active
+"Al-Ola Abdelfattah Abdallah, M.D.",Little Rock,AR,72205,E-7075,09/30/2016,Active
+"Al-Ola Abdelfattah Abdallah, M.D.",Little Rock,AR,72205,T2011-059,06/10/2011,Inactive
+"Yazan Mohammad Yousef Abdeen, M.D.",Fort Smith,AR,72903,E-9022,08/31/2016,Active
+"Samer Abdel-Aziz, M.D.",Little Rock,AR,72205,E-8466,08/31/2015,Inactive
+"Mazen Abdel-Hadi, M.D.",Ozark,AR,72949,E-0153,03/01/1998,Inactive
+"Ayman M.M. Abdel-Halim, M.D.",Little Rock,AR,72205,E-1788,05/31/2017,Active
+"Isam Ali Abdel-Karim, M.D.",Fort Smith,AR,72903,E-7211,03/31/2017,Active
+"Fahmy Mussad Abdel-Malak, M.D.",Palm Harbor,FL,34685,R-2669,11/30/2007,Inactive
+"Ali Fekry Abdelaal, M.D.",Harrison,AR,72601,E-0054,01/31/2017,Active
+"Ahmed Tarek Abdelal, M.D.",Mabelvale,AR,72103,E-0152,02/28/2017,Active
+"Mohamed Ahmed A. A. Abdeldayem, M.D.",Little Rock,AR,72205,E-9578,02/05/2017,Active
+"Esamelden Salah Abdelnaem, M.D.",Little Rock,AR,72205,E-5909,02/28/2017,Active
+"Esamelden Salah Abdelnaem, M.D.",Little Rock,AR,72205,T2009-004,02/06/2009,Inactive
+"Magdy Aziz Abdelsayed, M.D.",Baytown,TX,77521,R-2356,03/01/1994,Inactive
+"Wassim Taher Radwan Abdelwahab, M.D.",Batesville,AR,72501,E-7609,02/28/2017,Active
+"Jamal Ziad Abdin, M.D.",Farmington,AR,72730,E-3510,08/31/2016,Active
+"M. Khalouck Abdrabbo, M.D.",Ann Arbor,MI,48105,E-0336,03/01/1996,Inactive
+"Sohail Abdul Salim, M.D.",Greenwood,IN,46142,,,Inactive
+"Asif Abdullah, M.D.",Eden Prairie,MN,55344,E-9495,12/31/2016,Active
+"Saleem I. Abdulrauf, M.D.",St. Louis,MO,63146,E-1789,02/28/2002,Inactive
+"Saleem I. Abdulrauf, M.D.",St. Louis,MO,63146,T98-071,09/18/1998,Inactive
+"Oluwole John Abe, M.D.",Richmond,KY,40475,E-8260,06/30/2017,Active
+"Abeer S. Hashmi, M.D., P.A.,  ",Little Rock,AR,72209,MC-2762,05/30/2011,Inactive
+"Lee Curtis Abel, M.D.",Little Rock,AR,72205,N-6927,07/31/2016,Active
+"Thomas Lyman Abell, M.D.",Louisville,KY,40202,E-2454,03/31/2017,Active
+"James Scott Abercrombie, Jr., M.D.",Brookline,MA,02445-7425,C-2203,01/31/2013,Inactive
+"Bryan Edward Abernathy, M.D.",Fayetteville,AR,72701,R-3155,10/31/2016,Active
+"Craig Daniel Abernathy, D.O.",Carl Junction,MO,64834,,,Inactive
+"David Smith Abernathy, M.D.",Morganton,NC,28655,N-6055,07/31/2016,Active
+"Robert Shields Abernathy, M.D.",Little Rock,AR,72205,R-1520,11/30/2012,Inactive
+"Rosalind Gower Abernathy, M.D.",Little Rock,AR,72205-3867,R-1521,10/31/2012,Inactive
+"Wade Hampton Abernathy, M.D.",,,,R-554,,Inactive
+"Judith A. Abeyta, OT-A",Cherokee Village,AR,72529,OT-A246,06/30/1999,Inactive
+"Abdenour Abib, M.D.",Baltimore,MD,21201,E-4691,04/30/2017,Active
+"John Michael Abide, M.D.",Greenville,MS,38701-6342,R-2357,03/31/2000,Inactive
+"Syed Muneer Hyder Abidi, M.D.",Ontario,,,,,Inactive
+"Jose E. Abiseid, M.D.",Clinton,AR,72031,N-6056,06/30/2017,Active
+"Adib Adnan Abla, M.D.",Little Rock,AR,72205,E-8674,06/30/2017,Active
+"Charles John Ablan, M.D.",Martinsburg,WV,25405,E-4352,05/31/2017,Active
+"Charles John Ablan, M.D.",Martinsburg,WV,25405,T2005-027,04/08/2005,Inactive
+"Angel Diego Ablog, M.D.",Greenwood,IN,46143,C-8530,10/31/2006,Inactive
+"Deborah Jean Abner, LRCP",Austin,AR,72007,RCP-3803,07/31/2016,Active
+"Georgia Kaye Abner, OT",Little Rock,AR,72210,OTR350,10/31/2016,Active
+"Keith Alan Abney, M.D.",Tulsa,OK,74107,C-6362,03/01/1992,Inactive
+"Eyad Abochale, M.D.",Little Rock,AR,72205,E-1685,04/30/2017,Active
+"Chalice Joan Aboloc-Martinez, OT",Fort Smith,AR,72916,OTR1682,02/28/2017,Active
+"Chalice Joan Aboloc-Martinez, OT",Fort Smith,AR,72916,O-T0148,07/28/2001,Inactive
+"Chalice Joan Aboloc-Martinez, OT",Fort Smith,AR,72916,O-T0163,11/23/2001,Inactive
+"Duncan Oscar Odhiambo Abongo, OT",,UN,,,,Inactive
+"Halim Abou Faycal, M.D.",Shreveport,LA,71103,E-5910,11/30/2015,Inactive
+"Tamer Abou-elsaad, M.D.",Mason,OH,45040,E-3683,06/30/2013,Inactive
+"Yousef Abou-Kayyas, M.D.",North Little Rock,AR,72116,E-1060,01/31/2000,Inactive
+"Yousef Abou-Kayyas, M.D.",North Little Rock,AR,72116,T96-193,12/13/1996,Inactive
+"Orwa Aboud, M.D.",Little Rock,AR,72205,E-9083,07/31/2016,Active
+"Shadia Aboul-Fetouh, M.D.",Jackson,MS,39211,C-6496,11/30/2000,Inactive
+"Osama Aboul-Fettouh, M.D.",Little Rock,AR,72211,,,Inactive
+"Ahmed S. Aboul-Magd, M.D.",Joplin,MO,64804,E-2145,07/31/2017,Active
+"Wissam Abouzgheib, M.D.",Camden,NJ,08103,E-5689,05/31/2017,Active
+"Wissam Abouzgheib, M.D.",Camden,NJ,08103,T2008-033,08/08/2008,Inactive
+"Abraham Medical Center, P.A.",Mountain Home,AR,72653,MC-0306,12/01/2014,Inactive
+"Anes Mae Abraham, M.D.",Blytheville,AR,72315,R-3291,04/30/2017,Active
+"Anitha Thomas Abraham, M.D.",Leesburg,VA,20176,,,Inactive
+"Anthony Milard Abraham, D.O.",Batesville,AR,72501,E-9419,02/28/2017,Active
+"Betty Elsa Abraham, M.D.",Chattanooga,TN,37421,E-6344,12/31/2016,Active
+"Boban Plathottathil Abraham, M.D.",Mount Laurel,NJ,08054,E-6162,11/30/2016,Active
+"Carl J. Abraham, Jr., M.D.",Jonesboro,AR,72401,E-3042,09/30/2016,Active
+"Carl J. Abraham, Jr., M.D.",Jonesboro,AR,72401,T2001-097,10/05/2001,Inactive
+"Dana Carol Abraham, M.D.",Little Rock,AR,72205,C-7650,11/30/2016,Active
+"Edward H. Abraham, M.D.",Tulsa,OK,74159,E-8136,05/31/2017,Active
+"Edwin John Abraham, M.D.",Chattanooga,TN,37403,E-5221,02/28/2017,Active
+"Jacob Edathara Abraham, M.D.",Hot Springs,AR,71913,E-0070,10/31/2016,Active
+"James Howard Abraham, M.D.",Little Rock,AR,72221,C-2536,04/30/2011,Inactive
+"James Howard Abraham, III, M.D.",Little Rock,AR,72205,C-7238,05/31/2017,Active
+"Kurian P. Abraham, M.D.",Schaumburg,IL,60173,E-5094,03/31/2009,Inactive
+"Kurudamanil Simon Abraham, M.D.",Mountain Home,AR,72653,C-4556,03/31/2017,Active
+"Ladly Abraham, M.D.",Little Rock,AR,72204,E-2894,05/31/2017,Active
+"Matthew Mack Abraham, M.D.",Lafayette,LA,70506,E-2679,11/30/2003,Inactive
+"Pamela Varghese Abraham, M.D.",Reno,NV,89521,E-5038,12/31/2016,Active
+"Prema Abraham, M.D.",Salt Lake City,UT,84108,C-7651,03/01/1991,Inactive
+"Robert Earl Abraham, M.D.",Jonesboro,AR,72401,C-5170,03/31/2017,Active
+"Rtika Ryfka Abraham, M.D.",Little Rock,AR,72205,E-8123,03/31/2017,Active
+"Sunny Arick Abraham, OT",White Hall,AR,71602,OTR1679,10/31/2016,Active
+"Maria C.J. Abrahams, OT-A",Hot Springs,AR,71913,OT-A485,09/30/2012,Inactive
+"Camilla Abrahamsson, OT",,UN,,OTR1324,04/30/1999,Inactive
+"Daniel P. Abram, LRCP",Kilgore,TX,75663,RCP-0332,10/31/2016,Active
+"Thomas James Abramo, M.D.",Little Rock,AR,72202,E-8261,11/30/2016,Active
+"Thomas James Abramo, M.D.",Little Rock,AR,72202,T2013-122,10/04/2013,Inactive
+"Joe Alton Abrams, M.D.",Cabot,AR,72023,C-4794,12/31/2016,Active
+"Laurie A. Abrams, M.D.",Washington,DC,20010,E-0640,04/30/1999,Inactive
+"Lawrence Jack Abramson, M.D.",Blytheville,AR,72315,N-5699,09/30/2015,Inactive
+"Samuel Kirk Abshire, M.D.",Haynesville,LA,71038,R-3712,08/31/2016,Active
+"Faten Kassem Abu Ghazal, M.D.",Cambridge,MA,02138,E-8019,06/30/2014,Inactive
+"Hadi Abu Rasheed, M.D.",Lexington,KY,40509,E-5690,09/30/2010,Inactive
+"Nasser Ghaleb Abu-Erreish, M.D.",Johnson City,TN,37601,E-1686,10/31/2007,Inactive
+"Emad Mohammad Abu-Hamda, M.D.",Pearland,TX,77584,E-1598,11/30/2001,Inactive
+"Ahmed Y.M. Abuabdou, M.D.",Little Rock,AR,72205,E-7393,12/31/2016,Active
+"Amjad Mahmoud J. Abualsuod, M.D.",Little Rock,AR,72205,E-8496,01/31/2017,Active
+"Tarek Abuelem, M.D.",Little Rock,AR,72205,E-7365,09/30/2016,Active
+"Sameh Ramadan Abul-Ezz, M.D.",Little Rock,AR,72205,E-0255,11/30/2016,Active
+"Accelecare Wound Professionals of Arkansas, P.A.,  ",Little Rock,AR,72207,MC-2871,02/28/2013,Inactive
+"Access Medical Group, P.A.",Jonesboro,AR,72401,MC-1730,12/31/1997,Inactive
+"Accident Injury & Rehabilitation of Fort Smith, P.A.,  ",Fort Smith,AR,72901,MC-2254,03/31/2007,Inactive
+"Accident, Injury & Rehabilitation - Landherr, P.A.,  ",Fort Smith,AR,72903,MC-2507,07/31/2008,Inactive
+"Accident, Injury & Rehabilitation - North College, P.A.,  ",Fayetteville,AR,72703,MC-2344,04/30/2007,Inactive
+"Accident, Injury & Rehabilitation - South Phoenix, P.A.,  ",Fort Smith,AR,72901,MC-2346,04/30/2006,Inactive
+"Accident, Injury & Rehabilitation of Fayetteville, P.A.,  ",Fayetteville,AR,72703,MC-2270,06/30/2006,Inactive
+"Accident, Inury & Rehabilitation - Southeast J Street, P.A.,  ,  ",Bentonville,AR,72712,MC-2345,04/30/2006,Inactive
+"Mario Armando Accinno, M.D.",Birmingham,AL,35216,R-1556,03/01/1996,Inactive
+"Latha Madhavi Achanta, M.D.",Little Rock,AR,72205,E-6569,03/31/2017,Active
+"Latha Madhavi Achanta, M.D.",Little Rock,AR,72205,T2010-091,08/06/2010,Inactive
+"Kartikey Bhaskar Acharya, M.D.",Milwaukee,WI,53226,E-7415,01/31/2016,Inactive
+"Krishna Kartikey Acharya, M.D.",Milwaukee,WI,53226,E-7230,01/31/2016,Inactive
+"Yuba Raj Acharya, M.D.",Hot Springs,AR,71913,E-9291,07/31/2017,Active
+"Yuba Raj Acharya, M.D.",Hot Springs,AR,71913,T2015-058,08/07/2015,Inactive
+"Peter Acheampong, M.D.",Dallas,TX,75225,E-7147,05/31/2017,Active
+"Peter Acheampong, M.D.",Dallas,TX,75225,T2011-082,08/05/2011,Inactive
+"Daniel Edward Acker, OT",Richmond,KY,40475,,,Inactive
+"James David Acker, M.D.",Germantown,TN,38138,E-1220,02/29/2016,Inactive
+"Shannon Acker, LRCP",Little Rock,AR,72209,RCP-2363,07/31/2016,Active
+"Shannon Acker, LRCP",Little Rock,AR,72209,R-T0346,11/07/2003,Inactive
+"Barbara Elizabeth Ackerman, OT",,UN,,OTR427,04/30/1991,Inactive
+"Clara Bell Ackerman, LRCP",Little Rock,AR,72210,RCP-0352,04/30/2006,Inactive
+"George Link Ackerman, M.D.",Little Rock,AR,72223,C-2481,10/31/2010,Inactive
+"William Edward Ackerman, III, M.D.",Little Rock,AR,72223,E-0337,08/31/2016,Active
+"Yolanda M. Ackerman, OT",Fayetteville,AR,72703,OTR1218,10/31/1999,Inactive
+"Yolanda M. Ackerman, OT",Fayetteville,AR,72703,O-T9703,12/15/1997,Unknown
+"Jacquelyn S. Ackland, OT",Memphis,TN,38103,OTR1052,08/31/1998,Inactive
+"Joshua Vincent Ackley, LRCP",Benton,AR,72019,RCP-3216,05/31/2017,Active
+"Joshua Vincent Ackley, LRCP",Benton,AR,72019,R-T1026,09/25/2010,Inactive
+"Jennifer Leigh Acklin, OT",Georgetown,AR,72143,OTR2016,08/31/2016,Active
+"Jimmy David Acklin, M.D.",Van Buren,AR,72956,C-6363,04/30/2017,Active
+"Richard Roy Aclin, M.D.",Fort Smith,AR,72901,C-3245,10/31/2016,Active
+"Carlos Alberto Acosta, M.D.",Fayetteville,AR,72701,E-6477,02/28/2017,Active
+"Donita G. Acosta, LRCP",Sherwood,AR,72120,RCP-2798,12/31/2012,Inactive
+"Indrani Enid Acosta, M.D.",Reston,VA,20190,E-8614,01/31/2017,Active
+"Indrani Enid Acosta, M.D.",Reston,VA,20190,T2014-046,06/06/2014,Inactive
+"Alison Alden Acott, M.D.",Little Rock,AR,72205,E-5095,02/28/2017,Active
+"Catherine Renee Acre, OT",Greenbrier,AR,72058,OTR232,05/31/2017,Active
+"Joseph Acton, M.D.",Chandler,AZ,85286,E-7530,03/31/2017,Active
+"Acute Medical Services, P.A.",Fort Smith,AR,72903,MC-0748,12/31/1992,Inactive
+"Theresa Rugiena Mercurio Adad, OT",Russellville,AR,72801,,,Inactive
+"Badih Adada, M.D.",Weston,FL,33331,E-2981,04/30/2016,Inactive
+"Badih Adada, M.D.",Weston,FL,33331,T2001-027,08/10/2001,Inactive
+"Jennifer Ann Adair, OT",Batesville,AR,72503,OTR2196,11/30/2016,Active
+"Jennifer Ann Adair, OT",Batesville,AR,72503,O-T0828,11/29/2008,Inactive
+"Adalberto R. Fonticiella, M.D., P.A.",Paragould,AR,72450,MC-1570,01/31/2006,Inactive
+"Adam D. White, M.D., PLLC,  ",Springdale,AR,72764,MC-2973,06/30/2017,Active
+"Adam Maass, M.D., PLLC,  ",Rogers,AR,72758,MC-2671,01/31/2012,Inactive
+"Adam Stibich, M.D., P.A.,  ",Hot Springs,AR,71913,MC-2751,03/31/2017,Active
+"Balkozar Seif Eldin Adam, M.D.",Little Rock,AR,72205,R-3954,03/01/1993,Inactive
+"Walter Max Adam, M.D.",Pine Bluff,AR,71603,E-0893,03/31/1999,Inactive
+"Walter Max Adam, M.D.",Pine Bluff,AR,71603,T96-112,09/13/1996,Inactive
+"James Robert Adametz, M.D.",North Little Rock,AR,72118,C-6154,04/30/2017,Active
+"John Harold Adametz, Sr., M.D.",North Little Rock,AR,72116,R-1143,05/31/2006,Inactive
+"John Harold Adametz, Jr., M.D.",North Little Rock,AR,72117,E-0894,07/31/2016,Active
+"Kimberly Grimes Adametz, M.D.",Little Rock,AR,72212,C-7698,05/31/2015,Inactive
+"Remedios M. Adamos, OT",Harrison,AR,72601,OTR1809,05/31/2017,Active
+"Remedios M. Adamos, OT",Harrison,AR,72601,O-T0269,01/07/2003,Inactive
+"A. V Adams, M.D.",Harrison,AR,72601,C-612,03/01/1970,Inactive
+"Amy Lois Adams, LRCP",Oakland,TN,38060,RCP-0263,08/31/2016,Active
+"Amy Lois Adams, LRCP",Oakland,TN,38060,RCP-0263,08/31/2004,Inactive
+"Angela Sue Adams, OT",Searcy,AR,72143,OTR1235,03/31/2017,Active
+"Avis Jane Adams, OT",Paragould,AR,72450,OTR502,05/31/2017,Active
+"Betty Sorenson Adams, OT",,UN,,OTR106,02/28/1993,Inactive
+"Brian David Adams, M.D.",Little Rock,AR,72205,N-7583,03/01/1991,Inactive
+"Carl Hopkins Adams, M.D.",Carthage,AR,71725,C-1478,03/01/1984,Inactive
+"Carla Sharlane Adams, OT",,UN,,OTR344,01/31/1993,Inactive
+"Carlo Esteban Adams, M.D.",North Little Rock,AR,72114,E-7148,06/30/2014,Inactive
+"Carlo Esteban Adams, M.D.",North Little Rock,AR,72114,T2011-081,08/05/2011,Inactive
+"Cheryl Lynn Adams, LRCP",Bakersfield,MO,65609,RCP-2991,01/31/2014,Inactive
+"Cheryl Lynn Adams, LRCP",Bakersfield,MO,65609,R-T0760,01/11/2008,Inactive
+"Cheryl Lynn Adams, LRCP",Bakersfield,MO,65609,R-T0803,07/08/2008,Inactive
+"Cheryl Lynn Adams, OT-A",Branson,MO,65616,OT-A677,08/31/2016,Active
+"Christopher Denman Adams, M.D.",Opelika,AL,36803-2125,R-4170,11/30/2007,Inactive
+"Crystal LeAnne Adams, LRCP",Cave Springs,AR,72718,RCP-3117,06/30/2017,Active
+"Crystal LeAnne Adams, LRCP",Cave Springs,AR,72718,R-T0859,06/09/2009,Inactive
+"Crystal LeAnne Adams, LRCP",Cave Springs,AR,72718,R-T0946,12/03/2009,Inactive
+"Denise C. Adams, LRCP",Arlington,TN,38002,,,Inactive
+"Edmund John Adams, PA",Little Rock,AR,72205,PA-392,08/31/2016,Active
+"Edmund John Adams, PA",Little Rock,AR,72205,P-T0933,12/02/2009,Inactive
+"Edward Adams, M.D.",Devalls Bluff,AR,,723,03/01/1948,Inactive
+"Edward Alyn Adams, OT-A",Jonesboro,AR,72401,OT-A979,09/30/2016,Active
+"Elizabeth Kelly Adams, LRCP",Heber Springs,AR,72543,RCP-1479,09/30/2008,Inactive
+"Frank Garrison Adams, D.O.",Boerne,TX,78006,N-7596,03/01/1994,Inactive
+"Frank Marvin Adams, M.D.",Hot Springs,AR,71901,R-823,03/01/1991,Inactive
+"Gail L. Adams, LRCP",Little Rock,AR,72205,RCP-2195,05/31/2017,Active
+"Gail L. Adams, LRCP",Little Rock,AR,72205,R-T0244,11/13/2002,Inactive
+"Henry Herlong Adams, M.D.",Jacksonville,FL,,C-1596,03/01/1944,Inactive
+"James Franklin Adams, M.D.",,,,R-153,,Inactive
+"James Luther Adams, M.D.",,,,C-120,,Inactive
+"John Calvin Adams, M.D.",Saltillo,MS,38866,R-3550,11/30/2005,Inactive
+"John Calvin Adams, M.D.",Saltillo,MS,38866,R-3550,03/01/1993,Inactive
+"Karen Sue Adams, M.D.",Ponca City,OK,74604,E-7423,07/31/2013,Inactive
+"Karen Sue Adams, M.D.",Ponca City,OK,74604,T2012-007,04/13/2012,Inactive
+"Katherine Ann Adams, OT-A",Homer,LA,71040,OT-A123,09/30/1994,Inactive
+"Kathy Danette Adams, OT",Dardanelle,AR,72834,OTR2290,10/31/2016,Active
+"Kathy Danette Adams, OT",Dardanelle,AR,72834,OT-A104,10/31/2009,Inactive
+"Kathy Danette Adams, OT",Dardanelle,AR,72834,O-T0937,11/21/2009,Inactive
+"Laura Leonard Adams, M.D.",Fort Smith,AR,72901,E-3144,09/30/2016,Active
+"Lauren Elizabeth Adams, M.D.",Little Rock,AR,72202,E-6164,08/31/2013,Inactive
+"Lawrence James Adams, M.D.",Pendleton,OR,97801,N-6712,01/31/2008,Inactive
+"Lennox Roosevelt Adams, M.D.",St. Vincent,,,E-0790,01/31/2000,Inactive
+"Richard Martin Adams, M.D.",Pineville,LA,71360,C-1153,03/01/1972,Inactive
+"Robert Belding Adams, Jr., M.D.",Joplin,MO,64801,C-3232,03/01/1969,Inactive
+"Robert Joseph Adams, M.D.",Augusta,GA,30912-1003,C-5832,04/30/2000,Inactive
+"Sandra Romona Adams, LRCP",Stamps,AR,71860,,,Inactive
+"Sarah Frances Adams, OT-A",Fort Smith,AR,72916,OT-A1018,07/31/2016,Active
+"Serrhel Glynn Adams, Jr., M.D.",Springdale,AR,72764,E-5538,08/31/2016,Active
+"Sheri Lynn Adams, LRCP",Jonesboro,AR,72401,RCP-3804,11/30/2016,Active
+"Susan Elizabeth Adams, M.D.",North Little Rock,AR,72118-4136,C-7887,03/01/1996,Inactive
+"Terri Adams, LRCP",Pampa,TX,79066,RCP-1348,11/30/2016,Active
+"Vicky A. Adams, OT-A",Denton,TX,76201,OT-A296,03/31/1999,Inactive
+"William Francis Adams, M.D.",Van Buren,AR,72956,C-1152,03/01/1968,Inactive
+"William Wright Adams, M.D.",Little Rock,AR,72212,,,Inactive
+"James Sterling Adamson, Jr., M.D.",Little Rock,AR,72201,C-3085,11/30/2014,Inactive
+"Dewey Aday, M.D.",,,,C-1013,,Inactive
+"Lawson Carlyle Aday, M.D.",,,,C-875,,Inactive
+"ADC Anesthesia Services, P.L.C.,  ",Little Rock,AR,72215-5130,MC-2066,03/31/2011,Inactive
+"Jasper Winton Adcock, OT",Hot Springs,AR,71913,OTR2486,06/30/2013,Inactive
+"Jon Adcock, M.D.",Memphis,TN,38111,E-1150,04/30/2000,Inactive
+"Jon Adcock, M.D.",Memphis,TN,38111,T97-011,03/14/1997,Inactive
+"Alfred Robert Addington, M.D.",Rogers,AR,72758,R-2748,01/31/2017,Active
+"Carroll W. Addington, LRCP",West Memphis,AR,72301,RCP-2204,07/31/2008,Inactive
+"Jami Addington, LRCP",McCurtain,OK,74944,,,Inactive
+"Jami Addington, LRCP",McCurtain,OK,74944,R-T0125,11/09/2001,Inactive
+"Kristen Marie Addis, M.D.",Little Rock,AR,72205,E-7443,05/31/2017,Active
+"Kera Beth Addison, OT",Benton,AR,72015,OTR2220,07/31/2016,Active
+"Kera Beth Addison, OT",Benton,AR,72015,O-T0858,11/30/2008,Inactive
+"Julius Kolawole Adebisi, M.D.",Portsmouth,OH,45662,T2000-065,08/18/2000,Inactive
+"Julius Kolawole Adebisi, M.D.",Portsmouth,OH,45662,E-2609,08/31/2002,Inactive
+"Oladele A. Adebogun, M.D.",Texarkana,AR,71854,E-1599,08/31/2016,Active
+"Oladele A. Adebogun, M.D.",Texarkana,AR,71854,T97-211,03/13/1998,Inactive
+"Oluyinka Solomon Adediji, M.D.",Montgomery,AL,36117,E-2680,11/30/2005,Inactive
+"Oluyinka Solomon Adediji, M.D.",Montgomery,AL,36117,T2000-112,10/06/2000,Inactive
+"Bolanle Omolara Adekore, M.D.",Macon,GA,31210,E-1790,03/31/2002,Inactive
+"Adele B. Holmes, M.D., PLC,  ",Benton,AR,72019,MC-2043,01/31/2017,Active
+"Olufemi Ojo Adeleye, M.D.",Germantown,TN,38138,E-3995,03/31/2017,Active
+"Raphael Martin Adelman, M.D.",Gurnee,IL,60031,R-2580,03/01/1989,Inactive
+"Saint Adeogba, M.D.",Little Rock,AR,72205,E-8983,10/31/2016,Active
+"Dorcas Iyabo Adepoju, M.D.",San Antonio,TX,78207,E-6570,04/30/2017,Active
+"Omobolanle Adeyekun, M.D.",Houston,TX,77070,E-7551,05/31/2017,Active
+"Omobolanle Adeyekun, M.D.",Houston,TX,77070,T2012-034,06/08/2012,Inactive
+"Oluwadamilola A. Adeyemi, M.D.",Chicago,IL,60616,E-5539,08/31/2009,Inactive
+"Oluwadamilola A. Adeyemi, M.D.",Chicago,IL,60616,T2008-023,04/04/2008,Inactive
+"Cathryn S. Adger, OT",,UN,,OTR523,10/31/1994,Inactive
+"Eftim Adhami, M.D.",Memphis,TN,38111,,,Inactive
+"Praveen Narottambhai Adhyapak, M.D.",New Bedford,MA,02746,,,Inactive
+"Abdul-Nasser Adjei, M.D.",Fort Smith,AR,72902,E-3684,11/30/2016,Active
+"Betty J. Adkins, LRCP",Eureka Springs,AR,72631,RCP-0687,12/31/2011,Inactive
+"Craig  Alan Adkins, OT-A",Jonesboro,AR,72401,OT-A583,07/31/2010,Inactive
+"Heather Gretchen Adkins, LRCP",Deer,AR,72628,RCP-2183,07/31/2013,Inactive
+"Heather Gretchen Adkins, LRCP",Deer,AR,72628,R-T0255,12/14/2002,Inactive
+"James D. Adkins, OT-A",Jonesboro,AR,72401,OT-A788,01/31/2017,Active
+"James D. Adkins, OT-A",Jonesboro,AR,72401,O-T1309,08/16/2013,Inactive
+"Johnny Pink Adkins, III, M.D.",Fayetteville,AR,72703,C-5262,05/31/2017,Active
+"Katy Adkins, LRCP",Maumelle,AR,72113,RCP-1877,06/30/2006,Inactive
+"Kevin James Adkins, M.D.",Mountain Home,AR,72653,C-7450,08/31/2016,Active
+"Michael Clifton Adkins, M.D.",Mountain Home,AR,72653,E-7181,04/30/2017,Active
+"Ryan Kevin Adkins, M.D.",Little Rock,AR,72205,E-9718,02/28/2017,Active
+"Ryan Kevin Adkins, M.D.",Little Rock,AR,72205,T2016-040,06/10/2016,Inactive
+"Lauren Marie Adkison, PA",Russellville,AR,72802,PA-559,08/31/2016,Active
+"Lauren Marie Adkison, PA",Russellville,AR,72802,P-T1407,06/04/2014,Inactive
+"Jarrod Rodney Adkisson, M.D.",Fayetteville,AR,72703,C-8412,04/30/2017,Active
+"Charles Scott Adler, PA",Nixa,MO,65714,PA-530,05/31/2016,Inactive
+"Charles Scott Adler, PA",Nixa,MO,65714,P-T1342,12/06/2013,Inactive
+"Ira N. Adler, M.D.",Little Rock,AR,72211,E-2017,02/28/2001,Inactive
+"Jodi Lynn Adler, D.O.",Greenville,NC,27858,E-1345,07/31/2001,Inactive
+"Justin Christopher Adler, Jr., M.D.",Memphis,TN,38119,R-3219,02/28/2017,Active
+"Marlon Brent Adler, M.D.",Melbourne,FL,32940,E-3197,06/30/2016,Active
+"Marlon Brent Adler, M.D.",Melbourne,FL,32940,T2002-021,04/05/2002,Inactive
+"Beau Douglas Admire, M.D.",Hot Springs,AR,71913,E-8124,10/31/2016,Active
+"Beau Douglas Admire, M.D.",Hot Springs,AR,71913,T2013-058,08/02/2013,Inactive
+"Shekher Adolph, M.D.",Little Rock,AR,72211,E-4054,11/30/2016,Active
+"James Arland Adrian, M.D.",Norcross,GA,30092,C-3171,04/30/2007,Inactive
+"Farshad Aduli, M.D.",Washington,DC,20002,E-5096,06/30/2017,Active
+"Farshad Aduli, M.D.",Washington,DC,20002,T2006-123,02/02/2007,Inactive
+"Advance Immunizations, PLLC,  ",Bentonville,AR,72712,MC-2800,10/31/2013,Inactive
+"Advanced Laser Eye Care Centers, P.A.,  ",Little Rock,AR,72209,MC-1963,02/28/2003,Inactive
+"Advanced Sleep And Pulmonary Center, PLLC,  ",White Hall,AR,71602,MC-2984,07/31/2016,Active
+"Advanced Spine and Pain Centers, LTD,  ",Little Rock,AR,72205,MC-2979,07/31/2017,Active
+"Advanced Wound Care & Hyperbarics, P.A.,  ",North Little Rock,AR,72117,MC-2727,09/30/2016,Active
+"Advent Medical, PLLC d/b/a Community Family Medical  ",Marion,AR,72364,MC-3021,04/30/2015,Inactive
+"Charles Edward Adwell, Jr., M.D.",Memphis,TN,38103,R-2323,05/31/2001,Inactive
+"Ronald Robert Aebersold, M.D.",Irving,TX,75061,C-4007,01/31/2017,Active
+"Roger Case Aertker, M.D.",West Memphis,AR,72301,R-2623,03/01/1981,Inactive
+"Aesthetic Plastic Surgery Centre of Little Rock, L.L.C.",Little Rock,AR,72207,MC-1867,11/30/2003,Inactive
+"Stephanie Gail Afeld, LRCP",Pearcy,AR,71964,RCP-3766,01/31/2017,Active
+"Affiliated Ear, Nose & Throat Clinics of Arkansas, Inc.",Little Rock,AR,72205,MC-0161,12/31/1997,Inactive
+"Affinity Healthcare for Women, P.A.,  ",Pine Bluff,AR,71603,MC-2182,06/30/2017,Active
+"Bukola Oyindamola Afilaka, M.D.",El Dorado,AR,71730,E-9546,08/31/2016,Active
+"Deanna Lee  Aftab Guy, M.D.",Brentwood,TN,37027,E-9538,11/30/2016,Active
+"Umair Afzal, M.D.",Little Rock,AR,72205,E-9482,05/31/2017,Active
+"Yasir Usman Afzal, M.D.",Helena,AR,72342,E-8747,05/31/2017,Active
+"Yasir Usman Afzal, M.D.",Helena,AR,72342,T2014-075,08/08/2014,Inactive
+"Drew F. Agar, M.D.",Little Rock,AR,72201,C-1722,03/01/1976,Inactive
+"Lindsey Agar, LRCP",Cammack Village,AR,72207,RCP-2758,06/30/2012,Inactive
+"Lindsey Agar, LRCP",Cammack Village,AR,72207,R-T0614,09/09/2006,Inactive
+"Lindsey Agar, LRCP",Cammack Village,AR,72207,R-T0666,03/01/2007,Inactive
+"Abhishek Agarwal, M.D.",Little Rock,AR,72205,E-5097,01/31/2017,Active
+"Amit Agarwal, M.D.",Little Rock,AR,72202,E-6670,04/30/2017,Active
+"Manisha Agarwal, OT",Canton,OH,44708,OTR1074,04/30/2001,Inactive
+"Manoj Agarwal, M.D.",Little Rock,AR,72205-7199,E-3947,09/30/2008,Inactive
+"Manoj Agarwal, M.D.",Little Rock,AR,72205-7199,T2003-122,02/06/2004,Inactive
+"Monica Agarwal, M.D.",Mountain Brook,AL,35223,E-6058,09/30/2016,Active
+"Navin Agarwal, OT",Muncie,IN,47304,OTR1297,06/30/2000,Inactive
+"Navin Agarwal, OT",Muncie,IN,47304,O-T9726,06/15/1998,Unknown
+"Nidhi Agarwal, M.D.",Little Rock,AR,72202,E-9251,02/28/2017,Active
+"Nidhi Agarwal, M.D.",Little Rock,AR,72202,T2015-044,08/07/2015,Inactive
+"Pradeep Kumar Agarwal, M.D.",Metairie,LA,70006,,,Inactive
+"Rita Agarwal, M.D.",West Monroe,LA,71291,C-8397,03/31/2004,Inactive
+"Shiv Kumar Agarwal, M.D.",Little Rock,AR,72205,E-9818,01/31/2017,Active
+"Shweta Agarwal, M.D.",Little Rock,AR,72211,E-4896,05/31/2007,Inactive
+"Rajesh Agarwala, M.D.",Bronx,NY,10462,,,Inactive
+"Bob Nwachukwu Agbogu, M.D.",Pine Bluff,AR,71611,E-1151,12/31/1999,Inactive
+"Bob Nwachukwu Agbogu, M.D.",Pine Bluff,AR,71611,T96-231,03/14/1997,Inactive
+"Kimberly Russell Agee, M.D.",Fayetteville,AR,72703,C-6784,07/31/2017,Active
+"John Phillip Agent, D.O.",Fort Smith,AR,72903,E-1152,04/30/2017,Active
+"William Seth Agent, Jr., D.O.",Ada,OK,74820,R-4418,02/28/2000,Inactive
+"Marielie Heidi Agesilas, M.D.",Springdale,AR,72764,E-8365,01/31/2017,Active
+"Jamshed Gul Agha, M.D.",Little Rock,AR,72223,E-0512,03/31/2003,Inactive
+"Yvonne M. Agius, M.D.",Aurora,MO,65605,,,Inactive
+"Samuel Gerard Agnew, M.D.",Jacksonville,FL,32209,R-4300,10/31/2001,Inactive
+"Julia Toxey Agostini, M.D.",Dallas,TX,75231,E-0256,12/31/1999,Inactive
+"Alex Alexander Agostini-Miranda, M.D.",Miami,FL,33265,E-7802,12/31/2016,Active
+"Mayank Agrawal, M.D.",Little Rock,AR,72211,E-6478,04/30/2016,Inactive
+"Mayank Agrawal, M.D.",Little Rock,AR,72211,T2010-053,06/04/2010,Inactive
+"Charles Anthony Aguilar, OT",,UN,,OTR530,09/30/1992,Inactive
+"Robin Velasquez Aguilar, M.D.",North Bay Village,FL,33141,E-6479,06/30/2016,Active
+"Robin Velasquez Aguilar, M.D.",North Bay Village,FL,33141,T2010-065,06/04/2010,Inactive
+"Orlando Ferrer Aguilar-Guzman, M.D.",Rogers,AR,72758,R-3700,05/31/2017,Active
+"Miguel G. Aguinaga, M.D.",Searcy,AR,72143,E-1791,04/30/2017,Active
+"Brittany  Nicole Aguirre, PA",Bentonville,AR,72712,PA-434,10/31/2016,Active
+"Brittany  Nicole Aguirre, PA",Bentonville,AR,72712,P-T1018,12/03/2010,Inactive
+"Brittany  Nicole Aguirre, PA",Bentonville,AR,72712,P-T1018,02/04/2011,Inactive
+"Brittany  Nicole Aguirre, PA",Bentonville,AR,72712,P-T1018,04/08/2011,Inactive
+"Agustin Fernandez, M.D., P.A.",North Little Rock,AR,72117,MC-1039,10/31/2013,Inactive
+"Ann Tye Agustsson-Mathers, D.O.",Rockford,IL,61107,R-4719,07/31/2016,Active
+"Michael Kwaku Agyepong, M.D.",Wichita Falls,TX,76302,E-0513,02/28/2017,Active
+"Yeshitila Agzew, M.D.",Little Rock,AR,72211,E-1061,03/01/1998,Inactive
+"Yeshitila Agzew, M.D.",Little Rock,AR,72211,T96-069,12/13/1996,Inactive
+"Cheryl Lynn Ahart, M.D.",Little Rock,AR,72205,E-2455,11/30/2016,Active
+"Dennis L. Ahart, LRCP",Springdale,AR,72764,RCP-0688,01/31/2004,Inactive
+"Mary Anne Ahluwalia, D.O.",Fayetteville,AR,72704,E-8541,08/31/2015,Inactive
+"Sarvpreet Pal Singh Ahluwalia, M.D.",Little Rock,AR,72211,E-7494,10/31/2013,Inactive
+"Abir Ahmad, M.D.",Bentonville,AR,72712,E-7638,03/31/2015,Inactive
+"Abrar Ahmad, M.D.",Little Rock,AR,72207,E-3948,02/28/2006,Inactive
+"Fawaz Ahmad, M.D.",Bentonville,AR,72712,E-8775,04/30/2017,Active
+"Fawaz Ahmad, M.D.",Bentonville,AR,72712,T2014-008,08/08/2014,Inactive
+"Ibrahim Ahmad, M.D.",Beavercreek,OH,45440,E-2082,08/31/2001,Inactive
+"Imran Ahmad, M.D.",Jeddah,,,E-6300,03/31/2017,Active
+"Imran Ahmad, M.D.",Jeddah,,,T2009-137,12/04/2009,Inactive
+"Kazi Waqar Ahmad, M.D.",Prince Rupert,UN,,,,Inactive
+"Mahmood Ahmad, M.D.",Sherwood,AR,72120,E-1687,07/31/2016,Active
+"Mohammad Ahmad, M.D.",Columbus,OH,43221,R-2453,03/01/1995,Inactive
+"Mohammad Mitwalli Ahmad, M.D.",San Antonio,TX,78229,R-2164,09/30/2015,Inactive
+"Mushtaq Ahmad, M.D.",Fountain Lake,AR,71901,E-8296,02/28/2017,Active
+"Mushtaq Ahmad, M.D.",Fountain Lake,AR,71901,T2013-127,12/06/2013,Inactive
+"Nisar Ahmad, M.D.",Little Rock,AR,72212,E-6820,01/31/2013,Inactive
+"Razee Ameir Ahmad, M.D.",Newton,MS,39345,E-0154,11/30/2001,Inactive
+"Sidra Ahmad, OT",Little Rock,AR,72205,OTR2330,03/31/2012,Inactive
+"Tabassum Ahmad, M.D.",Eden Prairie,MN,55344,E-9072,07/31/2016,Active
+"Zubair Ahmad, M.D.",Tulsa,OK,74104,E-6571,08/31/2011,Inactive
+"Zubair Ahmad, M.D.",Tulsa,OK,74104,T2010-108,08/06/2010,Inactive
+"Shahryar Ahmadi, M.D.",Little Rock,AR,72205,E-7112,02/28/2017,Active
+"Ahmed Hussein Ghaleb, M.D., P.A.,  ",Little Rock,AR,72205,MC-2980,07/31/2014,Inactive
+"Aliya Ahmed, M.D.",Memphis,TN,38111,E-9504,08/31/2016,Active
+"Aliya Ahmed, M.D.",Memphis,TN,38111,T2015-094,10/02/2015,Inactive
+"Faiyaz Ahmed, M.D.",Peoria,IL,61614,,,Inactive
+"Hazem Mohammed Ahmed, M.D.",Little Rock,AR,72223,E-5540,07/31/2016,Active
+"Imtiaz Ahmed, M.D.",Fort Smith,AR,72901,E-9496,09/30/2016,Active
+"Mohamed Auda Ahmed, M.D.",Pine Bluff,AR,71602,E-2544,06/30/2004,Inactive
+"Mohamed Auda Ahmed, M.D.",Pine Bluff,AR,71602,T2000-051,06/23/2000,Inactive
+"Mohamed Mostafa Mahound Ahmed, M.D.",Jamesville,NY,13078,C-8153,03/01/1996,Inactive
+"Mohammed Aqueel Ahmed, M.D.",Little Rock,AR,72223,E-4351,12/31/2016,Active
+"Moinuddin Ahmed, OT",Camden,AR,71701,OTR736,06/30/2001,Inactive
+"Monjur Ahmed, M.D.",Huntington,WV,25701,E-1346,10/31/2003,Inactive
+"Monjur Ahmed, M.D.",Huntington,WV,25701,T97-124,09/12/1997,Inactive
+"Nazia Ahmed, M.D.",Little Rock,AR,72202,E-3043,09/30/2004,Inactive
+"Sahibzada Azizuddin Ahmed, M.D.",Greenwood,AR,72936,R-2870,09/30/2016,Active
+"Shaheen I. Ahmed, M.D.",Overland Park,KS,66211,E-4055,03/31/2009,Inactive
+"Shaheen I. Ahmed, M.D.",Overland Park,KS,66211,T2004-008,06/04/2004,Inactive
+"Syed Anwar Ahmed, M.D.",Little Rock,AR,72211,E-3354,09/30/2004,Inactive
+"Syed Eqbal Ahmed, M.D.",Brooksville,FL,34609,E-2083,10/31/2000,Inactive
+"Syed Eqbal Ahmed, M.D.",Brooksville,FL,34609,T99-022,04/09/1999,Inactive
+"Tamer A. Ahmed, M.D.",Syracuse,NY,13210,E-5616,05/31/2014,Inactive
+"Waseem Ahmed, M.D.",Reno,NV,89511,E-9579,09/30/2016,Active
+"Zubair Ahmed, M.D.",Little Rock,AR,72205,E-7488,11/30/2016,Active
+"Thomas Ross Ahrend, M.D.",Ada,OK,74820,R-1891,08/31/1999,Inactive
+"Mitchell Amos Ahrens, M.D.",Springfield,MO,65807,E-4056,06/30/2017,Active
+"Richard Henry Ahrens, Jr., M.D.",Yellville,AR,72687,C-4261,08/31/2010,Inactive
+"Richard Stanley Ahrens, M.D.",Benton,AR,,R-1509,03/01/1959,Inactive
+"Robert Charles Ahrens, M.D.",Flippin,AR,72634,C-4684,05/31/2017,Active
+"Fariha Ahsan, M.D.",Houston,TX,77057,E-7223,08/31/2016,Active
+"Mary A. Aiken, LRCP",Booneville,AR,72927,RCP-1272,11/30/2003,Inactive
+"Aimee Elizabeth Widner, M.D., PLLC ",Heber Springs,AR,72543,MC-3166,04/30/2017,Active
+"Nelson Ainsworth, LRCP",West Helena,AR,72390,RCP-0195,07/31/2016,Active
+"Armando S. Aison, OT",,UN,,OTR535,02/28/1994,Inactive
+"Gregory Allen Aitchison, M.D.",Texarkana,AR,71854,E-6301,05/31/2014,Inactive
+"Mary Elizabeth Aitken, M.D.",Little Rock,AR,72202,E-0897,04/30/2017,Active
+"Mary Elizabeth Aitken, M.D.",Little Rock,AR,72202,T96-157,09/13/1996,Inactive
+"Antoine Aizarani-Hallak, M.D.",Hot Springs,AR,71913,E-3355,08/31/2005,Inactive
+"Antoine Aizarani-Hallak, M.D.",Hot Springs,AR,71913,T2002-072,08/09/2002,Inactive
+"Ali Ajam, M.D.",Dublin,OH,43016,E-4643,06/30/2010,Inactive
+"Ghaith Ajamoughli, M.D.",Southside,AL,35907,C-8012,03/01/1998,Inactive
+"Bamidele Anuoluwa Ajayi, M.D.",Memphis,TN,38104,E-3356,09/30/2011,Inactive
+"Oluyemi Adebowale Ajayi, M.D.",Saint Cloud,MN,56301,E-7730,10/31/2014,Inactive
+"Akinyinka Abidemi Ajelabi, M.D.",Hot Springs,AR,71901,,,Inactive
+"Alfred Godwin Ejovi Ajise, M.D.",New York,NY,10016,E-6671,09/30/2011,Inactive
+"Alfred Godwin Ejovi Ajise, M.D.",New York,NY,10016,T2010-155,10/08/2010,Inactive
+"Anita Akbar Ali, M.D.",Little Rock,AR,72201,E-7909,06/30/2016,Active
+"Shellie L. Akbar, LRCP",Benton,AR,72019,RCP-2780,01/31/2017,Active
+"Mehmet Sertac Akdol, M.D.",Little Rock,AR,72223,E-6672,10/08/2016,Active
+"Noel McBradley Akers, M.D.",Dallas,TX,75219,C-1155,,Inactive
+"Churchill Arobonosen Akhigbe, M.D.",Marion,AR,72364,E-5766,05/31/2017,Active
+"Churchill Arobonosen Akhigbe, M.D.",Marion,AR,72364,T2008-127,10/03/2008,Inactive
+"Atif Mahmood Akhtar, M.D.",Conway,AR,72034,E-3145,02/28/2017,Active
+"Syed Usama Akhtar, M.D.",Beaumont,TX,77702,E-2084,05/12/2000,Inactive
+"Erum Naz Akhter, M.D.",Fort Smith,AR,72903,E-1600,11/30/2005,Inactive
+"Brandi L. Akin, OT",Pottsville,AR,72858,OTR2291,12/31/2016,Active
+"Brandi L. Akin, OT",Pottsville,AR,72858,O-T0938,11/21/2009,Inactive
+"Charles Ray Akin, M.D.",Bentonville,AR,72712,C-6364,12/31/2016,Active
+"Eric David Akin, M.D.",North Little Rock,AR,72116,E-3685,04/30/2010,Inactive
+"Gordon Clay Akin, M.D.",Hot Springs,AR,71901,C-6365,12/31/2016,Active
+"Gordon Clay Akin, M.D.",Hot Springs,AR,71901,T2013-028,06/07/2013,Inactive
+"Gordon Clay Akin, M.D.",Hot Springs,AR,71901,C-6365,03/01/1994,Inactive
+"Judith Blevins Akin, M.D.",Nashville,TN,37212,C-7049,03/31/2017,Active
+"Jack Odie Akins, M.D.",,,,C-1472,,Inactive
+"John Parrish Akins, Jr., M.D.",Hanover,AR,72560,E-6886,04/30/2017,Active
+"Richard Nevin Akins, M.D.",Little Rock,AR,72205,R-3809,03/01/1991,Inactive
+"Robert Arthur Akins, M.D.",Sioux Falls,SD,57108,C-6127,07/31/2012,Deceased
+"Steven Lee Akins, M.D.",Memphis,TN,38104,R-4081,03/01/1996,Inactive
+"Victoria Akins, M.D.",Little Rock,AR,72205,C-7803,08/31/2015,Inactive
+"Nabil Akkad, M.D.",Fort Smith,AR,72901,E-0338,12/31/2016,Active
+"Kalyan Chowdary Akkineni, M.D.",Fort Smith,AR,72916,E-5691,10/31/2016,Active
+"Kalyan Chowdary Akkineni, M.D.",Fort Smith,AR,72916,T2008-067,08/08/2008,Inactive
+"Nuri Ilker Akkus, M.D.",Benton,LA,71006,E-3259,02/28/2017,Active
+"Jason Ashkan Akrami, M.D.",Eden Prairie,MN,55344,E-8872,10/31/2016,Active
+"Mohammad Mahmoud Al Madani, M.D.",Fort Smith,AR,72901,E-9099,10/31/2016,Active
+"Mohammad Mahmoud Al Madani, M.D.",Fort Smith,AR,72901,T2015-014,04/10/2015,Inactive
+"Al Thomas, M.D., P.A.",Hot Springs,AR,71913,MC-0797,07/31/2008,Inactive
+"Mohammad Rafic Al-Ajam, M.D.",Staten Island,NY,10304,E-4953,06/30/2010,Inactive
+"Mohammad Rafic Al-Ajam, M.D.",Staten Island,NY,10304,T2006-108,10/06/2006,Inactive
+"Amr Farid Al-Bacil, M.D.",Wausau,WI,54403,E-4577,03/31/2017,Active
+"Halah Al-Dadah, M.D.",Hot Springs,AR,71903,E-5541,11/30/2016,Active
+"Halah Al-Dadah, M.D.",Hot Springs,AR,71903,T2008-010,04/04/2008,Inactive
+"Emad A.M.M. Al-Ghussain, M.D.",Fort Smith,AR,72917-7000,E-0339,06/30/2017,Active
+"Mohammed Haider Al-Haider, M.D.",Tulsa,OK,74136,E-8794,02/28/2017,Active
+"Mohammed Haider Al-Haider, M.D.",Tulsa,OK,74136,E-8794,09/18/2015,Inactive
+"Ammar Al-Hallak, M.D.",Jonesboro,AR,72401,E-2374,08/31/2016,Active
+"Malek Al-Hawwas, M.D.",Little Rock,AR,72205,E-9084,05/31/2017,Active
+"Ahmad Y. Al-Hindi, M.D.",Jonesboro,AR,72401,E-7009,12/31/2016,Active
+"Ahmad Y. Al-Hindi, M.D.",Jonesboro,AR,72401,T2011-047,06/10/2011,Inactive
+"Jomana Tayseer Al-Hinti, M.D.",Little Rock,AR,72205,E-4129,03/31/2011,Inactive
+"Jomana Tayseer Al-Hinti, M.D.",Little Rock,AR,72205,T2004-064,08/27/2004,Inactive
+"Ahmad Samer Al-Homsi, M.D.",Harvard,MA,01451,,,Inactive
+"Amar Al-Juburi, M.D.",Rancho Cordova,CA,95742,E-2375,11/30/2009,Inactive
+"Amer Zeki Al-Juburi, M.D.",Fairfax,VA,22030,R-3598,12/31/2016,Active
+"Amer Zeki Al-Juburi, M.D.",Fairfax,VA,22030,R-3598,12/31/1999,Inactive
+"Ahmad Al-Khatib, M.D.",Bentonville,AR,72712,E-5294,04/30/2017,Active
+"Tawfiq Al-Lahham, M.D.",Little Rock,AR,72205,E-6390,07/31/2017,Active
+"Ossama Al-Mefty, M.D.",Boston,MA,02115,R-4489,04/30/2017,Active
+"Ghanem Al-Mounajed, M.D.",Flint,MI,48532,E-0515,01/31/2001,Inactive
+"Ali Bassam Al-Nashif, M.D.",White Hall,AR,71602,E-2681,04/30/2017,Active
+"Malik Anas Al-Omari, M.D.",Memphis,TN,38103,E-8328,05/31/2014,Inactive
+"Malik Anas Al-Omari, M.D.",Memphis,TN,38103,T2013-149,12/06/2013,Inactive
+"Samer Zakariyya Al-Quran, M.D.",Gainesville,FL,32606,,,Inactive
+"Kamal Hosni Al-rabi, M.D.",Woodland Park,NJ,07424,E-8020,06/30/2014,Inactive
+"Fareeda Ann Al-Refai, M.D.",Fort Smith,AR,72901,C-8342,07/31/2017,Active
+"Mohamed Hani Al-Sabban, M.D.",Terre Haute,IN,47802,E-0071,03/01/1995,Inactive
+"Mohammad Maher Al-Sayyad, M.D.",Abilene,TX,79601,E-0418,03/31/2017,Active
+"Rabia Al-Sbaiti, M.D.",Morrilton,AR,72110,E-2829,04/30/2005,Inactive
+"Hania Ziad Al-Shahrouri, M.D.",Fort Smith,AR,72901,E-7274,11/30/2016,Active
+"Yousef Al-Shraideh, M.D.",Blytheville,AR,72315,,,Active
+"Mohammed Al-Taher, M.D.",Bartlett,TN,38134,E-3044,01/31/2017,Active
+"Hatem Arafat Al-Takrouri, M.D.",Plano,TX,75074,E-2830,07/31/2017,Active
+"Alan Michael Alabaster, M.D.",Memphis,TN,38119,R-3766,07/31/2014,Inactive
+"Gladys Micaela Gloria Alagcan, OT",Searcy,AR,72143,OTR1906,04/30/2005,Inactive
+"Gladys Micaela Gloria Alagcan, OT",Searcy,AR,72143,O-T0318,01/28/2004,Inactive
+"Gladys Micaela Gloria Alagcan, OT",Searcy,AR,72143,O-T0384,06/30/2004,Inactive
+"Hassan Alakshar, M.D.",Pine Bluff,AR,71603,E-8929,01/31/2017,Active
+"Hassan Alakshar, M.D.",Pine Bluff,AR,71603,T2014-145,12/05/2014,Inactive
+"Ejaz Alam, M.D.",Ellisville,MO,63021,E-4578,08/31/2016,Active
+"Ejaz Alam, M.D.",Ellisville,MO,63021,T2005-141,10/07/2005,Inactive
+"Mansoor Alam, M.D.",Bentonville,AR,72712,E-7076,12/31/2016,Active
+"Mansoor Alam, M.D.",Bentonville,AR,72712,T2011-049,06/10/2011,Inactive
+"Mohammad Saiful Alam, M.D.",Talihina,OK,76571,E-2146,08/31/2004,Inactive
+"Muhammad Gohar Alam, M.D.",Little Rock,AR,72205,E-2018,07/31/2016,Active
+"Shamsul Alam, M.D.",Bentonville,AR,72712,E-4954,09/30/2016,Active
+"Shamsul Alam, M.D.",Bentonville,AR,72712,T2006-111,10/06/2006,Inactive
+"Shikder Mohammad Golam Kibriaul Alam, M.D.",Manitoba,,,E-4130,01/31/2005,Inactive
+"Shoaib Alam, M.D.",Little Rock,AR,72223,E-9458,11/30/2016,Active
+"Shoaib Alam, M.D.",Little Rock,AR,72223,T2015-103,12/04/2015,Inactive
+"Alan Atkins, M.D., P.A.",Little Rock,AR,72211,MC-1530,12/31/1995,Inactive
+"Alan Hughes, M.D., P.A.",Benton,AR,72015,MC-1640,01/31/2017,Active
+"Dianna C. Alaniz, OT",Springdale,AR,72764,OTR874,05/31/2017,Active
+"Maria Andrea Racelis Alano, M.D.",Youngsville,LA,70592,E-8827,09/30/2016,Active
+"Daisy Varunni Alapat, M.D.",Little Rock,AR,72202,E-6239,02/28/2017,Active
+"Sindhura Alapati, M.D.",Little Rock,AR,72205,E-9109,01/31/2017,Active
+"John Joseph Alarcon, M.D.",Goodlettsville,TN,37072,E-7677,02/28/2017,Active
+"Said M. Alasfar, M.D.",Little Rock,AR,72227,E-2738,05/31/2002,Inactive
+"Motaz Albahra, M.D.",Longview,TX,75601,,,Inactive
+"Norman Paez Albao, OT",Fort Smith,AR,72904,OTR591,08/31/1995,Inactive
+"Hassan Najeeb Albataineh, M.D.",Mountain Home,AR,72653,E-4131,02/29/2008,Inactive
+"Hassan Najeeb Albataineh, M.D.",Mountain Home,AR,72653,T2004-030,08/27/2004,Inactive
+"Jehad Albataineh, M.D.",Little Rock,AR,72205-7199,E-2895,05/31/2007,Inactive
+"Bhavika Pravin Albee, M.D.",Jonesboro,AR,72401,E-8384,12/31/2016,Active
+"Bhavika Pravin Albee, M.D.",Jonesboro,AR,72401,E-8384,09/18/2015,Inactive
+"Bhavika Pravin Albee, M.D.",Jonesboro,AR,72401,T2013-176,12/06/2013,Inactive
+"Ted Richard Alber, M.D.",Cordova,TN,38018,E-0895,09/30/1999,Inactive
+"David George Albers, M.D.",Fort Smith,AR,72917-0705,R-2749,02/29/2012,Inactive
+"Melissa Kay Albers, M.D.",Fort Smith,AR,72903,E-7447,02/28/2017,Active
+"Samuel Paul Albers, OT",Greenbrier,AR,72058,OTR1683,10/31/2002,Inactive
+"Samuel Paul Albers, OT",Greenbrier,AR,72058,O-T0140,06/20/2001,Inactive
+"Samuel Paul Albers, OT",Greenbrier,AR,72058,O-T0158,10/18/2001,Inactive
+"Amanda Elizabeth Alberson, LRCP",Rector,AR,72461,RCP-1994,01/31/2011,Inactive
+"Stacy Alberson, OT",North Little Rock,AR,72118,OTR1186,06/30/2017,Active
+"Albert Reed Thompson, M.D., P.A.",Little Rock,AR,72205,MC-0773,12/31/1994,Inactive
+"Gregory William Albert, M.D.",Little Rock,AR,72202,E-7062,11/30/2016,Active
+"Richard William Albert, M.D.",Washington,DC,20009,,,Inactive
+"Christopher Michael Albertson, M.D.",Fort Smith,AR,72903,E-3146,04/30/2017,Active
+"Christy Leigh Albertson, OT",Cabot,AR,72023,OTR1437,09/30/2016,Active
+"Christy Leigh Albertson, OT",Cabot,AR,72023,O-T9938,06/15/1999,Inactive
+"Gary Roger Albertson, D.O.",Monahans,TX,79756,N-6965,11/30/2000,Inactive
+"Bernadette Audra Alberty, M.D.",Fayetteville,AR,72703,E-1792,06/30/2017,Active
+"Brett Lane Alberty, M.D.",Little Rock,AR,72201,E-5295,10/31/2016,Active
+"Joe Paul Alberty, M.D.",Fort Smith,AR,72903,C-3385,06/30/2011,Inactive
+"Mark Edward Albey, M.D.",Benton,AR,72015,C-8224,02/28/2017,Active
+"Otmar Wolf Albrand, M.D.",Ogden,UT,84405-6978,R-2415,03/01/1994,Inactive
+"Tammy G. Albrecht, M.D.",Berryville,AR,72616,E-2456,08/31/2004,Inactive
+"Harry Russell Albright, M.D.",,,,C-2916,,Inactive
+"Martin  Neal Albright, Sr., LRCP",Lowell,AR,72745,RCP-3542,07/31/2017,Active
+"Nancy  Jane Albright, OT",Overland Park,KS,66224,OTR2593,04/30/2014,Inactive
+"Spencer Delancey Albright, III, M.D.",Fayetteville,AR,72703,R-1777,03/01/1992,Inactive
+"Lamar Jerome Albritton, M.D.",San Antonio,TX,78229,C-6034,03/01/1992,Inactive
+"Megan Christine Alcauskas, M.D.",Nashville,TN,37203,E-7639,09/30/2016,Active
+"Megan Christine Alcauskas, M.D.",Nashville,TN,37203,T2012-057,08/03/2012,Inactive
+"Ammah Lois Alcazar, OT",Harrison,AR,72602-0841,,,Inactive
+"Merritt Oakney Alcorn, Jr., M.D.",Madison,IN,47250,C-2130,03/01/1994,Inactive
+"Nedil Aldarondo-Antonini, M.D.",Fort Smith,AR,72903,E-9369,06/30/2017,Active
+"Ivan Omar Aldea, M.D.",Little Rock,AR,72211,E-8021,07/31/2017,Active
+"Timothy Leslie Alder, M.D.",Honolulu,HI,96821,E-5617,03/31/2017,Active
+"Carlisle Julianna Alderink, M.D.",Fort Smith,AR,72917,E-1601,01/31/2017,Active
+"Roger Willis Alderson, M.D.",Fort Smith,AR,72908,C-7239,06/30/2017,Active
+"Thomas Paul Alderson, M.D.",Lake Charles,LA,70605,C-6332,03/01/1991,Inactive
+"Joseph Albert Aldrich, D.O.",Siloam Springs,AR,72761,E-2419,08/31/2016,Active
+"Joseph Albert Aldrich, D.O.",Siloam Springs,AR,72761,T99-125,02/04/2000,Inactive
+"Brenda Venita Aldridge, OT",Little Rock,AR,72205,OTR771,02/28/2017,Active
+"Rebecca Marie Aleck, D.O.",Bella Vista,AR,72715,E-9279,09/30/2016,Active
+"Santiago JM B. Alejandre, OT",Springfield,MO,65807,,,Inactive
+"Angelina Alejandrino, M.D.",Ardmore,TN,38449,E-1932,02/29/2004,Inactive
+"Jose Antonio Alemparte, M.D.",Fort Smith,AR,72901,E-2896,10/31/2016,Active
+"Karla Kay Alenduff, OT",Lakeview,AR,72642,OTR2676,01/31/2017,Active
+"Maher Alesali, M.D.",White Hall,AR,71602,E-2897,09/30/2016,Active
+"Maher Alesali, M.D.",White Hall,AR,71602,T2001-040,06/15/2001,Inactive
+"Joseph Patrick Alesnik, M.D.",Bradenton,FL,34208,E-8084,03/31/2017,Active
+"Joseph Patrick Alesnik, M.D.",Bradenton,FL,34208,T2013-046,08/02/2013,Inactive
+"Sumith Chander Reddy Aleti, M.D.",Anastasia Island,FL,32080,E-5618,05/31/2015,Inactive
+"Sumith Chander Reddy Aleti, M.D.",Anastasia Island,FL,32080,T2008-034,06/06/2008,Inactive
+"Alex Endocrine Associates, PA,  ",Rogers,AR,72758,MC-2597,11/30/2016,Active
+"Nadine Helen Alex, M.D.",Rogers,AR,72758,E-4690,07/31/2017,Active
+"Nadine Helen Alex, M.D.",Rogers,AR,72758,T2005-157,02/03/2006,Inactive
+"Alexander Ali Tyler-Hashemi, M,D., P.L.L.C.,  ",Conway,AR,72034,MC-2849,09/30/2015,Inactive
+"Albert Sherrill Alexander, M.D.",Little Rock,AR,72205,C-7050,01/31/2017,Active
+"Alice Anne Price Alexander, M.D.",Little Rock,AR,72205,E-6887,02/28/2017,Active
+"Brian Wallace Alexander, M.D.",Little Rock,AR,72211,C-6718,08/31/2016,Active
+"Brittany C. Alexander, OT-A",Camden,AR,71701,OT-A497,03/31/2017,Active
+"Brittany C. Alexander, OT-A",Camden,AR,71701,O-T0755,12/30/2007,Inactive
+"Cathy Alexander, LRCP",Heber Springs,AR,72543,RCP-1096,01/31/2017,Active
+"Charles Edward Alexander, M.D.",Kansas City,KS,66101,C-4358,03/01/1992,Inactive
+"Edward Greenwood Alexander, Jr., M.D.",Oklahoma City,OK,73101,E-7294,05/31/2014,Inactive
+"Edward Greenwood Alexander, Jr., M.D.",Oklahoma City,OK,73101,T2011-092,12/02/2011,Inactive
+"Eugene Hale Alexander, D.O.",Fort Smith,AR,72913,N-7399,06/30/2017,Active
+"George Ludovie Alexander, Jr., M.D.",,,,C-2447,,Inactive
+"James Craig Alexander, M.D.",Carmel,IN,46032,E-8217,10/31/2016,Active
+"James Craig Alexander, M.D.",Carmel,IN,46032,T2013-096,10/04/2013,Inactive
+"James Edward Alexander, M.D.",Hot Springs,AR,71901,C-5027,03/01/1991,Inactive
+"James Garfield Alexander, Jr., M.D.",West Memphis,AR,72301,R-3562,10/31/2010,Inactive
+"James Morrell Alexander, M.D.",Chicago,IL,60602,R-1883,,Inactive
+"Jan Elizabeth Alexander, M.D.",Jacksonville,AR,72076,E-5619,09/30/2016,Active
+"John Davidson Alexander, M.D.",Texarkana,TX,75503,R-1932,12/31/2000,Inactive
+"John Edward Alexander, M.D.",Magnolia,AR,71753,C-2367,03/31/2011,Inactive
+"John Edward Alexander, Jr., M.D.",Magnolia,AR,71754,C-5751,06/30/2017,Active
+"Lester Trulie Alexander, M.D.",Pine Bluff,AR,71601,C-5865,08/31/2016,Active
+"Marsha Ward Alexander, OT",Jonesboro,AR,72404,OTR1506,12/31/2002,Inactive
+"Mary Kay Alexander, OT",Mena,AR,71953,OTR1808,11/30/2016,Active
+"Meyer Samuel Alexander, M.D.",,,,C-575,,Inactive
+"Richard Kent Alexander, M.D.",Fort Smith,AR,72901,R-2151,03/31/2011,Inactive
+"Richmond Lavern Alexander, III, M.D.",Dallas,TX,75230,R-3254,,Inactive
+"Robert Mark Alexander, LRCP",Pierce City,MO,65723,RCP-2303,05/31/2009,Inactive
+"Robert Newton Alexander, M.D.",,,,R-1451,,Inactive
+"Scott Alan Alexander, M.D.",Santa Monica,CA,90404,E-5620,10/31/2009,Inactive
+"Scott Alan Alexander, M.D.",Santa Monica,CA,90404,T2008-041,06/06/2008,Inactive
+"Susan Gambill Alexander, OT",Jonesboro,AR,72404,OTR618,03/31/2003,Inactive
+"Tiarra  La Shae Alexander, LRCP",Jacksonville,AR,72076,RCP-3458,01/31/2017,Active
+"Whitney Smith Alexander, M.D.",Bentonville,AR,72712,E-5499,10/31/2016,Active
+"William Jackson Alexander, III, M.D.",Denver,CO,80211,C-4908,06/30/2002,Inactive
+"William Stephen Alexander, M.D.",Batesville,AR,72501,C-6366,03/31/2017,Active
+"Jerri Alley Alexiou, M.D.",Little Rock,AR,72205,E-1603,08/31/2001,Inactive
+"Michael A. Alexiou, M.D.",Little Rock,AR,72207,E-1602,01/31/2001,Inactive
+"Thomas Gene Alfano, M.D.",Paradise Valley,AZ,85253,E-1347,10/31/2016,Active
+"Thomas Gene Alfano, M.D.",Paradise Valley,AZ,85253,E-1347,10/31/2000,Inactive
+"Thomas Gene Alfano, M.D.",Paradise Valley,AZ,85253,T97-147,09/12/1997,Inactive
+"Mayra Ivelisse Alfonso-Rivera, M.D.",El Dorado,AR,71730,E-3753,10/31/2007,Inactive
+"Mayra Ivelisse Alfonso-Rivera, M.D.",El Dorado,AR,71730,T2003-080,08/08/2003,Inactive
+"Alford Eye Clinic, Ltd.",Little Rock,AR,72205,MC-0386,12/31/1996,Inactive
+"Charlene Alford, D.O.",New Port Richey,FL,34652,E-0717,12/31/2004,Inactive
+"Julie Ann Alford, M.D.",Springfield,MO,65807,E-3511,01/31/2017,Active
+"Julie Ann Alford, M.D.",Springfield,MO,65807,T2002-092,12/06/2002,Inactive
+"Thomas Dale Alford, M.D.",Little Rock,AR,72205,C-1424,03/01/1998,Inactive
+"Wyatt Robert Algee, Jr., M.D.",Dyersburg,TN,38024,R-4692,06/30/2009,Inactive
+"Mohammed Abdulwahab Alhajji, M.D.",Jonesboro,AR,72401,E-8099,05/31/2017,Active
+"Hussam Hamdan Alhawari, M.D.",Little Rock,AR,72211,E-5222,01/31/2010,Inactive
+"Hussein Hamdan Alhawari, M.D.",West Plains,MO,65775,E-5223,01/31/2010,Inactive
+"Abbas Khider Ali, M.D.",Danville,PA,17822,E-6821,07/31/2016,Active
+"Abbas Khider Ali, M.D.",Danville,PA,17822,T2010-063,08/06/2010,Inactive
+"Ahmed Abdelbasset Ali, M.D.",Conway,AR,72034,E-7341,05/31/2017,Active
+"Ahmed Abdelbasset Ali, M.D.",Conway,AR,72034,T2012-001,02/03/2012,Inactive
+"Ahsan Turab Ali, M.D.",Little Rock,AR,72205,E-3881,12/31/2016,Active
+"Ahsan Turab Ali, M.D.",Little Rock,AR,72205,T2003-099,12/05/2003,Inactive
+"Cina Joseph Ali, M.D.",Jonesboro,AR,72401,E-6888,10/31/2016,Active
+"Mahmood Ali, M.D.",Memphis,TN,38111,E-0896,04/30/2017,Active
+"Mahmood Ali, M.D.",Canton,TX,75103,E-1507,01/31/2000,Inactive
+"Mahmood Ali, M.D.",Canton,TX,75103,T97-193,12/05/1997,Inactive
+"Muhammad Mobeen Ali, M.D.",Lynn Haven,FL,32444,E-7773,03/31/2016,Inactive
+"Muhammad Mobeen Ali, M.D.",Lynn Haven,FL,32444,T2012-088,12/07/2012,Inactive
+"Sheharyar Ali, M.D.",Midwest City,OK,73130,E-6059,03/31/2017,Active
+"Sheharyar Ali, M.D.",Midwest City,OK,73130,T2009-055,06/05/2009,Inactive
+"Syed Abbas Ali, M.D.",Jasper,AL,35501,E-5434,12/31/2011,Inactive
+"Syed Abbas Ali, M.D.",Jasper,AL,35501,T2007-175,12/07/2007,Inactive
+"Syed Mujtaba Ali, M.D.",Dallas,TX,75218,E-6240,04/30/2017,Active
+"Tayyeba Kanwal Ali, M.D.",Little Rock,AR,72205,E-7842,05/31/2017,Active
+"Alice Davidson, M.D., P.A.",Little Rock,AR,72212,MC-0531,11/30/2003,Inactive
+"Venkata Ramana Aligeti, M.D.",Memphis,TN,38105,,,Inactive
+"Mohammed Alkhateeb, M.D.",Cordova,TN,38018,C-8531,04/20/2000,Inactive
+"Carey Christian Alkire, M.D.",Texarkana,TX,75503,R-3615,02/28/2017,Active
+"Allam A. Alkowatli, M.D.",Little Rock,AR,72211,E-2545,10/31/2016,Active
+"All About You Aesthetics, PLLC,  ",Stuttgart,AR,72160,MC-2810,12/31/2016,Active
+"All For Kids Pediatric Clinic, P.A.",West Monroe,LA,71291,MC-1168,12/31/1993,Inactive
+"Sarada Alla, M.D.",Memphis,TN,38103,E-9706,08/31/2016,Active
+"Allan B. Hatch, M.D., P.A.,  ",Benton,AR,72019,MC-2528,11/30/2016,Active
+"Allan C. Gocio, M.D., P.A.",Hot Springs,AR,71913,MC-1615,12/31/2000,Inactive
+"David Allan, M.D.",Hot Springs,AR,,R-2273,,Inactive
+"James Ray Allan, M.D.",Shelbina,MO,63468,R-2581,12/31/1999,Inactive
+"Michael Christian Allan, M.D.",Chattanooga,TN,37415,E-4897,01/31/2008,Inactive
+"Michael Christian Allan, M.D.",Chattanooga,TN,37415,T2006-085,08/04/2006,Inactive
+"Mark Michael Allard, M.D.",Springdale,AR,72764,C-8102,09/30/2016,Active
+"Raymond Phillip Allard, D.O.",Thief River Falls,MN,56701,,,Inactive
+"Shahzad Saeed Allawala, M.D.",Desoto,TX,75123,E-4303,04/30/2017,Active
+"Rita Keith Allbright, M.D.",Little Rock,AR,72201,E-1793,10/31/2016,Active
+"Adam Todd Allbritton, OT",Greenbrier,AR,72058,OTR1665,04/30/2017,Active
+"Adam Todd Allbritton, OT",Greenbrier,AR,72058,O-T0154,10/05/2001,Inactive
+"Adam Todd Allbritton, OT",Greenbrier,AR,72058,O-T0108,06/02/2001,Inactive
+"Mary Lelia Alldread, OT",Jonesboro,AR,72401,OTR2516,05/31/2017,Active
+"Mary Lelia Alldread, OT",Jonesboro,AR,72401,O-T1210,09/29/2012,Inactive
+"Robert Earl Alleman, M.D.",Paragould,AR,72450,E-4955,07/31/2017,Active
+"Robert Earl Alleman, M.D.",Paragould,AR,72450,T2006-151,10/06/2006,Inactive
+"Tony Leon Alleman, M.D.",Haughton,LA,71037,R-3648,03/01/1989,Inactive
+"Allen R. Rozzell, M.D., P.A.,  ",Morrilton,AR,72110,MC-2003,07/31/2003,Inactive
+"Alanna Cherie Allen, PA",Corning,IA,50841,,,Active
+"Amber Janelle Allen, M.D.",Louisville,KY,40206,,,Inactive
+"Andrea McKinna Allen, M.D.",North Little Rock,AR,72116,E-9016,11/30/2016,Active
+"Andrea McKinna Allen, M.D.",North Little Rock,AR,72116,T2014-164,02/06/2015,Inactive
+"Anton Markert Allen, M.D.",Clifton Forge,VA,24422,N-6974,03/01/1991,Inactive
+"Ashley Nicole Allen, PA",Conway,AR,72034,PA-522,04/30/2017,Active
+"Ashley Nicole Allen, PA",Conway,AR,72034,P-T1329,10/04/2013,Inactive
+"Benjamin Edward Allen, M.D.",Rogers,AR,72758,E-5911,01/31/2010,Inactive
+"Bernagie Eual Allen, M.D.",Fayetteville,AR,72703,C-8225,07/31/2016,Active
+"Bobbie Jewel Allen, M.D.",Benton,AR,72019,E-5846,08/31/2016,Active
+"Charles Guy Allen, M.D.",Itasca,TX,76055,R-1227,03/01/1992,Inactive
+"Charles Smith Allen, M.D.",,,,C-384,,Inactive
+"Chelsea Amber Allen, LRCP",Corning,AR,72422,RCP-3477,11/30/2016,Active
+"Cheryl Ann Allen, LRCP",Nashville,AR,71852,RCP-1721,06/30/2012,Inactive
+"Danny H. Allen, LRCP",Eureka Springs,AR,72632,RCP-2185,08/31/2003,Inactive
+"David Bruce Allen, M.D.",Pascagoula,MS,39581,E-0257,02/28/2009,Inactive
+"David Eugene Allen, M.D.",Sonora,CA,95370,E-1794,03/31/2006,Inactive
+"David Otto Allen, M.D.",Bella Vista,AR,72714,C-2365,03/01/1992,Inactive
+"Deborah Goode Allen, M.D.",Clifton Forge,VA,24422,N-6966,03/01/1991,Inactive
+"Debra S. Allen, LRCP",Batesville,AR,72501,RCP-1413,03/01/1998,Inactive
+"Donald Lee Allen, LRCP",Claremore,OK,74017,RCP-1455,02/28/2014,Inactive
+"Durward Brooks Allen, Jr., M.D.",Little Rock,AR,72205,C-3322,01/31/2009,Inactive
+"Edward Stewert Allen, Jr., M.D.",Little Rock,AR,72207,C-2753,03/31/2004,Inactive
+"Evan  David Allen, M.D.",Reston,VA,20190,E-8592,05/31/2017,Active
+"Evan  David Allen, M.D.",Reston,VA,20190,,,Inactive
+"Evanell Allen, LRCP",Piggott,AR,72454,RCP-1472,12/31/2016,Active
+"Gary Edwin Allen, M.D.",Little Rock,AR,72205,C-8226,07/31/2016,Active
+"Gregg Philip Allen, M.D.",Franklin,TN,37067,,,Inactive
+"Gregory Carter Allen, M.D.",Pittsburgh,PA,15213-2583,C-7888,03/01/1997,Inactive
+"Gregory James Allen, M.D.",Seattle,WA,98102,N-6928,05/31/2012,Inactive
+"Gregory James Allen, M.D.",Seattle,WA,98102,N-6928,03/01/1994,Inactive
+"Harold Bradford Allen, M.D.",Marshall,AR,72650,E-5621,05/31/2017,Active
+"Henry William West Allen, IV, M.D.",Jonesboro,AR,72404,E-4228,05/31/2017,Active
+"Holly Elise Allen, OT-A",Fayetteville,AR,72702,OT-A856,02/28/2017,Active
+"Jacob Emory Allen, LRCP",Jonesboro,AR,72401,RCP-3494,10/31/2016,Active
+"James Davis Allen, M.D.",Batesville,AR,72501,C-4795,11/30/2016,Active
+"James Guy Allen, M.D.",Northridge,CA,91325,C-2204,03/01/1992,Inactive
+"Jan Allen, LRCP",Wainwright,OK,74468,RCP-3177,02/28/2011,Inactive
+"Jeffrey Warren Allen, M.D.",Memphis,TN,38104,E-5912,07/31/2012,Inactive
+"Jeffrey Warren Allen, M.D.",Memphis,TN,38104,T2009-012,02/06/2009,Inactive
+"John Edward Allen, Jr., M.D.",Little Rock,AR,72205,R-1817,09/30/2004,Inactive
+"John Melvin Allen, M.D.",Jonesboro,AR,72401,E-0514,03/31/2017,Active
+"Jon Kenly Allen, PA",Little Rock,AR,72205,PA-188,01/31/2017,Active
+"Joseph William Allen, LRCP",Gould,AR,71643,RCP-3669,04/30/2017,Active
+"Julia Lee Allen, M.D.",Batesville,AR,72501,E-1857,03/31/2017,Active
+"Justin William Allen, M.D.",Jonesboro,AR,72401,E-9606,11/30/2016,Active
+"Katelyn Brook Allen, LRCP",Wynne,AR,72396,RCP-3631,02/28/2017,Active
+"Kattie Jo Allen, M.D.",Bentonville,AR,72712,E-7618,09/30/2016,Active
+"Laurie Ann Allen, PA",Rogers,AR,72758,PA-538,03/31/2017,Active
+"Laurie Ann Allen, PA",Rogers,AR,72758,P-T1403,02/07/2014,Inactive
+"Lewis George Allen, M.D.",Franklin,AR,72536,R-2905,03/01/1994,Inactive
+"Liesa Jones Allen, OT-A",Philadelphia,MS,39350,OT-A743,09/30/2014,Inactive
+"Loren Barry Allen, M.D.",Rogers,AR,72756,C-4685,12/31/2016,Active
+"Marion Bond Allen, M.D.",,,,C-1479,,Inactive
+"Marshall Allen, M.D.",,,,R-298,,Inactive
+"Nancy L. Allen, LRCP",Flippin,AR,72634,RCP-1663,04/30/2015,Inactive
+"Rachel Rae Allen, LRCP",Judsonia,AR,72081,RCP-3183,02/28/2017,Active
+"Rachel Rae Allen, LRCP",Judsonia,AR,72081,R-T0961,06/21/2010,Inactive
+"Rebecca Sue Allen, LRCP",North Little Rock,AR,72118,RCP-3677,07/31/2017,Active
+"Robert Brock Allen, M.D.",Jonesboro,AR,72401,C-6367,01/31/2017,Active
+"Robert Charles Allen, M.D.",San Antonio,TX,78258,R-4032,03/01/1991,Inactive
+"Robert Wayne Allen, LRCP",Siloam Springs,AR,72761,RCP-3351,09/30/2016,Active
+"Samuel Lloyd Allen, M.D.",Kansas City,MO,64151,R-1477,03/01/1991,Inactive
+"Sandra Mae Allen, LRCP",Harrison,AR,72601,RCP-0624,11/30/2006,Inactive
+"Teressia Allen, OT-A",El Dorado,AR,71730,OT-A389,06/30/2016,Active
+"Teressia Allen, OT-A",El Dorado,AR,71730,O-T0263,01/07/2003,Inactive
+"Terica Lendell Allen, LRCP",Piggott,AR,72454,RCP-2201,09/30/2016,Active
+"Terica Lendell Allen, LRCP",Piggott,AR,72454,R-T0212,08/28/2002,Inactive
+"Terica Lendell Allen, LRCP",Piggott,AR,72454,R-T0279,02/28/2003,Inactive
+"Thomas Hugh Allen, M.D.",Little Rock,AR,72207,C-2843,03/01/1998,Inactive
+"Victor Kirkpatrick Allen, M.D.",,,,R-342,,Inactive
+"William Cooper Allen, M.D.",Lexington,KY,40513,,,Inactive
+"William Lawson Allen, Jr., M.D.",Roland,AR,72135,C-5028,06/30/2008,Inactive
+"William Michael Allen, M.D.",Bentonville,AR,72712,R-3669,09/30/2016,Active
+"Ada B. Allensworth, LRCP",Osceola,AR,72370,RCP-0001,03/01/1994,Inactive
+"Allergy Associates, P.A.",Little Rock,AR,72205,MC-0061,12/31/1992,Inactive
+"Allergy Clinic, P.A.",Jonesboro,AR,72401,MC-1492,12/31/2016,Active
+"John William Allgood, Jr., M.D.",Jonesboro,AR,72401,E-2457,08/31/2016,Active
+"Alliance Senior Health, PLLC, ",West Memphis,AR,72301,MC-3065,09/30/2015,Inactive
+"Kristin Mary Alline, M.D.",Little Rock,AR,72205-7199,E-1348,10/31/2002,Inactive
+"Kristin Mary Alline, M.D.",Little Rock,AR,72205-7199,T97-148,09/12/1997,Inactive
+"Edward K. Allis, Jr., M.D.",,,,C-1474,,Inactive
+"Christine Marie Allison, OT",Conway,AR,72034,OTR2112,07/31/2008,Inactive
+"Christine Marie Allison, OT",Conway,AR,72034,O-T0639,12/30/2006,Inactive
+"David Brasie Allison, M.D.",Brandon,MS,39042,R-2642,,Inactive
+"David William Allison, M.D.",Stockbridge,GA,30281,E-6673,11/30/2016,Active
+"Debra A. Allison, LRCP",Vilonia,AR,72173,RCP-0826,09/30/2016,Active
+"Farris Peel Allison, M.D.",,,,C-1156,,Inactive
+"Jack Randolph Allison, M.D.",Little Rock,AR,72204,R-2505,,Inactive
+"Jennifer Lee Allison, OT-A",Paragould,AR,72450,OT-A955,09/30/2016,Active
+"Jennifer Lee Allison, OT-A",Paragould,AR,72450,OT2015-004,05/08/2015,Inactive
+"Leroy Scott Allison, D.O.",Bartlesville,OK,74003,E-7231,10/31/2012,Inactive
+"Lynn Elmer Allison, M.D.",Hollister,MO,65672,E-2376,02/28/2005,Inactive
+"Penelope L. Allison, LRCP",Paragould,AR,72450,RCP-1025,03/01/1998,Inactive
+"Russell Bryan Allison, M.D.",Russellville,AR,72801,C-8413,02/28/2017,Active
+"Walter Murray Allison, III, M.D.",Amarillo,TX,79106,R-1919,03/01/1994,Inactive
+"Kelsey Lane Allman, OT-A",Piggott,AR,72454,OT-A1029,05/31/2017,Active
+"Kelsey Lane Allman, OT-A",Piggott,AR,72454,OT2015-043,04/06/2016,Inactive
+"Sheldon Mark Allman, LRCP",Magnolia,AR,71753,RCP-2563,09/30/2016,Active
+"Murali M. Alloju, M.D.",Greenville,MS,38703,E-2377,03/31/2000,Inactive
+"Murali M. Alloju, M.D.",Greenville,MS,38703,T99-068,12/10/1999,Inactive
+"Frederick William Allport, M.D.",Las Vegas,NV,89134,R-4115,07/31/2002,Inactive
+"Alisha  Renae Allred, LRCP",Sherwood,AR,72120,RCP-3434,05/31/2015,Inactive
+"Insaf Ally, M.D.",Dallas,TX,75225,,,Inactive
+"Philip Joseph Almaden, M.D.",Springdale,AR,72764,C-1751,03/01/1991,Inactive
+"Jeff D. Almand, M.D.",Jackson,MS,39202,E-1349,02/28/2017,Active
+"Wedad Almasri, M.D.",Crossett,AR,71635,E-4057,06/30/2009,Inactive
+"Cathy Almeida, OT",,UN,,,,Inactive
+"Michelle L. Almeida, OT-A",New Bedford,MA,02740,OT-A272,01/31/1998,Inactive
+"Ahmed Abdulhafeez Almomani, M.D.",Little Rock,AR,72205,E-8795,02/28/2017,Active
+"Cynthia Carol Almond, M.D.",Fort Smith,AR,72903,C-5556,07/31/2012,Inactive
+"Jeffrey Stewart Almony, M.D.",Little Rock,AR,72212,E-3632,02/28/2005,Inactive
+"Pablo Mauricio Almuna Fernandez, M.D.",Forrest City,AR,72335,E-7702,07/31/2017,Active
+"Mousab O. Almusaddy, M.D.",Goodlettsville,TN,37072,E-4898,09/30/2016,Active
+"Jeffrey Barton Alpern, D.O.",Glendale,AZ,85308,E-6480,08/31/2016,Active
+"Jeffrey Barton Alpern, D.O.",Glendale,AZ,85308,T2010-017,06/04/2010,Inactive
+"Bruce Stephen Alpert, M.D.",Memphis,TN,38120,R-3757,08/31/2014,Inactive
+"Jessica Leigh Alphin, LRCP",Pocahontas,AR,72455,RCP-3012,04/30/2017,Active
+"Jessica Leigh Alphin, LRCP",Pocahontas,AR,72455,R-T0365,12/16/2003,Inactive
+"Jessica Leigh Alphin, LRCP",Pocahontas,AR,72455,R-T0400,06/15/2004,Inactive
+"Abeer Said Alqaisi, M.D.",Little Rock,AR,72212,E-5908,11/30/2010,Inactive
+"Abeer Said Alqaisi, M.D.",Little Rock,AR,72212,T2008-137,12/05/2008,Inactive
+"Karen Suzanne Alred, LRCP",Bismarck,AR,71929,RCP-3815,09/30/2016,Active
+"Basem Zafer Alsaati, M.D.",Little Rock,AR,72202,,,Inactive
+"Yaser Alsaek, M.D.",Germantown,TN,38139,E-5692,01/31/2015,Inactive
+"Yaser Alsaek, M.D.",Germantown,TN,38139,T2008-060,08/08/2008,Inactive
+"Shadwan F. Alsafwah, M.D.",Germantown,TN,38139,E-7134,08/31/2016,Active
+"Yazan Alsayed, M.D.",Little Rock,AR,72223,E-4815,12/31/2011,Inactive
+"Yazan Alsayed, M.D.",Little Rock,AR,72223,T2006-075,06/09/2006,Inactive
+"Tamer Alsebai, M.D.",Little Rock,AR,72205,E-2787,02/28/2017,Active
+"Tarek Ahmed Alshafie, M.D.",Little Rock,AR,72223,E-3045,04/30/2004,Inactive
+"Ayman A. Alshami, M.D.",Pine Bluff,AR,71603,E-1795,07/31/2016,Active
+"Mohammad M. Alsolaiman, M.D.",Lindon,UT,84042,E-3686,05/31/2004,Inactive
+"Mohammad Alsoub, M.D.",Little Rock,AR,72227,E-3357,03/31/2004,Inactive
+"Allie Breanne Alspaugh, OT-A",El Dorado,AR,71730,OT-A727,03/31/2017,Active
+"Allie Breanne Alspaugh, OT-A",El Dorado,AR,71730,O-T1221,12/19/2012,Inactive
+"Herman Dewey Alston, Jr., M.D.",Jonesboro,AR,72401,C-2368,12/31/2016,Active
+"John David Alston, Jr., M.D.",Siloam Springs,AR,72761,C-5752,01/31/2017,Active
+"Linda Darlise Alston, D.O.",Philadelphia,PA,19131,E-5224,10/31/2009,Inactive
+"Linda Darlise Alston, D.O.",Philadelphia,PA,19131,T2007-049,06/08/2007,Inactive
+"Phillip Ray Alston, M.D.",North Little Rock,AR,72117,C-5643,11/30/2016,Active
+"Thomas Joe Alston, M.D.",Texarkana,TX,75503,C-4000,09/30/2016,Active
+"Deborah Susan Alt, M.D.",Clarendon,AR,72029,R-3292,,Inactive
+"Tamer Altay, M.D.",Little Rock,AR,72202,E-5767,10/03/2010,Inactive
+"Tamer Altay, M.D.",Little Rock,AR,72202,T2009-133,12/04/2009,Inactive
+"James Doyle Altazan, PA",Baton Rouge,LA,70817,PA-422,10/31/2012,Inactive
+"James Doyle Altazan, PA",Baton Rouge,LA,70817,P-T0706,10/03/2007,Inactive
+"James Doyle Altazan, PA",Baton Rouge,LA,70817,P-T1101,02/04/2011,Inactive
+"Alternative Medical Arts of Conway, P.A.,  ",Conway,AR,72032,MC-2009,08/31/2008,Inactive
+"Tiffany Dawn Alters, OT",Russellville,AR,72802,OTR1366,02/28/2001,Inactive
+"Carolyn Ann Altman, M.D.",Houston,TX,77030,R-4301,09/30/2000,Inactive
+"Denis Ian Altman, M.D.",Saint Louis,MO,63141,,,Inactive
+"Melissa Caroline Altom, M.D.",Aurora,MO,65605,E-5435,11/30/2013,Inactive
+"Jonathan Louis Altomar, M.D.",Memphis,TN,38104,E-6163,11/30/2016,Active
+"Jonathan Louis Altomar, M.D.",Memphis,TN,38104,T2009-083,08/07/2009,Inactive
+"Basel Altrabulsi, M.D.",Dallas,TX,75209,E-5296,03/31/2017,Active
+"Basel Altrabulsi, M.D.",Dallas,TX,75209,T2007-113,08/03/2007,Inactive
+"Rita Adaobi Alumanah, M.D.",Texarkana,AR,71854,E-9411,09/30/2016,Active
+"Veerabhadra Rao Aluri, M.D.",Leonia,NJ,07605,R-2539,,Inactive
+"Kelli Alvarez, LRCP",Bossier City,LA,71111,RCP-1486,11/30/2016,Active
+"Jorge Eduardo Alvernia, M.D.",Monroe,LA,71201,E-6391,04/30/2017,Active
+"Larry Emil Alves, M.D.",Troy,IL,62294,R-2358,09/30/2013,Inactive
+"Ricardo Ernesto Alvillar, M.D.",Florence,SC,29501,E-5693,09/30/2016,Active
+"Brice Nelson Alvord, M.D.",Jonesboro,AR,72401,E-7138,01/31/2015,Inactive
+"Susan Ann Alward, OT",,UN,,OTR287,06/30/1989,Inactive
+"Ahmed Mohammed Alwbari, M.D.",Dammam,,,E-7791,03/31/2017,Active
+"Alyssa Wenger, M.D., P.A.,  ",Jonesboro,AR,72401,MC-2602,01/31/2016,Inactive
+"Aboualkheir Alzaim, M.D.",Weymouth,MA,02190,E-0072,11/30/2016,Active
+"Nazem Alzalam, M.D.",Chicago,IL,60630,,,Inactive
+"Anas Alzoobi, M.D.",Palos Park,IL,60464,E-3260,06/30/2017,Active
+"Amador C. Campos, M.D., P.A.",Siloam Springs,AR,72761,MC-1868,12/31/2002,Inactive
+"Muazzum Aman, M.D.",Pine Bluff,AR,71603,E-7232,03/31/2017,Active
+"Amanda B. Raney, M.D., P.A.",Hot Springs,AR,71901,MC-1939,12/31/1999,Inactive
+"Ahmad Hamed Amani, M.D.",Macungie,PA,18062,E-8218,11/30/2016,Active
+"Ahmad Hamed Amani, M.D.",Macungie,PA,18062,T2013-091,10/04/2013,Inactive
+"Fariba Amani, M.D.",Little Rock,AR,72223,E-5039,09/30/2012,Inactive
+"Fariba Amani, M.D.",Little Rock,AR,72223,T2006-165,12/08/2006,Inactive
+"Mohammed A. Amari, M.D.",Bentonville,AR,72712,E-7233,07/31/2014,Inactive
+"Mohammed A. Amari, M.D.",Bentonville,AR,72712,T2011-088,10/07/2011,Inactive
+"Mia Patricia Amatangelo, OT",Belle Vernon,PA,15012,OTR2924,04/30/2017,Active
+"Westin Michael Amberge, M.D.",Traverse City,MI,49684,E-8593,02/28/2015,Inactive
+"George Herbert Amberman, III, M.D.",Virginia Beach,VA,23454,C-6288,04/30/2017,Active
+"Elena Ambrogini, M.D.",Little Rock,AR,72205,E-8828,11/30/2016,Active
+"Victor Thomas Ambruso, M.D.",Forty Fort,PA,18704,N-6499,03/01/1997,Inactive
+"Josephine Marie Ambruzs, M.D.",Little Rock,AR,72211,E-7394,11/30/2016,Active
+"Ambulatory Anesthesia Associates, P.L.L.C.  ",Fayetteville,AR,72703,MC-2743,12/31/2016,Active
+"Ambulatory Anesthesia Services, P.A.",Little Rock,AR,72205,MC-1564,12/31/1998,Inactive
+Ambulatory Surgical Center Inc.,Fort Smith,AR,72901,MC-1361,12/31/1996,Inactive
+"James Allen Ameika, M.D.",Kamuela,HI,96743,C-5952,04/30/2017,Active
+"Louise Krauss Ament, M.D.",,,,B-127,,Inactive
+"Wilbur Frank Ament, M.D.",,,,B-126,,Inactive
+"American Current Care of Arkansas, P.A.,  ",Little Rock,AR,72209,MC-2648,10/31/2013,Inactive
+"American Health Associates, PLLC,  ",Little Rock,AR,72212,MC-2705,07/31/2012,Inactive
+"Husny Y. Amerih, OT",Little Rock,AR,72227,OTR976,07/31/2002,Inactive
+"Sahar Amery, M.D.",Fayetteville,AR,72701,E-5768,10/31/2009,Inactive
+"Sahar Amery, M.D.",Fayetteville,AR,72701,T2008-089,10/03/2008,Inactive
+"Jennifer Nicole Ames, M.D.",Bryant,AR,72022,E-7327,03/31/2017,Active
+"Russell K. Ameter, M.D.",,,,C-1113,,Inactive
+"Roger Amick, M.D.",Little Rock,AR,72211,N-8191,11/30/2014,Inactive
+"Shilpa Harshad Amin, M.D.",Ashburn,VA,20147,,,Inactive
+"Shazia Amina, M.D.",Little Rock,AR,72204,,,Inactive
+"Jacob Amir, M.D.",Santa Fe,NM,87508,R-2454,01/31/2017,Active
+"Michael Majid Amiri, M.D.",Little Rock,AR,72205,E-2085,05/31/2000,Inactive
+"Satish Amirneni, M.D.",Hollidaysburg,CA,16648,,,Inactive
+"Farnia Amirnia, M.D.",Little Rock,AR,72205,E-7029,03/31/2017,Active
+"Avraham Rami Amit, M.D.",Little Rock,AR,72212,E-0516,03/01/1998,Inactive
+"Amity Family Health Center, P.A.",Deming,NM,88030-9540,MC-0464,12/31/1995,Inactive
+"Valorie Ann Ammann, M.D.",Woodbury,NJ,08096,E-0013,03/01/1995,Inactive
+"Benjamin K. Ammons, OT-A",Barling,AR,72923,OT-A971,02/28/2017,Active
+"Benjamin K. Ammons, OT-A",Barling,AR,72923,OT2015-021,05/12/2015,Inactive
+"Agyenim Boateng Amoako, M.D.",Fayetteville,AR,72703,E-8653,06/30/2015,Inactive
+"Adewumi Olaolu Davidson Amole, M.D.",Little Rock,AR,72223,E-6242,05/31/2017,Active
+"Adewumi Olaolu Davidson Amole, M.D.",Little Rock,AR,72223,T2009-108,10/02/2009,Inactive
+"Adewumi Olaolu Davidson Amole, M.D.",Little Rock,AR,72223,E-6242,10/03/2013,Inactive
+"Rex Allen Amonette, M.D.",Memphis,TN,38104,C-4080,06/30/2017,Active
+"Eric Henry Amos, M.D.",Molino,FL,32577,R-1893,12/31/2012,Inactive
+"Kimmie Raelene Amos, LRCP",Muldrow,OK,74948,RCP-1505,05/31/2001,Inactive
+"Lorne Lee Amos, LRCP",Kirby,AR,71950,RCP-1879,09/30/2002,Inactive
+"Nyesha Lashonda Amos, LRCP",Little Rock,AR,72202,RCP-3088,08/31/2016,Active
+"Nyesha Lashonda Amos, LRCP",Little Rock,AR,72202,R-T0916,08/18/2009,Inactive
+"Federico Laurel Ampil, M.D.",Shreveport,LA,71130,R-3822,03/01/1992,Inactive
+"Cynthia Jean Amram, M.D.",Fayetteville,AR,72703,R-3749,03/31/2017,Active
+"Thomas William Amsden, Jr., M.D.",Minneapolis,MN,55454,C-4681,03/01/1993,Inactive
+"Lavanya Amuluru, M.D.",Little Rock,AR,72211,E-5225,06/30/2010,Inactive
+"Monica A. Amunga, OT",Cincinnati,OH,45231,OTR1350,11/30/2001,Inactive
+"Amy B. Galdamez, P.A., .",Little Rock,AR,72205,MC-2993,10/31/2016,Active
+"Amy C. Reeves, M.D., P.A.,  ,  ",Hot Springs,AR,71913,MC-2425,05/31/2016,Inactive
+"Amy Garrison, M.D., PLLC,  ",Springdale,AR,72764,MC-2825,05/31/2012,Inactive
+"Titania L. Amyx, PA",Topeka,KS,66611,PA-158,03/01/1993,Inactive
+"Wei An, LRCP",Little Rock,AR,72212,RCP-2944,01/31/2011,Inactive
+"Cyriacus Uzoma Anaele, M.D.",Lubbock,TX,79424,E-5694,09/30/2014,Inactive
+"Cyriacus Uzoma Anaele, M.D.",Lubbock,TX,79424,T2008-088,08/08/2008,Inactive
+"Elias J. Anaissie, M.D.",Little Rock,AR,72205,E-1221,08/31/2012,Inactive
+"Elias J. Anaissie, M.D.",Little Rock,AR,72205,T97-030,06/06/1997,Inactive
+"Dheeraj Anand, M.D.",Dallas,TX,75225,E-7846,05/31/2017,Active
+"Dheeraj Anand, M.D.",Dallas,TX,75225,T2013-004,02/08/2013,Inactive
+"Kanwaljeet Singh Anand, M.D.",Palo Alto,CA,94304,E-1508,11/30/2016,Active
+"Kanwaljeet Singh Anand, M.D.",Palo Alto,CA,94304,T97-177,12/05/1997,Inactive
+"Suwarna Anand, M.D.",Jackson,MS,39216,E-4579,10/31/2014,Inactive
+"Roger Michael Anastasio, M.D.",Mandeville,LA,70471,,,Inactive
+"Carlos Anaya, M.D.",McAllen,TX,78504,E-1509,10/31/2016,Active
+"Carlos Anaya, M.D.",McAllen,TX,78504,T97-167,12/05/1997,Inactive
+"Liviu Anca, M.D.",Little Rock,AR,72205,E-3512,07/31/2016,Active
+"Nelson Ancalmo, M.D.",Lakeway,TX,78738,E-0073,11/30/2013,Inactive
+"Ernest Rudolph Anders, Jr., M.D.",Carrollton,TX,75007,R-4050,03/01/1998,Inactive
+"Laura Lee Anders, M.D.",Chicago,IL,60602,E-3098,06/30/2007,Inactive
+"Michael Anders, LRCP",Little Rock,AR,72205,RCP-0290,05/31/2013,Inactive
+"Percy C. Anders, M.D.",,,,R-642,,Inactive
+"Bruce James Andersen, M.D.",Boise,ID,83706-1373,R-4302,03/01/1996,Inactive
+"Mark Stephen Andersen, M.D.",Little Rock,AR,72210,C-7889,01/31/2017,Active
+"Christopher J. Andershock, M.D.",Cordova,TN,38016,E-5141,05/31/2017,Active
+"Annette Nicole Anderson, M.D.",Conway,AR,72034,E-5622,06/30/2017,Active
+"Anthony Shane Anderson, M.D.",Greensboro,NC,27410,E-9038,02/28/2017,Active
+"Anthony Shane Anderson, M.D.",Greensboro,NC,27410,T2015-006,02/06/2015,Inactive
+"April Nicole Anderson, OT",Little Rock,AR,72201-2014,,,Inactive
+"April Nicole Anderson, OT",Little Rock,AR,72201-2014,O-T0142,06/22/2001,Inactive
+"April Nicole Anderson, OT",Little Rock,AR,72201-2014,O-T0142,06/22/2001,Inactive
+"Barbra E. Anderson, OT",Gothenburg,NE,69138,OTR706,06/30/2012,Inactive
+"Carla Anderson, M.D.",Little Rock,AR,72214,C-5361,07/31/2017,Active
+"Carrie Michelle Anderson, OT-A",Jonesboro,AR,72401,OT-A736,07/31/2016,Active
+"Charles Albin Anderson, M.D.",New Orleans,LA,70118,E-3882,07/31/2006,Inactive
+"Charles Albin Anderson, M.D.",New Orleans,LA,70118,T2003-129,12/05/2003,Inactive
+"Charles Bernard Anderson, M.D.",St. Louis,MO,63110,N-7412,03/01/1995,Inactive
+"Charles Bradley Anderson, M.D.",Helena,MT,59601,N-7598,03/01/1992,Inactive
+"Charles Watson Anderson, M.D.",Pine Bluff,AR,71601,R-1024,03/01/1992,Inactive
+"Daniel Stonewall Anderson, M.D.",San Diego,CA,92109,C-4571,03/01/1994,Inactive
+"Daphne Kay Wiegand Anderson, M.D.",Springfield,MO,65807,R-3969,02/28/2006,Inactive
+"David Earl Anderson, M.D.",Maumelle,AR,72113,E-5542,12/31/2016,Active
+"Dean Newton Anderson, PA",Poteau,OK,74953,PA-456,03/31/2017,Active
+"Dean Newton Anderson, PA",Poteau,OK,74953,P-T1124,12/02/2011,Inactive
+"Donald Royce Anderson, M.D.",Sun City Center,FL,33573,E-4304,04/30/2014,Inactive
+"Donald Royce Anderson, M.D.",Sun City Center,FL,33573,T2005-006,02/04/2005,Inactive
+"Douglas A. Anderson, M.D.",Springfield,MO,65809,E-3198,05/31/2013,Inactive
+"Douglas A. Anderson, M.D.",Springfield,MO,65809,T2001-136,04/05/2002,Inactive
+"Edgar Walker Anderson, M.D.",,,,C-921,,Inactive
+"Eric Robert Anderson, M.D.",Reston,VA,20190,E-8974,10/31/2016,Active
+"Eric Robert Anderson, M.D.",Reston,VA,20190,T2014-158,12/05/2014,Inactive
+"Frank Joseph Anderson, M.D.",Washington,DC,20016,R-4303,02/28/2000,Inactive
+"Gloria Jean Anderson, LRCP",Lake Village,AR,71653,RCP-1802,10/31/2016,Active
+"Gloria Jean Anderson, LRCP",Lake Village,AR,71653,R-T9960,03/09/2000,Inactive
+"Gloria Jean Anderson, LRCP",Lake Village,AR,71653,R-T0008,09/09/2000,Inactive
+"Grant Torghele Anderson, M.D.",Conway,AR,72034,E-8022,10/31/2016,Active
+"Gwendolen Michele Anderson, LRCP",Arkadelphia,AR,71923,RCP-2901,08/31/2016,Active
+"Gwendolen Michele Anderson, LRCP",Arkadelphia,AR,71923,R-T0736,11/03/2007,Inactive
+"J. Roland Anderson, M.D.",Little Rock,AR,72206,C-4796,06/30/2016,Active
+"Jacob Stewart Anderson, OT",Blytheville,AR,72315,OTR2444,07/31/2015,Inactive
+"Jacqueline Renee Anderson, LRCP",Fayetteville,AR,72701,RCP-3570,11/30/2016,Active
+"James E. Anderson, M.D.",,,,R-507,,Inactive
+"Jeffrey Ross Anderson, D.O.",Natchez,MS,39120,E-1796,10/31/2008,Inactive
+"Jeffrey Ross Anderson, D.O.",Natchez,MS,39120,T98-090,09/18/1998,Inactive
+"Jennifer Lynn Anderson, M.D.",Little Rock,AR,72205,E-7731,01/31/2017,Active
+"Jennifer Moore Anderson, M.D.",Little Rock,AR,72205,E-5769,06/30/2017,Active
+"Jennifer Moore Anderson, M.D.",Little Rock,AR,72205,T2008-135,10/03/2008,Inactive
+"John Jacob Anderson, Jr., M.D.",Oceanside,CA,92057,C-4572,07/31/2013,Inactive
+"John Peyton Anderson, Jr., M.D.",Columbus,OH,43215,C-3323,09/30/2005,Inactive
+"John R. Anderson, LRCP",Bella Vista,AR,72714-3502,RCP-1812,03/31/2014,Inactive
+"Judith Carolyn Harvey Anderson, M.D.",Isle Of Palues,SC,29451,C-3349,01/31/2000,Inactive
+"Kay Elah Kolb Anderson, M.D.",,,,C-4008,,Inactive
+"Keith Gregory Anderson, M.D.",Germantown,TN,38138,N-8031,09/30/2016,Active
+"Latarsha Lynette Adams Anderson, LRCP",Bossier City,LA,71111,RCP-2315,10/31/2016,Active
+"Laurie Jean Harlan Anderson, M.D.",Springdale,AR,72762,C-8262,07/31/2017,Active
+"Lawanda G. Anderson, OT",,UN,,OTR291,11/30/1988,Inactive
+"Lawrence Lloyd Anderson, M.D.",Bella Vista,AR,72714-3037,R-2416,03/01/1992,Inactive
+"Leslie Fay Anderson, M.D.",Lonoke,AR,72086,C-4445,07/31/2016,Active
+"Lisa M. Anderson, LRCP",Bald Knob,AR,72010,RCP-1164,11/30/2016,Active
+"Loretta Anderson, LRCP",Arkadelphia,AR,71923,RCP-3497,08/31/2016,Active
+"Mark Douglas Anderson, M.D.",Springfield,MO,65807,R-3958,11/30/2000,Inactive
+"Mary Anderson, OT",McHenry,IL,60050,OTR2406,11/30/2014,Inactive
+"Mary Margaret Anderson, OT",Farmers Branch,TX,75234,OTR1811,03/31/2008,Inactive
+"Mary Stanton Anderson, M.D.",Batesville,AR,72501,E-1905,08/31/2016,Active
+"Mary Stanton Anderson, M.D.",Batesville,AR,72501,T98-064,09/18/1998,Inactive
+"Michael David Anderson, M.D.",Brentwood,TN,37027,E-4058,09/30/2007,Inactive
+"Nancy Karol Anderson, M.D.",Little Rock,AR,72205,E-7205,10/31/2016,Active
+"Nancy Louise Anderson, M.D.",Houston,TX,77005-2028,,,Inactive
+"Nancy Louise Anderson, M.D.",Houston,TX,77005-2028,T2005-181,04/07/2006,Inactive
+"Patric Neil Anderson, M.D.",Alma,AR,72921,E-2148,05/31/2017,Active
+"Paul Melvin Anderson, M.D.",Fort Smith,AR,72903,R-1979,11/30/2016,Active
+"Paula Jean Anderson, M.D.",Little Rock,AR,72205,C-5557,05/31/2017,Active
+"Powhattan Rupert Anderson, M.D.",Arkadelphia,AR,71923,C-1481,03/01/1993,Inactive
+"Randal C. Anderson, M.D.",Little Rock,AR,72205,E-4132,12/31/2008,Inactive
+"Rebecca Fontenot Anderson, OT-A",Hot Springs,AR,71901,OT-A373,02/28/2003,Inactive
+"Roger Wilbert Anderson, M.D.",The Villages,FL,32162,C-8360,12/31/2012,Inactive
+"Roland Roger Anderson, M.D.",,,,R-881,,Inactive
+"Rupert Cotham Anderson, M.D.",Arkadelphia,AR,71923,C-4573,02/28/2009,Inactive
+"Russell Wayne Anderson, D.O.",Tulsa,OK,74104,E-9370,11/30/2016,Active
+"Russell Wayne Anderson, D.O.",Tulsa,OK,74104,T2015-082,10/02/2015,Inactive
+"Sarah Jo Anderson, OT",Fort Smith,AR,72903,OTR1494,11/30/2001,Inactive
+"Scott David Anderson, D.O.",Hot Springs,AR,71901,E-4305,05/31/2017,Active
+"Seawright Wilbur Anderson, M.D.",Santa Ana,CA,92706-3594,R-2643,03/01/1994,Inactive
+"Shane Robert Anderson, M.D.",Little Rock,AR,72205,E-8143,09/01/2014,Inactive
+"Shane Robert Anderson, M.D.",Little Rock,AR,72205,T2013-051,08/02/2013,Inactive
+"Shawn Michael Anderson, M.D.",Grove,OK,74344,,,Inactive
+"Tarji L. Anderson, LRCP",Dumas,AR,71639,RCP-1386,10/31/2016,Active
+"Thomas  Eugene Anderson, LRCP",Norfork,AR,72658,RCP-3456,03/31/2017,Active
+"Tiffany Dawn Anderson, LRCP",Little Rock,AR,72206,RCP-3084,07/31/2016,Active
+"Tina K. Anderson, LRCP",Hector,AR,72843,RCP-1277,03/31/2012,Inactive
+"Toby E. Anderson, M.D.",Forrest City,AR,72335,E-3513,01/31/2017,Active
+"Veronica Marie Anderson, LRCP",Springdale,AR,72764,RCP-3169,07/31/2016,Active
+"Wendy Anderson, OT-A",Westerly,RI,02891,OT-A564,05/31/2010,Inactive
+"Wendy Anderson, OT-A",Westerly,RI,02891,O-T0911,10/14/2009,Inactive
+"William Orva Anderson, M.D.",,,,C-1340,,Inactive
+"Tedra Louise Anderson-Brown, M.D.",Durham,NC,27703,E-7692,10/31/2016,Active
+"Jeanine A. Andersson, M.D.",Little Rock,AR,72205,E-3400,01/31/2017,Active
+"Deepak P. Andhare, OT",Poplar Bluff,MO,63901,,,Inactive
+"Brian Sheldon Anding, M.D.",Bedford,TX,76022,R-3869,11/30/1999,Inactive
+"Edward Lucas Curlee Andrada, M.D.",Russellville,AR,72801,E-3825,01/31/2017,Active
+"Edward Lucas Curlee Andrada, M.D.",Russellville,AR,72801,T2003-096,10/03/2003,Inactive
+"Andre J. Nolewajka, M.D., P.A.",Fort Smith,AR,72917,MC-1345,11/30/2016,Active
+"Karen Kaden Andre', M.D.",Greenville,TX,75401,R-3082,08/31/2005,Inactive
+"Anne Sofie Andreasen, M.D.",Little Rock,AR,72207,E-9188,06/05/2017,Active
+"Raymond Lawrence Andreasen, M.D.",Tulare,CA,93275,R-2706,03/01/1992,Inactive
+"Ross Dimil Andreassen, M.D.",West Plains,MO,65775,E-5543,02/28/2011,Inactive
+"Ross Dimil Andreassen, M.D.",West Plains,MO,65775,T2008-011,04/04/2008,Inactive
+"Molly Ann Andreatta, OT-A",Bella Vista,AR,72714,OT-A718,11/30/2016,Active
+"Henry Ernst Anders Andren, M.D.",Harrison,AR,72602,N-6769,03/01/1992,Inactive
+"Carey Kathleen Andreoiu, D.O.",Fort Smith,AR,72913,E-8385,09/30/2016,Active
+"Matei Tudor Andreoiu, M.D.",Fort Smith,AR,72903,E-8244,12/31/2016,Active
+"Thomas Eugene Andreoli, M.D.",Little Rock,AR,72205,R-3859,01/31/2010,Inactive
+"Dwight William Andres, M.D.",,,,C-1445,,Inactive
+"Andrew Bryan, P.A.  ",Hot Springs,AR,71913,MC-3029,05/31/2016,Inactive
+"Andrew G. Kumpuris, M.D., P.A.",Little Rock,AR,72205,MC-0679,12/31/1999,Inactive
+"Andrew J. Powell, M.D., PLLC,  ",Cabot,AR,72023,MC-2391,10/31/2016,Active
+"Andrew W. Lawton, M.D., PLLC,  ",Little Rock,AR,72211,MC-2116,11/30/2013,Inactive
+"Allie Eldon Andrews, Jr., M.D.",Texarkana,TX,75503-3523,C-2287,01/31/2015,Inactive
+"Bryan Lee Andrews, OT",Fayetteville,AR,72704,OTR2312,10/31/2016,Active
+"Bryan Lee Andrews, OT",Fayetteville,AR,72704,O-T0962,12/11/2009,Inactive
+"Carol Lynn Andrews, M.D.",Coeur D Alene,ID,83814,E-6345,05/31/2013,Inactive
+"Carol Lynn Andrews, M.D.",Coeur D Alene,ID,83814,T2010-006,02/05/2010,Inactive
+"Charles William Andrews, Jr., M.D.",Warwick,RI,02886,C-7241,03/01/1996,Inactive
+"Deborah Anne Andrews, LRCP",Little Rock,AR,72210,,,Inactive
+"Deborah Anne Andrews, LRCP",Little Rock,AR,72210,R-T0461,01/02/2005,Inactive
+"Jennifer Purvis Andrews, M.D.",Little Rock,AR,72205,E-6802,07/31/2017,Active
+"John Scott Andrews, M.D.",La Grange,GA,30241-3231,C-4574,03/31/2009,Inactive
+"Keith Ryne Andrews, M.D.",Germantown,TN,38138,E-8437,07/31/2016,Active
+"Laura Alene Andrews, LRCP",Dermott,AR,71638,RCP-2578,03/31/2017,Active
+"Laura Alene Andrews, LRCP",Dermott,AR,71638,R-T0464,03/15/2005,Inactive
+"Laura Alene Andrews, LRCP",Dermott,AR,71638,R-T0515,09/16/2005,Inactive
+"Leslie Nicole Andrews, OT-A",Fayetteville,AR,72704,OT-A773,03/31/2016,Inactive
+"Leslie Nicole Andrews, OT-A",Fayetteville,AR,72704,O-T1312,09/14/2013,Inactive
+"Robert Stanley Andrews, M.D.",Dallas,TX,75240,E-5363,02/28/2015,Inactive
+"Robert Stanley Andrews, M.D.",Dallas,TX,75240,T2007-140,10/05/2007,Inactive
+"Sandra Lynn Andrews, M.D.",Denver,CO,80250,C-7317,02/28/2013,Inactive
+"Sean Anson Andrews, M.D.",Gardner,MA,01440,E-0517,04/30/2004,Inactive
+"Sherif Shoukry Andrews, M.D.",Carmel,IN,46033,E-3633,11/30/2016,Active
+"Wegdan Wahib Andrews, M.D.",Saint Louis,MO,63141,,,Inactive
+"Christa M. Andrews-Fike, M.D.",Memphis,TN,38104,E-2306,11/30/2000,Inactive
+"Valencia Marie Andrews-Pirtle, M.D.",Blytheville,AR,72315,E-3358,10/31/2016,Active
+"Valencia Marie Andrews-Pirtle, M.D.",Blytheville,AR,72315,T2002-083,08/09/2002,Inactive
+"Catherine Bryant Andrious, OT",Vienna,VA,22180,OTR1904,10/31/2005,Inactive
+"John Edward Andrulot, M.D.",Destin,FL,32550,R-3047,02/28/2011,Inactive
+"John Jose Andujar, M.D.",,,,R-860,,Inactive
+"Farah Anees, M.D.",Huntington,WV,25705,E-4816,11/30/2009,Inactive
+"Anes Wiley Abraham, M.D., P.A., d/b/a Pediatric and Teen Medical Center  ",Blytheville,AR,72315,MC-1896,04/30/2017,Active
+"ANES, P.A. d/b/a Pain Consultants of Conway,  ",Conway,AR,72032,MC-1796,03/31/2002,Inactive
+"Anesthesia and Pain Management Associates of Paragould Arkansas, PLC,  ",Paragould,AR,72450,MC-2226,12/31/2005,Inactive
+"Anesthesia And Pain Management Associates, P.A.  ",Searcy,AR,72145,MC-1645,02/28/2017,Active
+"Anesthesia Associates of Jonesboro, P.A.,  ",Jonesboro,AR,72416,MC-2308,10/31/2004,Inactive
+"Anesthesia Associates of Paragould, Arkansas, P.A.,  ",Paragould,AR,72450,MC-2426,05/31/2011,Inactive
+"Anesthesia Associates, P.A.",Fort Smith,AR,72901,MC-0033,12/31/1992,Inactive
+"Anesthesia Care Associates, P.A.",Fort Smith,AR,72903,MC-1388,12/31/1995,Inactive
+"Anesthesia Management Service, P.A.",Hot Springs,AR,71913,MC-1091,08/31/2007,Inactive
+"Anesthesia Management Solutions of Arkansas PLLC  ",Gulf Breeze,FL,32563,MC-3171,05/31/2017,Active
+"Anesthesia Services Associates, PLLC  ",Jonesboro,AR,72401,FMC-0004,05/31/2017,Active
+"Anesthesia Services Associates, PLLC d/b/a Comprehensive Pain Specialists, PLLC,  ",Jonesboro,AR,72401,FMC-0005,08/31/2015,Inactive
+"Anesthesia Services Associates, PLLC d/b/a Comprehensive Pain Specialists, PLLC-Medical Drive,  ",Paragould,AR,72450,FMC-0006,08/31/2016,Active
+"Anesthesia Services of Benton County, P.A.,  ",Rogers,AR,72758,MC-2238,01/31/2017,Active
+"Anesthesia Services of Little Rock, P.A.",Benton,AR,72018-0250,MC-1013,06/30/2006,Inactive
+"Anesthesia Specialists of Van Buren, P.A.",Van Buren,AR,72956,MC-1706,12/31/1999,Inactive
+"Anesthesiology and Pain Consultants of Arkansas, P.A.",Jonesboro,AR,72403,MC-1370,12/31/1992,Inactive
+"Anesthesiology Consultants of Arkansas, P.A.",North Little Rock,AR,72114,MC-1266,01/31/2002,Inactive
+"Anesthesiology Services, Ltd.",North Little Rock,AR,72116,MC-0311,05/31/2012,Inactive
+"Michelle Chua Ang-Poland, M.D.",Russellville,AR,72801,E-4817,09/30/2016,Active
+"Carol Ann Angel, M.D.",Conway,AR,72034,C-7719,11/30/2016,Active
+"Jeffery Deoin Angel, M.D.",Batesville,AR,72501,C-7451,02/28/2017,Active
+"Mary Elizabeth Angel, OT-A",Hot Springs,AR,71901,OT-A659,06/30/2016,Active
+"Mary Elizabeth Angel, OT-A",Hot Springs,AR,71901,O-T1119,10/28/2011,Inactive
+"Wesley Alex Angel, M.D.",Germantown,TN,38138,E-7610,10/31/2016,Active
+"Angela Styles, M.D., Dermatology & Dermatopathology, PLLC,  ",Clarksville,AR,72830,MC-2042,01/31/2009,Inactive
+"Jana Lea Angeles, M.D.",Little Rock,AR,72206,R-3274,11/30/2011,Inactive
+"Angelique Fontenette, PLC",Little Rock,AR,72211,MC-3138,09/30/2016,Active
+"Tracy L. Angelocci, M.D.",Mabelvale,AR,72103,E-0518,03/01/1997,Inactive
+"Andrea Lea Angle, LRCP",Gurdon,AR,71743,RCP-2140,11/30/2016,Active
+"Andrea Lea Angle, LRCP",Gurdon,AR,71743,R-T0150,03/13/2002,Inactive
+"Donald F. Angle, M.D.",Irving,TX,75039,E-0519,11/30/1999,Inactive
+"Alberto Angles, M.D.",Claremore,OK,74017,R-2582,02/28/2006,Inactive
+"Carol Michele Anglin, LRCP",Little Rock,AR,72211,RCP-2437,06/30/2017,Active
+"Deanna Lynne Anglin, LRCP",Houston,TX,77095,RCP-0958,03/31/2017,Active
+"Edgardo Jorge Chua Angtuaco, M.D.",Little Rock,AR,72205,R-2797,02/28/2017,Active
+"Edward Elmer Chua Angtuaco, M.D.",Little Rock,AR,72205,E-0419,07/31/2017,Active
+"Michael Jason Angtuaco, M.D.",Little Rock,AR,72227,E-5913,04/30/2017,Active
+"Sylvia S.O. Angtuaco, M.D.",Little Rock,AR,72202,E-0773,03/31/2017,Active
+"Sylvia S.O. Angtuaco, M.D.",Little Rock,AR,72202,T96-023,03/08/1996,Inactive
+"Terence Laogan Angtuaco, M.D.",Little Rock,AR,72205-6217,E-2982,01/31/2017,Active
+"Teresita Lamesajan Angtuaco, M.D.",Little Rock,AR,72205,R-2798,06/30/2017,Active
+"Angy Yeager-Bock, M.D., P.A.,  ",Little Rock,AR,72205,MC-2621,04/30/2017,Active
+"Aniel House, M.D., P.A.",Jacksonville,AR,72076,MC-1268,02/29/2016,Inactive
+"Mohamed Aniff, M.D.",Yorktown Heights,NY,10598,E-1933,10/31/2006,Inactive
+"Kanchan Dattatray Anjarlekar, OT",Lewisville,TX,75067,,,Inactive
+"Ann D. Layton, M.D., P.A.,  ",Jacksonville,AR,72076,MC-2321,12/31/2016,Active
+"Ann Maners, M.D., P.A.",Little Rock,AR,72215,MC-1290,12/31/1993,Inactive
+"Kerri Nicole Annable, OT-A",Jonesboro,AR,72403,OT-A930,05/31/2017,Active
+"Kerri Nicole Annable, OT-A",Jonesboro,AR,72403,OT2015-005,04/16/2015,Inactive
+"Anne Murphy, D.O., PLLC,  ",Fort Smith,AR,72901,MC-2375,08/31/2007,Inactive
+"Anne R. Trussell, M.D., PLLC,  ",Little Rock,AR,72205,MC-2061,03/31/2003,Inactive
+"Annette N. Anderson, M.D., P.A.,  ",Conway,AR,72034,MC-2817,02/28/2017,Active
+"Annette P. Meador, M.D., P.A.",North Little Rock,AR,72116,MC-1068,12/31/1992,Inactive
+"Annie T. Luy, M.D., P.A.,  ",Searcy,AR,72143,MC-2455,12/31/2016,Active
+"Colleen Campbell Anoh, LRCP",Bella Vista,AR,72715,RCP-2819,06/30/2012,Inactive
+"Kofi Anoh, LRCP",Bella Vista,AR,72715,RCP-2821,06/30/2012,Inactive
+"Mohammad Nurul Anower, M.D.",Fort Smith,AR,72903,E-6573,06/30/2017,Active
+"Mohammad Nurul Anower, M.D.",Fort Smith,AR,72903,T2010-089,08/06/2010,Inactive
+"Michael Barry Anreder, M.D.",El Dorado,AR,71730,E-2149,11/30/2016,Active
+"Michael Barry Anreder, M.D.",El Dorado,AR,71730,T99-044,06/11/1999,Inactive
+"Nazia Salman Ansari, M.D.",Spring,TX,77389,E-4580,01/31/2017,Active
+"Sikander Jaweed Ansari, M.D.",Nashville,TN,37211,E-9026,11/30/2016,Active
+"Sikander Jaweed Ansari, M.D.",Nashville,TN,37211,T2015-002,02/06/2015,Inactive
+"John Charles Ansel, M.D.",Little Rock,AR,72205,E-5914,07/31/2010,Inactive
+"Anthony Eugene Anston, D.O.",Hanover,AR,72560,E-7863,01/31/2017,Active
+"Jeffrey Gerald Ant, M.D.",San Diego,CA,92131,E-3996,01/31/2017,Active
+"Tamim Antakli, M.D.",Terre Haute,IN,47807,E-0014,05/31/2009,Inactive
+"Ingrid Woelfl Antall, M.D.",Boston,MA,02109,,,Inactive
+"Peter Matthew Antall, M.D.",Newbury Park,CA,91320,,,Inactive
+"Margot L. Anthonisen, OT",Little Rock,AR,72227,OTR312,01/31/2009,Inactive
+"Anthony Anston, DO, PLLC, ",Mountain View,AR,72560,MC-3007,02/28/2017,Active
+"Anthony D. Johnson, M.D., P.A.",Little Rock,AR,72205,MC-1069,12/31/1994,Inactive
+"Anthony Jones, P.A.,  ",Pine Bluff,AR,71603,MC-2463,01/31/2007,Inactive
+"Anthony Russell, M.D., P.A.",North Little Rock,AR,72117,MC-1835,07/31/2002,Inactive
+"Courtney L. Anthony, Jr., M.D.",Memphis,TN,38103,R-4674,06/30/2012,Inactive
+"Courtney L. Anthony, Jr., M.D.",Memphis,TN,38103,T2003-058,08/08/2003,Inactive
+"Eric Clayton Anthony, OT-A",Jonesboro,AR,72401,OT-A797,03/31/2017,Active
+"Eric Clayton Anthony, OT-A",Jonesboro,AR,72401,O-T1318,10/18/2013,Inactive
+"John Lee Anthony, Jr., M.D.",Montgomery,AL,36106,C-8103,05/31/2017,Active
+"Tara Ann Anthony, OT",Jonesboro,AR,72404,OTR2653,11/30/2016,Active
+"Tara Ann Anthony, OT",Jonesboro,AR,72404,O-T1338,10/04/2013,Inactive
+"Ashley Rae Antipolo, M.D.",Little Rock,AR,72202,E-6574,04/30/2017,Active
+"Nicole Gully Antis, OT",Monroe,LA,71207-2412,OTR951,06/30/1999,Inactive
+"Victoria J. Antle-Vlach, M.D.",Little Rock,AR,72204,E-0641,03/01/1998,Inactive
+"Catherine Murer Antley, M.D.",Little Rock,AR,72205,E-1604,09/30/1999,Inactive
+"Sherri Jo Bearden Antley, OT",Bastrop,LA,71220,OTR988,02/28/2014,Inactive
+"Sherri Jo Bearden Antley, OT",Bastrop,LA,71220,OTR988,02/28/2001,Inactive
+"Sherri Jo Bearden Antley, OT",Bastrop,LA,71220,,04/30/1996,Inactive
+"Tonja K. Antley, LRCP",Alexander,AR,72002,RCP-2583,01/31/2017,Active
+"Tonja K. Antley, LRCP",Alexander,AR,72002,R-T0530,11/13/2005,Inactive
+"Anton C. Petrash, M.D., P.A.,  ",Little Rock,AR,72205,MC-1965,02/28/2003,Inactive
+"Carleton Dale Anton, M.D.",,,,C-1015,,Inactive
+"Xavier Anton, M.D.",New Orleans,LA,70118,C-5908,03/01/1988,Inactive
+"Calin Gabriel Antonescu, M.D.",Hot Springs,AR,71901,R-4069,02/28/1999,Inactive
+"Maria Chona Segismundo Antonio, M.D.",El Dorado,AR,71730,E-4257,03/31/2006,Inactive
+"Patrick David Antoon, Sr., M.D.",Stamps,AR,71860,R-3556,02/28/2017,Active
+"Patrick David Antoon, Sr., M.D.",Stamps,AR,71860,R-3556,02/28/2007,Inactive
+"Darlene May Antosh, M.D.",Pine Bluff,AR,71603,E-0258,02/28/2010,Inactive
+"Darlene May Antosh, M.D.",Pine Bluff,AR,71603,,12/02/1994,Inactive
+"Callie Ellaweise Antuna, OT",Bella Vista,AR,72714,OTR1979,02/28/2017,Active
+"John Charles Antuna, D.O.",Rogers,AR,72758,E-5040,10/31/2016,Active
+"Muhammed Saeed Anwer, M.D.",Paducah,KY,42001,E-8430,04/30/2016,Inactive
+"Allyson Denise Anyanwu, M.D.",Jackson,TN,38301,E-7778,06/30/2017,Active
+"Allyson Denise Anyanwu, M.D.",Jackson,TN,38301,T2012-090,12/07/2012,Inactive
+"Juliana Ndidi Anyanwu, M.D.",Country Club Hills,IL,60478,E-9819,12/31/2016,Active
+"Gary Paul Anzalone, M.D.",El Dorado,AR,71730,R-4500,12/31/2016,Active
+"Austin Apari, LRCP",Little Rock,AR,72219,,,Inactive
+"Ben Apel, LRCP",Pine Bluff,AR,71603,RCP-2474,01/31/2017,Active
+"Ben Apel, LRCP",Pine Bluff,AR,71603,R-T0384,03/11/2004,Inactive
+"Ben Apel, LRCP",Pine Bluff,AR,71603,R-T0420,09/22/2004,Inactive
+"Senu Kobla Apewokin, M.D.",Little Rock,AR,72205,E-6822,04/30/2016,Inactive
+"Wendy Lynne Apgar, OT",Chesterfield,MO,63017,OTR464,11/30/1999,Inactive
+"Elmer Rand Apgood, M.D.",,,,C-2992,,Inactive
+"Apogee Medical Group, Arkansas, P.A.,  ",Little Rock,AR,72201,MC-2558,05/31/2008,Inactive
+"Yevgeniy Olegovich Apostolov, M.D.",Little Rock,AR,72205,T2016-075,08/05/2016,Active
+"Sri Rama Murthy Appalaneni, M.D.",Little Rock,AR,72205,E-7619,08/31/2016,Active
+"Alan H. Appelbaum, M.D.",Germantown,TN,38139,E-6674,07/31/2017,Active
+"Alan H. Appelbaum, M.D.",Germantown,TN,38139,T2010-139,10/08/2010,Inactive
+"John Wright Apperson, Jr., M.D.",,,,R-3189,03/01/1987,Inactive
+"Kofi Asante Appiah, M.D.",Gaffney,SC,29341,E-4502,06/30/2007,Inactive
+"Kofi Asante Appiah, M.D.",Gaffney,SC,29341,T2005-073,08/05/2005,Inactive
+"Kacey Churchwell Apple, LRCP",Lowell,AR,72745,RCP-2275,03/31/2013,Inactive
+"Kacey Churchwell Apple, LRCP",Lowell,AR,72745,R-T0202,07/23/2002,Inactive
+"Kacey Churchwell Apple, LRCP",Lowell,AR,72745,R-T0275,02/08/2003,Inactive
+"Kaci Apple, LRCP",Batesville,AR,72501,RCP-3089,12/31/2016,Active
+"Kaci Apple, LRCP",Batesville,AR,72501,R-T0929,09/19/2009,Inactive
+"Charles Stanley Applegate, Jr., M.D.",Springdale,AR,72764,C-1866,06/30/2007,Inactive
+"Jessica Danielle Applegate, LRCP",Bella Vista,AR,72715,RCP-2883,02/28/2017,Active
+"Tabatha Renee Applegate, PA",Harrison,AR,72602,PA-617,04/30/2017,Active
+"Tabatha Renee Applegate, PA",Harrison,AR,72602,P-T1534,10/02/2015,Inactive
+"Joanna Beth Appleget, OT",Cave City,AR,72521,OTR2436,10/31/2016,Active
+"Joanna Beth Appleget, OT",Cave City,AR,72521,O-T1121,11/16/2011,Inactive
+"Katherine Anne Appleget, M.D.",Little Rock,AR,72205,E-9741,04/30/2017,Active
+"B. Gray Appleton, M.D.",Hayesville,NC,28904,C-4359,11/30/2000,Inactive
+"Melissa Jane Appleton, LRCP",Seligman,MO,65745,RCP-1437,03/31/2017,Active
+"Linda K. Applewhite, LRCP",Little Rock,AR,72207,RCP-0562,03/01/1997,Inactive
+"Onyx Applewhite, LRCP",Goodwin,AR,72340,RCP-2507,07/31/2008,Inactive
+"Rufus Eldridge Applewhite, M.D.",,,,R-411,,Inactive
+"Sean Brian Appleyard, M.D.",Indialantic,FL,32903,R-4304,12/31/2008,Inactive
+"Judith Watson Applin, OT",Little Rock,AR,72205,OTR424,04/30/2015,Inactive
+"Jesus S. Apuya, M.D.",Little Rock,AR,72202-3591,E-3147,04/30/2017,Active
+"Alfonso Aquino, M.D.",Jonesboro,AR,72403-1960,R-3293,10/31/2011,Inactive
+"Laura Bunn Aquino, M.D.",Houston,TX,77057,R-3346,08/31/2003,Inactive
+"Marissa Cayabyab Aquino, OT",Springfield,MO,65810,,,Inactive
+"Suzanne Lei Aquino, M.D.",Honolulu,HI,96828,E-5544,09/30/2012,Inactive
+"AR Renal Associates, PLLC,  ",Marion,AR,72364,MC-2933,11/30/2016,Active
+"AR. Dermatology Center, P.L.L.C.,  ",Fort Smith,AR,72908,MC-2644,09/30/2010,Inactive
+"Azita Arabghani, M.D.",The Woodlands,TX,77381,E-9322,02/28/2017,Active
+"Sangita Aradhyula, M.D.",Chesterfield,MO,63017,E-7342,11/30/2016,Active
+"Rosa Maria Arambula, OT",,UN,,OTR588,04/30/1994,Inactive
+"Julia Garrett Arana, M.D.",Columbia,MD,21044,,,Inactive
+"Carlos Urzua Arancibia, M.D.",Richmond,VA,23298-0541,R-4405,04/30/1999,Inactive
+"Mary  Beth Aranda, LRCP",Gulfport,MS,39501,RCP-3340,04/30/2017,Active
+"Erick Rene Araneda, M.D.",Cabot,AR,72023,C-8532,10/31/2015,Inactive
+"Dario Arango, M.D.",McAllen,TX,78504,E-0718,08/31/2016,Active
+"Maria C. Arango, M.D.",McAllen,TX,78504,E-1797,12/31/2015,Inactive
+"Carlos Adolfo Araoz, M.D.",Sanger,TX,76266,C-4446,11/30/2016,Active
+"Dan A. Arbour, LRCP",Little Rock,AR,72210,RCP-1926,03/31/2005,Inactive
+"Matthew Steven Arceneaux, M.D.",Houston,TX,77062,E-0155,08/31/2016,Active
+"Branch T. Archer, III, M.D.",Amarillo,TX,79109-5013,E-0420,06/30/2000,Inactive
+"Charles Andrew Archer, Jr., M.D.",Conway,AR,72032,C-1456,03/01/1991,Inactive
+"Davinia Amber Archer, OT",Centerton,AR,72719,OTR2458,07/31/2016,Active
+"Davinia Amber Archer, OT",Centerton,AR,72719,O-T1157,12/20/2011,Inactive
+"Denise Archer, OT",Monroe,LA,71203,OTR578,07/31/1996,Inactive
+"Ernest W. Archer, M.D.",Springdale,AR,72764,E-1350,01/31/2012,Inactive
+"Ernest W. Archer, M.D.",Springdale,AR,72764,T97-158,09/12/1997,Inactive
+"Everett Banjamin Archer, M.D.",,,,R-858,,Inactive
+"Graeme Christian Morris Archer, M.D.",Bentonville,AR,72712,E-6060,11/30/2016,Active
+"James Thomas Archer, Jr., M.D.",,,,C-1454,,Inactive
+"Robert Leroy Archer, M.D.",Little Rock,AR,72205,C-6128,04/30/2017,Active
+"Scott Ralph Archer, M.D.",Little Rock,AR,72216,C-7452,01/31/2017,Active
+"Jimmie S. Archey, LRCP",Searcy,AR,72143,RCP-1319,09/30/2010,Inactive
+"Archie L. Hewett, M.D., P.A.",Fort Smith,AR,72901,MC-0087,04/30/2009,Inactive
+"John Spencer Chikeziem Archinihu, M.D.",Melbourne,FL,32941,R-4406,12/31/2002,Inactive
+"Christopher Ian Arciszewski, M.D.",Stratford,UN,,R-4337,06/30/2000,Inactive
+"Anthony James Ard, M.D.",Pompano,FL,33062,N-6542,03/01/1985,Inactive
+"Thuy-Dung Thi Ardaman, M.D.",Carrollton,TX,75010,E-5098,09/30/2012,Inactive
+"ARDOC, P.A.",Hot Springs,AR,71913,MC-1851,09/30/2016,Active
+"Gregory Troy Ardoin, M.D.",LITTLE ROCK,AR,72205,E-6392,02/28/2017,Active
+"Shannon Edmonds Ardoin, M.D.",Little Rock,AR,72212,E-4819,07/31/2017,Active
+"Luis Francisco Ardon, M.D.",Montgomery,AL,36106,C-5263,07/31/2004,Inactive
+"Clarence Jay Arendall, M.D.",Alma,AR,72921,E-3514,05/31/2008,Inactive
+"Brian Raymond Arens, LRCP",Springdale,AR,72762,RCP-0123,03/01/1995,Inactive
+"SuEllen Candice Arentz, M.D.",Lubbock,TX,79430,E-6061,06/30/2014,Inactive
+"Alejandro Arevalo, M.D.",Memphis,TN,38103,E-7416,10/31/2016,Active
+"Enrique Romo Arevalos, M.D.",Goodlettsville,TN,37072,E-7212,03/31/2017,Active
+"Eric Arthur Argao, M.D.",Houston,TX,77007-2018,E-0340,09/30/1999,Inactive
+"Carmen L. Arick, M.D.",North Little Rock,AR,72114,E-0791,08/31/2016,Active
+"Tamara Lynne Arick, LRCP",North Little Rock,AR,72116,RCP-0563,07/31/2017,Active
+"Aris J. Calhoun, M.D., PLLC,  ",Newport,AR,72112,MC-1996,06/30/2004,Inactive
+"Jose  Luis Arjona, M.D.",Atlanta,GA,30305,,01/14/2015,Inactive
+"Ark-La-Tex Health Center, P.A.",Texarkana,AR,71854,MC-1712,01/31/2017,Active
+"Ark. Internal Medicine Clinic, P.A.",Sherwood,AR,72116,MC-0354,12/31/1999,Inactive
+"Arkadelphia Clinic for Children and Young Adults, P.A.",Arkadelphia,AR,71923,MC-1864,11/30/2016,Active
+"Arkadelphia Medical Associates, P.A.",Arkadelphia,AR,71923,MC-0174,05/31/2003,Inactive
+"Arkadelphia Medical Clinic, P.A.,  ",Arkadelphia,AR,71923,MC-2001,07/31/2011,Inactive
+"Arkadelphia Women's Clinic, P.A.",Arkadelphia,AR,71923,MC-1020,12/31/1994,Inactive
+"Arkansas Allergy & Asthma Clinic, P.A.",Little Rock,AR,72215,MC-0074,11/30/2016,Active
+"Arkansas Anesthesia, P.A.",Little Rock,AR,72215-5960,MC-0994,12/31/2003,Inactive
+"Arkansas Arthritis Clinic, P.A.",Little Rock,AR,72205,MC-1351,12/31/1991,Inactive
+"Arkansas Back Clinic, P.A.",Jacksonville,AR,72076,MC-1224,04/30/2008,Inactive
+"Arkansas Back Institute, P.A.,  ",Conway,AR,72034,MC-2384,09/30/2014,Inactive
+"Arkansas Bone & Joint Clinic, P.A.",Little Rock,AR,72205,MC-0034,12/31/1997,Inactive
+"Arkansas Cancer Clinic - Radiation Oncology, P.A.,  ",Pine Bluff,AR,71603,MC-2611,02/28/2009,Inactive
+"Arkansas Cancer Clinic, P.A.",Pine Bluff,AR,71603,MC-1379,09/30/2016,Active
+"Arkansas Cardiology Clinic, P.A.",Little Rock,AR,72203,MC-0912,10/31/2013,Inactive
+"Arkansas Cardiovascular Surgery Associates, P.A.",Little Rock,AR,72205,MC-0363,07/31/2016,Active
+"Arkansas Center For Arthroscopy, P.A.,  ",Bentonville,AR,72712,MC-2958,03/31/2017,Active
+"Arkansas Center for Ear, Nose, Throat & Allergy, P.A.",Fort Smith,AR,72903,MC-1457,03/31/2017,Active
+"Arkansas Center for Sleep Medicine, PLLC,  ",Little Rock,AR,72211,MC-1776,12/31/2016,Active
+"Arkansas Center for the Study of Intergrative Medicine, P.A.,  ",Conway,AR,72032,MC-2104,08/31/2003,Inactive
+"Arkansas Center for Women, Ltd.",Monticello,AR,71655,MC-1921,07/31/2017,Active
+"Arkansas Central Primary Care PLLC, d/b/a Jacksonville Medical Care,  ",Jacksonville,AR,72076,MC-3043,07/31/2017,Active
+"Arkansas Central Primary Care, PLLC,  ",Jacksonville,AR,72076,MC-2682,02/28/2017,Active
+"Arkansas Central Primary Care, PLLC, d/b/a Cabot Medical Care",Cabot,AR,72023,MC-3042,07/31/2016,Active
+"Arkansas Clinic for Women, PLLC,  ",Little Rock,AR,72223,MC-1962,12/31/2000,Inactive
+"Arkansas County Anesthesia and Pain Management, P.A.,  ",Stuttgart,AR,72160,MC-2445,09/30/2006,Inactive
+"Arkansas Dermatology Clinic, P.A.",Little Rock,AR,72223,MC-0731,01/31/2010,Inactive
+"Arkansas Dermatology Clinic, PLLC,  ",Little Rock,AR,72205,MC-2893,05/31/2017,Active
+"Arkansas Dermatology of Conway, PLLC,  ",Little Rock,AR,72205,MC-1955,12/31/2000,Inactive
+"Arkansas Dermatopathology, PLLC,  ",Little Rock,AR,72205,MC-2860,11/30/2016,Active
+"Arkansas Diabetes and Endocrinology Center, P.A.,  ",Little Rock,AR,72205,MC-2935,11/30/2016,Active
+"Arkansas Diabetes, Endocrinology & Osteoporosis Center, P.A.,  ",Hot Springs,AR,71913,MC-2016,09/30/2003,Inactive
+"Arkansas Diagnostic Center, P.A.",Little Rock,AR,72205,MC-0810,09/30/2016,Active
+"Arkansas Diagnostic Imaging, P.A.,  ",Little Rock,AR,72223,MC-2335,02/28/2017,Active
+"Arkansas Digestive Health, P.A.,  ",Pine Bluff,AR,71603,MC-2121,12/31/2003,Inactive
+"Arkansas Doctors' Emergency Group, P.A.",Little Rock,AR,72211,MC-1367,12/31/1995,Inactive
+"Arkansas Ear, Nose & Throat, P.A.,  ",North Little Rock,AR,72117,MC-2293,08/31/2006,Inactive
+"Arkansas Ear, Nose and Throat Clinic, P.A.,  ",Little Rock,AR,72207,MC-0111,01/31/2017,Active
+"Arkansas Emergency Call, PLLC,  ",Little Rock,AR,72223,MC-2763,05/30/2012,Inactive
+"Arkansas Emergency Care of West Memphis, P.A.",West Memphis,AR,72301,MC-0965,12/31/1992,Inactive
+"Arkansas Emergency Doctors, PLC,  ",Maumelle,AR,72113,MC-2097,08/31/2003,Inactive
+"Arkansas Emergency Group, PLLC,  ",Little Rock,AR,72205,MC-2814,01/31/2015,Inactive
+"Arkansas Emergency Physician Partners, PLLC,  ",Hollywood,FL,33021,MC-2941,12/31/2016,Active
+"Arkansas Emergency Physicians, P.L.L.C",Conway,AR,72032,MC-1779,01/31/2003,Inactive
+"Arkansas Endoscopy Center, P.A.",Little Rock,AR,72205,MC-1439,11/30/2016,Active
+"Arkansas Epilepsy Program, P.A.",Little Rock,AR,72205,MC-1509,03/31/2017,Active
+"Arkansas Eye Clinic, P.A.",Little Rock,AR,72205,MC-0224,12/31/1993,Inactive
+"Arkansas Eye Network, P.A.",Little Rock,AR,72205,MC-1737,12/31/1998,Inactive
+"Arkansas Eye Surgery, Frank S. Teed, M.D., P.A.",Arkadelphia,AR,71923,MC-1501,02/28/2017,Active
+"Arkansas Family Care Network, P.A.",North Little Rock,AR,72118,MC-0126,12/31/2016,Active
+"Arkansas Gastroenterology Associates, PLLC,  ",Hot Springs,AR,71913,MC-2427,05/31/2017,Active
+"Arkansas Gastroenterology Endoscopy Center, PLLC,  ",Hot Springs,AR,71913,MC-2428,05/31/2012,Inactive
+"Arkansas Gastroenterology Medical Group, P.A.",Paragould,AR,72450,MC-1711,01/31/2003,Inactive
+"Arkansas Gastroenterology, P.A.",North Little Rock,AR,72117,MC-1180,05/31/2007,Inactive
+"Arkansas Gyn Oncology, P.A.,  ",Little Rock,AR,72205,MC-2323,12/31/2004,Inactive
+"Arkansas Headache Clinic, P.A.",Little Rock,AR,72212,MC-1193,07/31/2017,Active
+"Arkansas Health Counseling for Women, P.A.",Little Rock,AR,72205,MC-1065,12/31/1999,Inactive
+"Arkansas Heart Center, PLC",Fort Smith,AR,72903,MC-1808,04/30/2014,Inactive
+"Arkansas Heart Clinic, P.A.",North Little Rock,AR,72114,MC-1411,12/31/1999,Inactive
+"Arkansas Heart Group, P.A.",Little Rock,AR,72205,MC-1639,12/31/1999,Inactive
+"Arkansas Heart Hospital Anesthesia Consultants, PLLC",Little Rock,AR,72211,MC-1811,04/30/2017,Active
+"Arkansas Hematology and Oncology, P.L.L.C.,  ",Hot Springs,AR,71901,MC-3075,12/31/2015,Inactive
+"Arkansas Hospitalist Partners, PLLC, ",Hollywood,FL,33021,MC-3145,10/31/2016,Active
+"Arkansas Hyperbaric Association, P.A.",Maumelle,AR,72113,MC-1076,06/30/2014,Inactive
+"Arkansas Internal Medicine Clinic, P.A.,  ",Little Rock,AR,72205,MC-2256,04/30/2016,Inactive
+"Arkansas Interventional Neuroradiology, P.A.,  ",Little Rock,AR,72223,MC-2675,02/28/2010,Inactive
+"Arkansas Knee Clinic, P.A.",Little Rock,AR,72223,MC-1777,01/31/2007,Inactive
+"Arkansas Medical & Wellness, P.A.,  ",Bentonville,AR,72712,MC-3034,05/31/2015,Inactive
+"Arkansas Medical Center, P.A.",Pine Bluff,AR,71613,MC-1836,07/31/2005,Inactive
+"Arkansas Medical Endocrinology, P.A.",Fort Smith,AR,72903,MC-0315,12/31/1995,Inactive
+"Arkansas Nephrology & Hypertension Clinic, P.A.,  ",Pine Bluff,AR,71603,MC-2728,09/30/2016,Active
+"Arkansas Nephrology Clinic, P.A.",Little Rock,AR,72205,MC-0276,12/31/1999,Inactive
+"Arkansas Neurosurgery Brain and Spine Clinic, P.A. d/b/a Arkansas Neurosurgery Clinic,  ",Little Rock,AR,72227,MC-2715,08/31/2016,Active
+"Arkansas Neurosurgery Clinic, P.A.",Little Rock,AR,72205,MC-1621,12/31/1995,Inactive
+"Arkansas OB/GYN Associates, PLLC,  ",Little Rock,AR,72205,MC-2524,10/31/2013,Inactive
+"Arkansas Occupational Medicine Services, P.A. d/b/a Arkansas Occupational Health Clinic-Van Buren,  ",Van Buren,AR,72956,MC-3074,11/30/2016,Active
+"Arkansas Occupational Medicine Services, P.A.,  ",Springdale,AR,72764,MC-2015,09/30/2016,Active
+"Arkansas Oculoplastic Surgery, PLLC,  ",Little Rock,AR,72205,MC-2470,01/31/2017,Active
+"Arkansas Oncology Associates, P.A.",Little Rock,AR,72207,MC-0429,07/31/2002,Inactive
+"Arkansas Oncology Clinic, P.A.",Little Rock,AR,72205,MC-0476,05/31/2004,Inactive
+"Arkansas Ophthalmology Associates, P.A.,  ",Little Rock,AR,72205,MC-1252,10/31/2016,Active
+"Arkansas Ophthalmology Clinic, P.A.",Hot Springs,AR,71913,MC-0517,09/30/2016,Active
+"Arkansas Orthopaedic & Sports Medicine Center, P.A.",Little Rock,AR,72205,MC-0116,12/31/1997,Inactive
+"Arkansas Orthopaedic Network, P.A.",Little Rock,AR,72205,MC-1636,12/31/1997,Inactive
+"Arkansas Orthopaedics, P.A.,  ",Jonesboro,AR,72401,MC-1053,01/31/2014,Inactive
+"Arkansas Orthopedic Surgery & Wellness Center, P.A.,  ",Hot Springs,AR,71901,MC-2987,08/31/2016,Active
+"Arkansas Orthopedics & Sports Medicine, P.A.,  ",Harrison,AR,72601,MC-2560,05/31/2011,Inactive
+"Arkansas Otolaryngology Center, P.A.",Little Rock,AR,72205-6203,MC-0139,08/31/2016,Active
+"Arkansas Pain & Wellness, LLC,  ",Fort Smith,AR,72901,MC-2869,01/31/2017,Active
+"Arkansas Pain Centers, Ltd.",North Little Rock,AR,72114,MC-1265,01/31/2002,Inactive
+"Arkansas Pain Management Associates, P.A.",Searcy,AR,72145,MC-1883,02/28/2017,Active
+"Arkansas Pathology Associates, P.A.",Little Rock,AR,72205,MC-1794,03/31/2010,Inactive
+"Arkansas Pediatric Clinic, PLLC,  ",Little Rock,AR,72205,MC-2221,12/31/2016,Active
+"Arkansas Pediatrics of Conway, P.A.",Conway,AR,72034,MC-1605,07/31/2017,Active
+"Arkansas Perinatal Services, P.A.,  ",Little Rock,AR,72205,MC-1889,05/31/2005,Inactive
+"Arkansas PHS, P.A.,  ",Hot Springs,AR,71913,MC-2847,09/30/2012,Inactive
+"Arkansas Physical Health & Rehab of Fayetteville, P.A.,  ",Fayetteville,AR,72704,MC-2123,12/31/2002,Inactive
+"Arkansas Physical Health & Rehab of Northwest Arkansas, P.A.,  ",Fayetteville,AR,72704,MC-2257,05/31/2007,Inactive
+"Arkansas Physicians Health Plans, P.A.",Fayetteville,AR,72703,MC-1633,12/31/1996,Inactive
+"Arkansas Plastic Surgery, P.A.,  ",Little Rock,AR,72205,MC-2606,01/31/2017,Active
+"Arkansas Psychiatric Clinic Clinical Research Trials, P.A.,  ",Little Rock,AR,72223,MC-2550,04/30/2008,Inactive
+"Arkansas Psychiatric Services, PLLC,  ",Little Rock,AR,72203,MC-2916,07/31/2014,Inactive
+"Arkansas Quick Care, P.A.,  ",Jacksonville,AR,72076,MC-2982,07/31/2017,Active
+"Arkansas Radiology Affiliates, P.A.,  ",Russellville,AR,72801,MC-2305,10/31/2009,Inactive
+"Arkansas Radiology Group, P.A.",Searcy,AR,72143,MC-1043,10/31/2003,Inactive
+"Arkansas Renal Group, P.A.,  ",Hot Springs,AR,71913,MC-2876,02/28/2017,Active
+"Arkansas Specialty Care Centers, P.A.",Little Rock,AR,72205,MC-1335,09/30/2002,Inactive
+"Arkansas Specialty Therapy and Diagnostic Center, L.L.C",Little Rock,AR,72205,MC-1964,02/28/2017,Active
+"Arkansas Spine and Sports Institute, P.A.,  ",Little Rock,AR,72223,MC-2071,06/30/2008,Inactive
+"Arkansas Sports Medicine & Orthopedic Center, P.A.",Little Rock,AR,72205,MC-1340,12/31/1998,Inactive
+"Arkansas Sports Physical Therapy, P.A.",Little Rock,AR,72205,MC-1339,12/31/1998,Inactive
+"Arkansas Surgical Associates, P.A.",Little Rock,AR,72204,MC-1170,12/31/1994,Inactive
+"Arkansas Surgical Group, P.L.L.C.,  ",Fort Smith,AR,72901,MC-2316,11/30/2007,Inactive
+"Arkansas Treatment Services, P.A.,  ",Texarkana,AR,71854,MC-2822,04/30/2017,Active
+"Arkansas Urology Clinic, Ltd.",Jonesboro,AR,72401,MC-0918,07/31/2014,Inactive
+"Arkansas Urology, P.A. ",Little Rock,AR,72211,MC-1638,01/31/2017,Active
+"Arkansas Valley Anesthesia Associates, P.A.",Russellville,AR,72811,MC-1195,07/31/2016,Active
+"Arkansas Valley Medical Clinic, P.A.",Collierville,TN,38017,MC-0835,12/31/2008,Inactive
+"Arkansas Women's Center, P.A.",Little Rock,AR,72205,MC-1106,10/31/2013,Inactive
+"James Henry Arkins, M.D.",Bella Vista,AR,72714,C-4909,03/31/2017,Active
+"Jill Marie Arkins, OT-A",Fawn Grove,PA,17321,OT-A690,01/31/2013,Inactive
+"Arlee E. Pollard, M.D., P.A.,  ",Little Rock,AR,72207,MC-250,10/31/2013,Inactive
+"Ray Armand, M.D.",Woodbury,NJ,08096,E-7077,06/30/2017,Active
+"Alberto Santos Armas, M.D.",Tucson,AZ,85750,R-4070,11/30/2000,Inactive
+"Andrew Anthony Armato, D.O.",Iola,KS,66749-1101,R-3942,11/30/2008,Inactive
+"Wilbur Frank Armbrust, M.D.",Maryville,CA,95901,C-3139,03/31/1999,Inactive
+"William Herbert Armes, Jr., M.D.",Germantown,TN,38138,R-3048,03/01/1993,Inactive
+"Charles Wrightsman Armistead, Jr., M.D.",Mountain Home,AR,72653,E-3046,12/31/2016,Active
+"Charles Wrightsman Armistead, Jr., M.D.",Mountain Home,AR,72653,T2001-117,10/05/2001,Inactive
+"Janet R. Armour, OT",,UN,,OTR185,07/31/1991,Inactive
+"Adam Mathew Armstead, M.D.",Hartford,CT,38117,E-5500,09/30/2010,Inactive
+"Cheryl Ann Armstrong, M.D.",Denver,CO,80204,E-5770,07/31/2014,Inactive
+"Cheryl I. Armstrong, OT",Montgomery,AL,36116,OTR1085,07/31/1999,Inactive
+"Dajuana Rochelle Armstrong, LRCP",Little Rock,AR,72209,RCP-3254,01/31/2012,Inactive
+"Dajuana Rochelle Armstrong, LRCP",Little Rock,AR,72209,R-T1027,09/25/2010,Inactive
+"Elizabeth Millwee Armstrong, M.D.",McCrory,AR,72101,C-5732,08/31/2008,Inactive
+"Herman Lee Armstrong, M.D.",,,,C-607,,Inactive
+"Howard Morris Armstrong, M.D.",Little Rock,AR,72212,C-1480,03/01/1998,Inactive
+"James Douglas Armstrong, M.D.",Ashdown,AR,71822,C-3060,03/01/1997,Inactive
+"Jessica Leigh Armstrong, LRCP",Bentonville,AR,72712,RCP-3325,11/30/2016,Active
+"Kelley V. Armstrong, OT",Benton,AR,72015,OTR1006,09/30/2005,Inactive
+"Larry Gene Armstrong, D.O.",Fayetteville,AR,72703,E-2983,11/30/2016,Active
+"Larry Gene Armstrong, D.O.",Fayetteville,AR,72703,T2001-073,08/10/2001,Inactive
+"Lyman Guy Armstrong, M.D.",Louisville,KY,40207,C-4087,03/01/1998,Inactive
+"Ota Maco Chasteen Armstrong, M.D.",,,,C-523,,Inactive
+"Paul Alexander Armstrong, D.O.",Tampa,FL,33606,E-2739,12/31/2016,Active
+"Ralph L. Armstrong, M.D.",,,,C-649,,Inactive
+"Richard Parker Armstrong, M.D.",Little Rock,AR,72221,E-2150,03/31/2015,Inactive
+"Simmie Armstrong, Jr., M.D.",Pine Bluff,AR,71603,C-6070,08/31/2016,Active
+"Sinclair Walker Armstrong, Jr., M.D.",Vian,OK,74962,R-2359,07/31/2016,Active
+"Stacy Lynn Armstrong, D.O.",Harrison,AR,72601,E-3883,01/31/2017,Active
+"Terry D. Armstrong, LRCP",Poteau,OK,74953,RCP-1140,07/31/2016,Active
+"Victor Matthew Armstrong, D.O.",Harrison,AR,72601,E-3884,04/30/2017,Active
+"Faye Gladys Armstrong-Paap, M.D.",Springdale,AR,72766,E-4693,11/30/2008,Inactive
+"Faye Gladys Armstrong-Paap, M.D.",Springdale,AR,72766,T2005-169,02/03/2006,Inactive
+"Konstantinos Arnaoutakis, M.D.",Little Rock,AR,72223,E-5915,06/30/2017,Active
+"Kenan Arnautovic, M.D.",Memphis,TN,38120,E-2151,06/30/2017,Active
+"Robert Don Arnce, Jr., M.D.",Joplin,MO,64801,E-5545,03/31/2017,Active
+"Robert Don Arnce, Jr., M.D.",Joplin,MO,64801,T2008-022,04/04/2008,Inactive
+"Esther Elizabeth Arnette, M.D.",Covina,CA,91722,E-0074,03/01/1995,Inactive
+"William Bruce Arnette, LRCP",Fayetteville,AR,72703,RCP-1502,01/31/2003,Inactive
+"Ann Carol Arnold, M.D.",Plano,TX,75075,C-4447,06/30/2007,Inactive
+"Carl Berry Arnold, M.D.",Salem,AR,72576,C-2754,11/30/2001,Inactive
+"Christopher Allen Arnold, M.D.",Fayetteville,AR,72703,E-2152,03/31/2017,Active
+"David Michael Arnold, M.D.",Franklin,TN,37067,N-7842,12/31/2016,Active
+"Georgianne Lee Arnold, M.D.",Little Rock,AR,72202,N-8129,03/01/1995,Inactive
+"Griffin Alexander Arnold, II, M.D.",Salem,AR,72576,C-7652,09/30/2016,Active
+"James Allen Arnold, M.D.",Fayetteville,AR,72703,R-2259,09/30/2002,Inactive
+"James Anthony Arnold, M.D.",Little Rock,AR,72211,E-6393,11/30/2016,Active
+"James Robert Arnold, M.D.",Hot Springs,AR,71913,E-1798,08/31/2016,Active
+"James Robert Arnold, M.D.",Hot Springs,AR,71913,T98-113,09/18/1998,Inactive
+"John F. Arnold, M.D.",Atlanta,GA,30309,E-0898,03/31/2017,Active
+"Leah S. Arnold, LRCP",Imboden,AR,72434,RCP-3237,01/31/2017,Active
+"Leah S. Arnold, LRCP",Imboden,AR,72434,R-T1052,12/24/2010,Inactive
+"Nicole A. Arnold, LRCP",Fort Smith,AR,72908,RCP-1248,12/31/2016,Active
+"Patrick Hill Arnold, M.D.",Tempe,AZ,85284,E-4899,05/31/2015,Inactive
+"Patrick Hill Arnold, M.D.",Tempe,AZ,85284,E-4899,05/31/2008,Inactive
+"Paul Norman Arnold, M.D.",Ashland,OR,97520,E-5436,01/31/2012,Inactive
+"Priscilla Perry Arnold, M.D.",Blue Eye,MO,65611,R-3741,02/28/2011,Inactive
+"Robert Sidney Arnold, M.D.",Colorado Springs,CO,80919,C-7051,06/30/1999,Inactive
+"Samuel Houston Arnold, III, D.O.",Camden,AR,71701,E-2458,01/31/2017,Active
+"Shea Salley Arnold, PA",Rogers,AR,72758,PA-328,06/30/2017,Active
+"Shea Salley Arnold, PA",Rogers,AR,72758,P-T0725,12/05/2007,Inactive
+"Sidney William Arnold, M.D.",Marked Tree,AR,72365,C-2618,08/31/2003,Inactive
+"Tonya Dawn Arnold, LRCP",El Dorado,AR,71730,RCP-3822,03/31/2017,Active
+"Watson Caufield Arnold, M.D.",Fort Worth,TX,76104,R-2540,03/01/1994,Inactive
+"William Owen Arnold, M.D.",Hot Springs,AR,71901,C-1103,,Inactive
+"Melanie Paige Arnst, OT",,UN,,,,Inactive
+"Tonya Fay Arntz, OT",Russellville,AR,72801,OTR1730,10/31/2003,Inactive
+"Stephen Charles Arny, M.D.",Navarre,FL,32566,E-5139,06/30/2008,Inactive
+"Stephen Charles Arny, M.D.",Navarre,FL,32566,T2007-012,02/02/2007,Inactive
+"Michael D. Aronoff, M.D.",Austin,TX,73765,E-1510,05/31/2003,Inactive
+"James Aronson, M.D.",Little Rock,AR,72202-3591,N-6744,10/31/2016,Active
+"Joseph David Aronson, M.D.",,,,R-201,,Inactive
+"Harendra Arora, M.D.",Beachwood,OH,44122,E-2378,07/31/2009,Inactive
+"Neeraj Arora, M.D.",Shreveport,LA,71115,,,Inactive
+"Veena Arora, OT",,UN,,,,Inactive
+"Veena Arora, OT",,UN,,,12/31/1996,Inactive
+"Veena Arora, OT",,UN,,,10/31/1995,Inactive
+"Alejandro Arpayoglou, M.D.",Pocahontas,AR,72455,R-3481,03/01/1991,Inactive
+"Beatriz Arpayoglou, M.D.",Kearny,NJ,07032,R-3599,03/01/1987,Inactive
+"Arrhythmia Associates of NEA, LLC,  ",Batesville,AR,72501,MC-2533,12/31/2016,Active
+"Arrhythmia Associates of NEA, LLC,  ",Batesville,AR,72501,MC-2024,12/31/2000,Inactive
+"James C. Arrington, M.D.",Lewisville,AR,71845,N-8130,12/31/2016,Active
+"Robert Walker Arrington, M.D.",Little Rock,AR,72202,C-4175,08/31/2016,Active
+"Thell Snowden Arrington, Jr., M.D.",Jacksonville,TX,75766,C-2755,03/01/1972,Inactive
+"ARROWMAKER, PLC,  ",Jonesboro,AR,72404,MC-2774,06/30/2012,Inactive
+"Maximiliano Arroyo, M.D.",Jonesboro,AR,72401,E-5142,03/31/2017,Active
+"Jose Antonio Lingordo Arruda, M.D.",Chicago,IL,60612,R-3097,05/31/2017,Active
+"Samah Arsanious, M.D.",Riverside,CA,92508,E-9611,10/31/2016,Active
+"Abdullah Arshad, M.D.",Hayti,MO,63851,E-9420,02/28/2017,Active
+"Abdullah Arshad, M.D.",Hayti,MO,63851,T2015-089,10/02/2015,Inactive
+"Muhammad Arshad, M.D.",Fredericksburg,VA,22407,E-5975,04/30/2017,Active
+"Muhammad Arshad, M.D.",Little Rock,AR,72205,E-3580,04/30/2017,Active
+"Shukaib Arslan, M.D.",Little Rock,AR,72205,E-8710,11/30/2015,Inactive
+"Shukaib Arslan, M.D.",Little Rock,AR,72205,T2014-066,06/06/2014,Inactive
+"Jihad Arteh, M.D.",Dallas,TX,75225,E-7149,08/31/2016,Active
+"Marcus Wayne Arterbury, LRCP",Conway,AR,72032,RCP-3217,12/31/2016,Active
+"Arthritis Associates of Northwest Arkansas, P.A.,  ",Springdale,AR,72764,MC-2085,07/31/2008,Inactive
+"Ciji Arthur, M.D.",Little Rock,AR,72202,E-7552,06/30/2017,Active
+"James Michael Arthur, M.D.",Hot Springs,AR,71913-6462,C-4910,01/31/2017,Active
+"John Michael Arthur, M.D.",Little Rock,AR,72205,E-9280,09/30/2016,Active
+"John Michael Arthur, M.D.",Little Rock,AR,72205,T2015-057,08/07/2015,Inactive
+"Kyle Evan Arthur, M.D.",Fayetteville,AR,72703,E-8297,04/30/2017,Active
+"Mary Elizabeth Arthur, M.D.",Hot Springs,AR,71901,C-2288,03/31/2010,Inactive
+"Fnu Artika, M.D.",Mankato,MN,56001,E-6675,02/28/2017,Active
+"Kamal Haydari Artin, M.D.",Baltimore,MD,21287,E-2420,09/30/2001,Inactive
+"Nicholas C. Artymowski, LRCP",Newport,AR,72112,RCP-2737,12/31/2016,Active
+"John Ford Aruffo, M.D.",Little Rock,AR,72205,C-7817,07/31/2017,Active
+"Narin Arunakul, M.D.",Branson,MO,65616,E-4694,06/30/2017,Active
+"Malaviya Binal Arvind, OT",,UN,,,,Inactive
+"Andreea Ingrid Arvinte, M.D.",Broomfield,CO,80020,E-1688,09/30/2005,Inactive
+"Kapil Arya, M.D.",Brooklyn,NY,11203,E-9730,09/30/2016,Active
+"Elizabeth Mary Arze, M.D.",Johnson City,TN,37614,E-9596,05/31/2017,Active
+"Fernando Asdrubal Arzola, M.D.",Van Buren,AR,72956,E-7732,09/30/2016,Active
+"Fernando Asdrubal Arzola, M.D.",Van Buren,AR,72956,T2012-065,10/05/2012,Inactive
+"Aimee Lynn Arzoumanian, PA",Fort Smith,AR,72902,PA-283,08/31/2016,Active
+"Aimee Lynn Arzoumanian, PA",Fort Smith,AR,72902,P-T0607,06/07/2006,Inactive
+"Varant Berj Arzoumanian, M.D.",Fort Smith,AR,72908,E-5437,03/31/2017,Active
+"Younis Ahmad Asad, M.D.",Toledo,OH,43623,R-2829,03/01/1994,Inactive
+"Saeedah Asaf, M.D.",Lahore,,,E-7854,11/30/2016,Active
+"Benjamin Asafo-Boakye, M.D.",Blytheville,AR,72315,E-4133,04/30/2017,Active
+"Benjamin Asafo-Boakye, M.D.",Blytheville,AR,72315,T2004-036,08/27/2004,Inactive
+"Rebecca D. Asberry, LRCP",Harrison,AR,72601,RCP-2381,02/28/2017,Active
+"Charles Wade Asbury, Sr., M.D.",Hot Springs Village,AR,71909,R-2624,03/01/1992,Inactive
+"Dale Wayne Asbury, M.D.",Fort Smith,AR,72903,C-6210,10/31/2016,Active
+"Rolando C. Ascarrunz, M.D.",Montgomery,TX,77356,,,Inactive
+"Oboma Asemota, M.D.",Dumas,AR,71639,R-4419,12/31/2016,Active
+"Golda Rama Aseniero, OT",Farmington,MO,63640,OTR2058,01/31/2014,Inactive
+"Ahmed Mohamed Saleh Asfari, M.D.",Springdale,AR,72764,E-8984,03/31/2017,Active
+"Sheila Joyce Asghar, M.D.",Casper,WY,82609,E-5297,11/30/2016,Active
+"Sheila Joyce Asghar, M.D.",Casper,WY,82609,T2007-098,08/03/2007,Inactive
+"Darby Jo Ash, LRCP",Little Rock,AR,72223,RCP-2779,06/30/2008,Inactive
+"Lorraine Marjorie Ash, D.O.",Bakersfield,CA,93311,E-6394,04/30/2017,Active
+"Myra Burgess Anders Ash, M.D.",Vilonia,AR,72173,C-5631,04/30/2008,Inactive
+"Wesley James Ashabranner, M.D.",Heber Springs,AR,72543,C-5558,07/31/2016,Active
+"Darrin Dale Ashbrooks, M.D.",Ashdown,AR,71822,E-4821,09/30/2016,Active
+"Darrin Dale Ashbrooks, M.D.",Ashdown,AR,71822,T2006-065,06/09/2006,Inactive
+"John Wesley Ashby, M.D.",Benton,AR,72015,C-1245,03/01/1992,Inactive
+"Robert Milton Ashby, M.D.",Benton,AR,72019,C-4009,07/31/2011,Inactive
+"Harty Elouise Ashby-Richardson, D.O.",Irving,TX,75039,E-6889,01/31/2012,Inactive
+"Harty Elouise Ashby-Richardson, D.O.",Irving,TX,75039,T2011-018,04/08/2011,Inactive
+"Cynthia Kaye Ashcraft, M.D.",Fort Smith,AR,72903,C-6785,10/31/2016,Active
+"Edmond Wayne Ashcraft, M.D.",Little Rock,AR,72202,C-5029,09/30/2016,Active
+"Keith Edward Ashcraft, M.D.",Little Rock,AR,72205,C-4797,03/01/1992,Inactive
+"Ted Eugene Ashcraft, M.D.",Fayetteville,AR,72701,C-3086,11/30/2012,Inactive
+"Thomas Lee Ashcraft, M.D.",Tulsa,OK,74114,C-2369,03/31/2010,Inactive
+"Ashdown Southern Clinic, P.L.L.C.,  ",Ashdown,AR,71822,MC-2356,05/31/2008,Inactive
+"Barbara Elaine Ashe, M.D.",Fayetteville,AR,72703,R-4152,01/31/2017,Active
+"Winnie M. Asher, LRCP",Lavaca,AR,72941,RCP-0686,05/31/2017,Active
+"Marvin Winston Ashford, Jr., M.D.",North Little Rock,AR,72117,E-3997,05/31/2017,Active
+"Walter Pepper Ashford, M.D.",Goodlettsville,TN,37072,R-2061,12/31/2015,Inactive
+"Michele D. Ashing, LRCP",Hackett,AR,72937,RCP-1870,01/31/2007,Inactive
+"Ashley County Family Medicine, P.L.L.C.",Hamburg,AR,71646,MC-1880,01/31/2005,Inactive
+"Ashley Erin Mason, M.D., P.A., ",Springdale,AR,72762,MC-3090,02/28/2017,Active
+"Ashley Fleniken, M.D., P.A.,  ",Russellville,AR,72811,MC-2086,08/31/2002,Inactive
+"Brenda Helen Ashley, M.D.",Cabot,AR,72023,E-3949,03/31/2017,Active
+"Brenda Helen Ashley, M.D.",Cabot,AR,72023,T2004-002,02/06/2004,Inactive
+"Chimere Ashanta Ashley, M.D.",Blytheville,AR,72315,E-5771,12/31/2016,Active
+"Christopher Paul Ashley, M.D.",Maumelle,AR,72113,E-0156,03/01/1998,Inactive
+"John Dewitt Ashley, Jr., M.D.",Newport,AR,72112,R-1174,06/30/1999,Inactive
+"Lauren E. Ashley, OT",Newark,AR,72562,OTR2752,10/31/2016,Active
+"James Dale Ashmore, M.D.",Muscle Shoals,AL,35661,R-2855,05/31/1999,Inactive
+"Pamela S. Ashmore, LRCP",Dallas,TX,75230,RCP-2961,11/30/2012,Inactive
+"Stephen Paul Ashodian, M.D.",Jonesboro,AR,72401,E-4059,03/31/2017,Active
+"Wael Asi, M.D.",Van Buren,AR,72956,E-0642,08/31/1999,Inactive
+"Asim Raza, M.D., P.A.,  ",Conway,AR,72034,MC-2329,01/31/2017,Active
+"Muhammad Ali Asim, M.D.",Memphis,TN,38103,E-5772,07/31/2009,Inactive
+"Muhammad Ali Asim, M.D.",Memphis,TN,38103,T2008-105,10/03/2008,Inactive
+"Raza Askari, M.D.",Memphis,TN,38103,E-6395,02/28/2017,Active
+"Raza Askari, M.D.",Memphis,TN,38103,T2010-011,04/09/2010,Inactive
+"J. B. Askew, M.D.",San Diego,CA,92106,C-1265,03/01/1991,Inactive
+"Fawad Aslam, M.D.",Eau Claire,WI,54702,E-7182,02/28/2015,Inactive
+"Naeem Aslam, M.D.",Memphis,TN,38103,,,Inactive
+"Sheba J. Aslam, LRCP",Springdale,AR,72764,RCP-2460,09/30/2005,Inactive
+"Salomon N. Asmar-Rizek, M.D.",Jackson,TN,38305,N-7599,01/31/2004,Inactive
+"Robert Waynewright Aspell, M.D.",Hot Springs,AR,71913,C-4575,08/31/2016,Active
+"Sheryl Lynn Asplund, M.D.",Phoenix,AZ,85040,E-7063,01/31/2014,Inactive
+"Kidane H. Assefa, M.D.",Memphis,TN,38120,E-3754,01/31/2006,Inactive
+"Kidane H. Assefa, M.D.",Memphis,TN,38120,T2003-077,08/08/2003,Inactive
+"Associated Pathologists Laboratory, P.A.",El Dorado,AR,71730,MC-0110,01/31/2017,Active
+"Associated Radiologists, Ltd.",Jonesboro,AR,72401,MC-0222,01/31/2017,Active
+"Hal Gene Astle, Jr., M.D.",Bentonville,AR,72712,C-8483,10/31/2015,Inactive
+"Hal Gene Astle, Jr., M.D.",Bentonville,AR,72712,C-8483,03/01/1998,Inactive
+"Nancy Jane Astle, M.D.",Huntersville,NC,28078,N-8068,03/01/1995,Inactive
+"James Kenneth Aston, M.D.",Jonesboro,AR,72404,R-2346,09/30/2006,Inactive
+"Marta Atalla, M.D.",Mountain Home,AR,72653,E-6302,07/31/2013,Inactive
+"Marta Atalla, M.D.",Mountain Home,AR,72653,T2009-132,12/04/2009,Inactive
+"James William David Atchison, M.D.",West Monroe,LA,71294,R-4705,07/31/2013,Inactive
+"James William David Atchison, M.D.",West Monroe,LA,71294,T2009-056,06/05/2009,Inactive
+"William Thomas Atchley, M.D.",Little Rock,AR,72205,E-9352,06/30/2017,Active
+"Timothy Carlton Atha, M.D.",Corvallis,OR,97330,R-3410,12/31/2016,Active
+"Syed Ahmed Athar, M.D.",Russellville,AR,72801,E-8144,06/30/2017,Active
+"Leon George Atherton, M.D.",Hot Springs,AR,71901,R-1644,08/31/2008,Inactive
+"Prasad J. Athota, M.D.",Brinkley,AR,72021,R-4382,05/31/2017,Active
+"Ranulfo A. Atienza, M.D.",Galesburg,IL,61401,C-5030,03/01/1995,Inactive
+"Atif Akhtar, M.D., P.A.,  ",Conway,AR,72034,MC-2596,10/31/2016,Active
+"Omar Taimoor Atiq, M.D.",Little Rock,AR,72205,R-4174,10/31/2016,Active
+"Alan Jackson Atkins, M.D.",Arkadelphia,AR,71923,C-7242,09/30/2016,Active
+"Herbert Atkins, M.D.",,,,C-119,,Inactive
+"James  Roy Atkins, Jr., M.D.",Little Rock,AR,72205,E-9486,07/31/2017,Active
+"Jimmie George Atkins, M.D.",Fort Smith,AR,72903,R-2119,01/31/2016,Inactive
+"Mary Jewell T. Atkins, M.D.",Benton,AR,72019,R-2391,07/31/2016,Active
+"Ruby Dell Atkins, LRCP",Greenville,MS,38703,RCP-2297,01/31/2017,Active
+"Susan Gail Atkins, OT",Princeton,TX,75407,,,Inactive
+"Edward Atkinson, III, M.D.",Memphis,TN,38119,R-3963,12/31/2016,Active
+"Edward Atkinson, III, M.D.",Memphis,TN,38119,R-3963,03/01/1992,Inactive
+"Edward Atkinson, III, M.D.",Memphis,TN,38119,T2000-071,10/06/2000,Inactive
+"Evangelina Calzada Atkinson, M.D.",Little Rock,AR,72223,C-5911,10/31/2016,Active
+"George Stanford Atkinson, M.D.",Mesa,AZ,85206,C-1206,03/01/1990,Inactive
+"Gordon Allen Atkinson, M.D.",,,,C-2370,,Inactive
+"James Clay Atkinson, M.D.",,,,R-1371,,Inactive
+"Robbie R. Atkinson, M.D.",Pine Bluff,AR,71603,C-5909,07/31/2017,Active
+"Robert Cain Atkinson, M.D.",Roswell,GA,30076,R-3558,03/01/1992,Inactive
+"Robert Henry Atkinson, M.D.",Hot Springs,AR,71913,R-1128,03/01/1992,Inactive
+"Ruth Ann Vest Atkinson, M.D.",Albuquerque,NM,87112,C-2537,03/01/1996,Inactive
+"Susan Eila Atkinson, OT",,UN,,OTR364,02/28/1991,Inactive
+"Thomas William Atkinson, M.D.",Fayetteville,AR,72703,C-5953,03/31/2017,Active
+"Thomas William Atkinson, M.D.",Fayetteville,AR,72703,T96-078,09/12/1997,Inactive
+"William Edward Atkinson, Jr., M.D.",Little Rock,AR,72212,C-4163,01/31/2017,Active
+"Maggie Catherine Atkinson-Macchiarella, LRCP",North Little Rock,AR,72116,RCP-3767,07/31/2017,Active
+"Thomas Lorenzo Atlas, M.D.",Tustin,CA,92780,E-2831,11/30/2016,Active
+"Dileep Kumar Atluri, M.D.",Little Rock,AR,72205,E-8516,07/31/2016,Active
+"Dileep Kumar Atluri, M.D.",Little Rock,AR,72205,T2014-025,04/04/2014,Inactive
+"Keerthi Atluri, M.D.",Little Rock,AR,72205,E-8534,04/30/2017,Active
+"Keerthi Atluri, M.D.",Little Rock,AR,72205,T2014-031,04/04/2014,Inactive
+"Amanda Rochelle Atnip, LRCP",Carl Junction,MO,64834,RCP-2508,12/31/2016,Active
+"Amanda Rochelle Atnip, LRCP",Carl Junction,MO,64834,RCP-2508,12/31/2008,Inactive
+"Gwyn Atnip, M.D.",Pine Bluff,AR,71603,C-2371,02/28/2006,Inactive
+"Shebli Atrash, M.D.",Little Rock,AR,72205,E-7183,10/31/2016,Active
+"Sean-Paul Adonis Atreides, M.D.",Little Rock,AR,72210,E-2611,11/30/2011,Inactive
+"Michael Komla Akofa Atta, M.D.",Cranberry Township,PA,16066,E-3444,10/31/2015,Inactive
+"Michael Komla Akofa Atta, M.D.",Cranberry Township,PA,16066,T2002-109,10/04/2002,Inactive
+"Augustine Kwadwo Attiah, M.D.",Desoto,TX,75115,E-7553,09/30/2016,Active
+"Augustine Kwadwo Attiah, M.D.",Desoto,TX,75115,T2012-029,06/08/2012,Inactive
+"Charles Raymond Attwood, M.D.",Crowley,LA,70526,C-2895,05/31/1999,Inactive
+"Harvie Marks Attwood, M.D.",Rison,AR,71665,C-5945,10/31/2016,Active
+"Herbert Dale Atwell, LRCP",Rudy,AR,72952,RCP-0214,12/31/2003,Inactive
+"Terry W. Atwell, OT",Conway,AR,72032,OTR946,04/30/2017,Active
+"Terry W. Atwell, OT",Conway,AR,72032,,10/31/1995,Inactive
+"Horace Daniel Atwood, M.D.",Fayetteville,AR,72703,R-3739,11/30/2016,Active
+"William Yat Wo Au, M.D.",Sherburne,NY,13460,C-5317,02/28/2003,Inactive
+"John Forsyth Aubrey, M.D.",,,,R-1171,,Inactive
+"John Albert Aucar, M.D.",Columbia,MO,65212,N-7574,09/30/2000,Inactive
+"Yamil Wady Aude, M.D.",McAllen,TX,78501,E-3099,07/31/2011,Inactive
+"Yamil Wady Aude, M.D.",McAllen,TX,78501,T2001-124,12/07/2001,Inactive
+"Paul John Audette, M.D.",,,,R-1399,,Inactive
+"Eugene  Joseph Henry Audi, M.D.",,,,R-1381,,Inactive
+"Jeff M. Audibert, M.D.",Rogers,AR,72758,R-3340,08/31/2016,Active
+"Ken Douglas Augspurger, M.D.",,,,C-5337,,Inactive
+"Richard A. Augustin, LRCP",Sulphur Springs,AR,72768,RCP-1778,02/28/2017,Active
+"Paul Augustine, M.D.",Zachary,LA,70791,R-4071,05/31/2000,Inactive
+"Valerie Louise Augustus, M.D.",Bartlett,TN,38134,E-1605,02/28/2005,Inactive
+"Tiffany Paige Aukes, OT-A",Lonoke,AR,72086,OT-A532,10/31/2016,Active
+"Tiffany Paige Aukes, OT-A",Lonoke,AR,72086,O-T0824,11/14/2008,Inactive
+"Jim G. Aukstuolis, M.D.",Little Rock,AR,72205,C-7243,02/28/2017,Active
+"Kanwaljit Singh Aulakh, M.D.",Tulsa,OK,74146,E-8663,02/28/2017,Active
+"Lorelei Alyse Aulenback, LRCP",Bryant,AR,72022,RCP-3201,11/30/2016,Active
+"Lorelei Alyse Aulenback, LRCP",Bryant,AR,72022,R-T1020,09/04/2010,Inactive
+"Charles Carter Ault, M.D.",Sherwood,AR,72116,C-962,03/01/1991,Inactive
+"Lauren Kay Ault, OT",Hot Springs,AR,71909,OTR2628,10/31/2016,Active
+"Lauren Kay Ault, OT",Hot Springs,AR,71909,O-T1332,10/04/2013,Inactive
+"Lawrence Carroll Ault, III, M.D.",Little Rock,AR,72211,N-7862,01/31/2017,Active
+"Tu Tu Aung-Hillman, M.D.",Memphis,TN,38119,,,Inactive
+"Jennifer Patricia Aunspaugh, M.D.",Little Rock,AR,72202,E-5695,01/31/2017,Active
+"Martin J. Aurelio, OT",,UN,,OTR505,11/30/1994,Inactive
+"Komal Aurora, OT",McComb,MS,39648,,,Inactive
+"Austin Medical Clinic, P.A.",Mena,AR,71953,MC-0118,12/31/1998,Inactive
+"Angela Michele Austin, LRCP",Clarkridge,AR,72623,RCP-2524,04/30/2017,Active
+"Barbara L. Austin, OT-A",Texarkana,TX,75503,OT-A189,03/31/2002,Inactive
+"Calvin Dwayne Austin, M.D.",Mena,AR,71953,C-2671,06/30/1999,Inactive
+"Carleton Banks Austin, M.D.",,,,C-513,,Inactive
+"Charles Paul Austin, M.D.",,,,C-359,,Inactive
+"Charles Windell Austin, OT",Hensley,AR,72065,OTR1606,06/30/2017,Active
+"Charles Windell Austin, OT",Hensley,AR,72065,O-T0122,06/05/2001,Inactive
+"Leonidas B. Austin, M.D.",,,,R-629,,Inactive
+"Lester Kaufman Austin, Jr., M.D.",Fairfield Bay,AR,72088,C-2844,12/31/2003,Inactive
+"Melissa Alane Austin, OT",North Little Rock,AR,72116,OTR2829,11/30/2016,Active
+"Nathaniel Fay Austin, M.D.",Russellville,AR,72802,C-4448,02/28/2017,Active
+"Ralph Stephen Austin, M.D.",Jonesboro,AR,72401,N-7426,10/31/2015,Inactive
+"Richard Lee Austin, M.D.",Hot Springs Village,AR,71909,R-3560,03/01/1992,Inactive
+"Chris Allen Authement, M.D.",Houma,LA,70360,R-4243,03/01/1996,Inactive
+"Bruce Autry, OT",West Plains,MO,65775,OTR2307,03/31/2017,Active
+"Daniel Hill Autry, M.D.",Little Rock,AR,72205,C-1157,03/01/1991,Inactive
+"Paul G. Autry, M.D.",Little Rock,AR,72207,C-1041,03/01/1991,Inactive
+"Autumn Road Family Practice, P.A.",Little Rock,AR,72211,MC-0079,01/31/2017,Active
+"Available Medical Care, P.A.",Fort Smith,AR,72903,MC-1231,05/31/2004,Inactive
+"Visa Lahang Avance, OT-A",Little Rock,AR,72204,OT-A545,10/31/2016,Active
+"Jay Scott Avant, LRCP",Delaware,AR,72835,RCP-0291,06/30/2015,Inactive
+"Michael Grant Avant, M.D.",Little Rock,AR,72202,N-8408,03/01/1998,Inactive
+"Rhea Lynn Avant, LRCP",Crossett,AR,71635,RCP-3608,10/31/2016,Active
+"Rhea Lynn Avant, LRCP",Crossett,AR,71635,R-T1302,07/23/2013,Inactive
+"Yaniris R. Avellanet, M.D.",Little Rock,AR,72223,E-6243,08/31/2011,Inactive
+"Jose Alberto Avendano, OT-A",Tucson,AZ,85735,OT-A192,02/28/1998,Inactive
+"Jayson Drew Avenmarg, M.D.",Springdale,AR,72762,,,Inactive
+"Joseph Averbach, M.D.",Palm Bch Gdns,FL,33420,E-5976,02/28/2015,Inactive
+"Joseph Averbach, M.D.",Palm Bch Gdns,FL,33420,T2009-009,04/03/2009,Inactive
+"Susanna May Averitt, M.D.",Springdale,AR,72762,E-2459,03/31/2017,Active
+"Charles Denson Avery, M.D.",Prescott,AR,71857,C-2483,03/01/1992,Inactive
+"Marsden Ronald Avery, Jr., M.D.",Reno,NV,89509,C-3087,10/31/2000,Inactive
+"Pearlie Sharlean Avery, LRCP",Maynard,AR,72444,RCP-0531,08/31/2011,Inactive
+"Sarah Elizabeth Avery, OT",Rogers,AR,72756,OTR2772,10/31/2016,Active
+"Jose Gabriel Avila-Calles, M.D.",Little Rock,AR,72205,E-9168,09/30/2016,Active
+"Jose Gabriel Avila-Calles, M.D.",Little Rock,AR,72205,T2015-030,06/05/2015,Inactive
+"Avin D. Rekhi, M.D., P.A., ",Bentonville,AR,72712,MC-3101,03/31/2017,Active
+"Zvi Aviner, M.D.",Lafayette,LA,70508,R-2856,05/31/2010,Inactive
+"Marc Robert Avram, M.D.",Brooklyn,NY,11201,E-0075,03/01/1996,Inactive
+"Elisabeta Luminita Avramescu, M.D.",Benton,AR,72015,E-8564,09/30/2016,Active
+"Rony Avritscher, M.D.",Houston,TX,77005,E-4134,08/31/2007,Inactive
+"Rony Avritscher, M.D.",Houston,TX,77005,T2004-071,08/27/2004,Inactive
+"Ramesh Avva, M.D.",Kansas City,MO,64114,E-0899,05/31/2008,Inactive
+"Obaid Ur Rehman Awan, M.D.",Cordova,TN,38018,E-7698,01/31/2016,Inactive
+"Ziad Awar, M.D.",Jonesboro,AR,72401,R-4369,04/30/2017,Active
+"Sanjay Awasthi, M.D.",Dallas,TX,75235,C-7349,03/01/1992,Inactive
+"Mahir R. Awdeh, M.D.",Memphis,TN,38119,E-1222,06/30/2004,Inactive
+"Marc Taiwo Awobuluyi, M.D.",Eden Prairie,MN,55344,E-6062,05/31/2017,Active
+"Nils Kenneth Axelsen, M.D.",Lawton,OK,73505,R-3670,09/30/2008,Inactive
+"Alan Everett Aycock, M.D.",Lawton,OK,73505,R-2033,03/01/1985,Inactive
+"William Wallace Aycock, Jr., M.D.",Memphis,TN,38148-0375,C-6323,06/30/2012,Inactive
+"George Alan Aydelott, M.D.",Beaumont,TX,77706,C-5532,04/30/2011,Inactive
+"Jamie Sue Ayers, LRCP",McCaskill,AR,71847,RCP-2017,08/31/2010,Inactive
+"Jamie Sue Ayers, LRCP",McCaskill,AR,71847,R-T0137,01/06/2002,Inactive
+"Mark Elliott Ayers, LRCP",North Little Rock,AR,72117,RCP-1805,08/31/2016,Active
+"Mark Elliott Ayers, LRCP",North Little Rock,AR,72117,R-T0013,09/17/2000,Inactive
+"Michael Ayers, LRCP",Tavares,FL,32778,RCP-1800,07/31/2007,Inactive
+"Vincent Jerome Ayers, LRCP",Benton,AR,72019,RCP-1341,09/30/2014,Inactive
+"Karam Fayez Ayoub, M.D.",Little Rock,AR,72205,E-9292,03/31/2017,Active
+"Jana Michele Ayres, D.O.",Rogers,AR,72758,E-5696,01/31/2017,Active
+"LaDonna Celeste Ayres, LRCP",Bella Vista,AR,72715,RCP-3805,10/31/2016,Active
+"Maher Omar Ayyash, M.D.",Wichita,KS,67206,,,Inactive
+"Daniel Bryan Azabache, M.D.",Murfreesboro,TN,37130,E-0900,02/28/2002,Inactive
+"Daniel Bryan Azabache, M.D.",Murfreesboro,TN,37130,T96-090,09/13/1996,Inactive
+"Sameera Haznath Azad, M.D.",Rogers,AR,72758,E-9039,02/28/2017,Active
+"Ghazala Ahmed Azam, M.D.",Little Rock,AR,72211,E-6396,03/31/2013,Inactive
+"Gohar Azhar, M.D.",Little Rock,AR,72227,E-3515,01/31/2017,Active
+"Muhammad Faheem Azhar, M.D.",Nashville,TN,37221,E-1351,03/31/2004,Inactive
+"Muhammad Faheem Azhar, M.D.",Nashville,TN,37221,T97-086,09/12/1997,Inactive
+"Muhammad Nouman Azhar, M.D.",Little Rock,AR,72204,,,Inactive
+"Samina Abdul Aziz, M.D.",Raleigh,NC,27607,E-7703,04/30/2015,Inactive
+"Syed Shehzad Azmi, M.D.",Memphis,TN,38120,E-6676,10/31/2016,Active
+"Syed Shehzad Azmi, M.D.",Memphis,TN,38120,T2010-162,10/08/2010,Inactive
+"Abdallah Azouz, M.D.",Carbondale,IL,62901,,,Inactive
+"Mario Andres Azuero, M.D.",Springdale,AR,72762,E-7803,04/30/2017,Active
+"Maher Azzouz, M.D.",Jackson,MS,39211,E-1352,04/30/2000,Inactive
+"Maher Azzouz, M.D.",Jackson,MS,39211,T97-153,09/12/1997,Inactive
