@@ -31,21 +31,43 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 		userAgent.doc.submit("Search");
 		switch(radio) {
 		case 0:
-			System.out.println("Searching for a doctor with license number " + query);
-			if(userAgent.getLocation().contains("results.aspx")) {
-				DOCTOR_LIST.add(getFromUrl(userAgent.getLocation(), query));
-			}
+			beginLicenseSearch(userAgent.getLocation(), query);
 			break;
 		case 1:
-			System.out.println("Searching for all doctors whose last name begins with \"" 
-				+ query + "\"");
 			HtmlPage page = WEB_CLIENT.getPage(userAgent.getLocation());
-			parseResultsPage(page, 1);
+			beginLastNameSearch(page, query);
 			break;
 		}
 		userAgent.close();
 		WEB_CLIENT.close();
 		return DOCTOR_LIST;
+	}
+	
+	/**
+	 * Begins searching for a doctor with the specified license number.
+	 * @param url			The url from the search.
+	 * @param query		The specified license number.
+	 * @throws IOException
+	 * @throws JauntException
+	 */
+	private void beginLicenseSearch(String url, String query) throws IOException, JauntException {
+		System.out.println("Searching for a doctor with license number " + query);
+		if(url.contains("results.aspx")) {
+			DOCTOR_LIST.add(getFromUrl(url, query));
+		}
+	}
+	
+	/**
+	 * Begins searching for doctors whose last names start with the specified substring.
+	 * @param page		The first HtmlPage of the search result.
+	 * @param query		The specified substring that the last names begin with.
+	 * @throws IOException
+	 * @throws JauntException
+	 */
+	private void beginLastNameSearch(HtmlPage page, String query) throws IOException, JauntException {
+		System.out.println("Searching for all doctors whose last name begins with \"" 
+				+ query + "\"");
+		parseResultsPage(page, 1);
 	}
 	
 	/**

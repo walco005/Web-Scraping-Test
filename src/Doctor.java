@@ -117,17 +117,17 @@ public final class Doctor {
 	
 	/**
 	 * Returns the object Doctor as a list of strings.
-	 * @return ret		A list containing all the relevant values of the Doctor object.
+	 * @return returnList		A list containing all the relevant values of the Doctor object.
 	 */
 	public List<String> asList() {
-		List<String> ret = new ArrayList<String>();
-		ret.add(name);
-		ret.add(city);
-		ret.add(state);
-		ret.add(zip);
-		ret.add(licenseNum);
-		ret.add(expDate);
-		ret.add(licenseStatus);
-		return ret;
+		List<String> returnList = new ArrayList<String>();
+		returnList.add(name);
+		returnList.add(city);
+		returnList.add(state);
+		returnList.add(zip);
+		returnList.add(licenseNum);
+		returnList.add(expDate);
+		returnList.add(licenseStatus);
+		return returnList;
 	}
 }

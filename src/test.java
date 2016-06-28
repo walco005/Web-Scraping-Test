@@ -41,7 +41,7 @@ public class Test {
 			for(Doctor d : doctors) {
 				CSVFP.printRecord(d.asList());
 			}
-			System.out.println("Results printed to " + OUTPUT_FILE_NAME);
+			System.out.println("Printed " + doctors.size() + " results to " + OUTPUT_FILE_NAME);
 			FW.flush();
 			FW.close();
 			CSVFP.close();
