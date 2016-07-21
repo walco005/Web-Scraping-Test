@@ -26,14 +26,13 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 	 */
 	public List<Doctor> execute(int radio, String query) throws IOException, JauntException{
 		UserAgent userAgent = new UserAgent();
-		userAgent.visit("http://www.armedicalboard.org/public/verify/default.aspx");
-		userAgent.doc.apply(radio, query);
-		userAgent.doc.submit("Search");
 		switch(radio) {
-		case 0:
+		case 0: //License Number Search
+			userAgent.visit("http://www.armedicalboard.org/public/verify/lookup.aspx?LicNum="+query);
 			beginLicenseSearch(userAgent.getLocation(), query);
 			break;
-		case 1:
+		case 1: //Last Name Search
+			userAgent.visit("http://www.armedicalboard.org/public/verify/lookup.aspx?LName="+query);
 			HtmlPage page = WEB_CLIENT.getPage(userAgent.getLocation());
 			beginLastNameSearch(page, query);
 			break;
@@ -72,10 +71,12 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 	
 	/**
 	 * Parses the results page and is looped until completion of the parsing.
+	 * @param page					The first table page to start parsing through.
+	 * @param startPageNum	The starting page number.
 	 * @throws IOException
 	 * @throws JauntException 
 	 */
-	private void parseResultsPage(HtmlPage page, int startPage) throws IOException, JauntException {
+	private void parseResultsPage(HtmlPage page, int startPageNum) throws IOException, JauntException {
 		UserAgent userAgent = new UserAgent();
 		int numPagesToParse;
 		userAgent.openContent(page.asXml());
@@ -83,14 +84,12 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 		String lastLink = links.getElement(links.size() - 1).innerHTML();
 		lastLink = lastLink.replaceAll("\\s+", ""); //Removes all whitespace.
 		switch(lastLink) {
-		case "...":
-			/* The 'not completed' case. This will need to go through all the pages up until the ... 
-			 * then restart on the page that the ... links to.
-			 */
+		case "...": //The 'not completed' case. This will need to go through all the pages up until
+								//the ... then restart on the page that the ... links to.
 			String lastNumberedLink = links.getElement(links.size() - 2).innerHTML();
 			lastNumberedLink = lastNumberedLink.replaceAll("\\s+", "");
 			numPagesToParse = Integer.parseInt(lastNumberedLink);
-			loopResultsPages(page.asXml(), startPage, numPagesToParse);
+			loopResultsPages(page.asXml(), startPageNum, numPagesToParse);
 			int newStartingPageNum = numPagesToParse + 1;
 			parseResultsPage(WEB_CLIENT.getPage(getNextPage(newStartingPageNum)), newStartingPageNum);
 			break;
@@ -100,7 +99,7 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 		default: //The 'almost completed' case. This will complete the parsing.
 			if (lastLink.matches("\\d+")) { //Checks if lastLink is a number.
 				numPagesToParse = Integer.parseInt(lastLink);
-				loopResultsPages(page.asXml(), startPage, numPagesToParse);
+				loopResultsPages(page.asXml(), startPageNum, numPagesToParse);
 			}
 			break;
 		}
@@ -109,7 +108,7 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 	
 	/**
 	 * Loops through a specified part of the result pages.
-	 * @param pageAsXml 	The beginning page of the list as xml.
+	 * @param pageAsXml 	The beginning page of the list as xml text.
 	 * @param startPage		The number of the starting page.
 	 * @param endPage			The number of the ending page.
 	 * @throws IOException
@@ -127,7 +126,7 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 				userAgent.openContent(page.asXml());
 			}
 			Elements links = userAgent.doc.findFirst("<table>").findEvery("<a href>");
-			System.out.println("Retrieving page " + i + "...");
+			System.out.println("Scraping page " + i + "...");
 			getDoctorsFromSearchResults(links);
 		}
 		userAgent.close();
@@ -144,7 +143,7 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 	}
 
 	/**
-	 * Accesses the url in each href given and then adds the doctor to the DOCTOR_LIST object.
+	 * Accesses the url in each link given and then adds the doctor to the DOCTOR_LIST object.
 	 * @param links		A list of elements that contains urls of doctors web pages.
 	 * @throws IOException
 	 * @throws JauntException 
@@ -153,7 +152,7 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 		String tmp = "";
 		for(Element e : links) {
 			if(!e.toString().contains("javascript")) {
-				/* The string is cut off at the following points:
+				/* The tag is cut off at the following points:
 				 * <a href=" | results.aspx?strPHIDNO=ASMB208746 | ">
 				 */
 				tmp = "http://www.armedicalboard.org/public/verify/" + 

@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * The Doctor class stores information about a doctor, to be used in a parser.
+ * The Doctor class stores information about a doctor, meant to be used in a parser.
  * @author walco005
  */
  
