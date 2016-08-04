@@ -3,7 +3,7 @@ This program gathers the information of doctors from the Arkansas State Medical 
 
 This was run in Eclipse 4.5.2 on Windows 10 with the following .jar files added to the libraries of the project:
 
-[jaunt1.1.8.jar](http://jaunt-api.com/download.htm)
+[jaunt1.1.9.jar](http://jaunt-api.com/download.htm)
 
 [commons-csv-1.4.jar](https://commons.apache.org/proper/commons-csv/download_csv.cgi)
 
