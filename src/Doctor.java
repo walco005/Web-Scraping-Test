@@ -30,6 +30,16 @@ public final class Doctor {
 		this.expDate = expDate;
 		this.licenseStatus = licenseStatus;
 	}
+	public Doctor(String name, String city, String state, String zip,
+			String licenseNum, String expDate, String licenseStatus) {
+		this.name = name;
+		this.city = city;
+		this.state = state;
+		this.zip = zip;
+		this.licenseNum = licenseNum;
+		this.expDate = expDate;
+		this.licenseStatus = licenseStatus;
+	}
 	public String getName() {
 		return name;
 	}

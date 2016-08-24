@@ -30,12 +30,10 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 		case 0: //License Number Search
 			userAgent.visit("http://www.armedicalboard.org/public/verify/lookup.aspx?LicNum="+query);
 			beginLicenseSearch(userAgent.getLocation(), query);
-			break;
 		case 1: //Last Name Search
 			userAgent.visit("http://www.armedicalboard.org/public/verify/lookup.aspx?LName="+query);
 			HtmlPage page = WEB_CLIENT.getPage(userAgent.getLocation());
 			beginLastNameSearch(page, query);
-			break;
 		}
 		userAgent.close();
 		WEB_CLIENT.close();
@@ -76,6 +74,29 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 	 * @throws IOException
 	 * @throws JauntException 
 	 */
+	private ArrayList<String> loopThruResults2(HtmlPage page, int startPageNum, ArrayList<String> urlList) throws IOException, JauntException {
+		//This will loop through results, returning a list of URLs
+		UserAgent userAgent = new UserAgent();
+		int numPagesToParse;
+		String pageAsXml = page.asXml();
+		userAgent.openContent(pageAsXml);
+		Elements links = userAgent.doc.findFirst("<table>").findEvery("<a href>");
+		String lastLink = links.getElement(links.size() - 1).innerHTML();
+		lastLink = lastLink.replaceAll("\\s+", "");
+		switch(lastLink) {
+		case "...":
+			break;
+		case "select":
+			break;
+		default:
+			if(lastLink.matches("\\d+")) {
+				numPagesToParse = Integer.parseInt(lastLink);
+				//urlList.addAll(loopResults2(pageAsXml, startPageNum, numPagesToParse));
+			}
+			break;
+		}
+		return null;
+	}
 	private void parseResultsPage(HtmlPage page, int startPageNum) throws IOException, JauntException {
 		UserAgent userAgent = new UserAgent();
 		int numPagesToParse;
@@ -173,6 +194,62 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 	 * @throws IOException 
 	 * 
 	 */
+	public ArrayList<Doctor> getFromUrl2(String url, String query) throws IOException, JauntException {
+		UserAgent userAgent = new UserAgent();
+		ArrayList<Doctor> docList = new ArrayList<>();
+		String licNum = "";
+		String expDate = "";
+		String status = "";	
+		String city = "";
+		String state = "";
+		String zip = "";
+		userAgent.visit(url);
+		
+		if(userAgent.doc.findEvery("<title>Error on page").size() == 1) {
+			Doctor tmpDoc = new Doctor();
+			System.out.println("Doctor could not be returned because of error on webpage: " + url);
+			tmpDoc.setName("NOT A REAL NAME THIS IS AN ERROR");
+			return docList;
+		}
+		String name = userAgent.doc.findFirst(SPAN_ID + "ListView1_ctrl0_Label1\">").innerHTML();
+
+		if(userAgent.doc.findEvery("<div>No data was returned").size() == 0) {
+			city = userAgent.doc.findFirst(SPAN_ID + "ListView2_ctrl0_Label3\">").innerHTML();
+			state = userAgent.doc.findFirst(SPAN_ID + "ListView2_ctrl0_Label4\">").innerHTML();
+			zip = userAgent.doc.findFirst(SPAN_ID + "ListView2_ctrl0_Label5\">").innerHTML();
+		}
+		
+		if(query.isEmpty()) {
+			int counter = 0;
+			while(userAgent.doc.findEvery(SPAN_ID+"ListView3_ctrl"+counter+"_Label1\">").size() != 0) {
+				licNum = userAgent.doc.findFirst(SPAN_ID + "ListView3_ctrl" + counter
+				+ "_Label1\">").innerHTML();
+				expDate = userAgent.doc.findFirst(SPAN_ID + "ListView3_ctrl" + counter
+				+ "_Label3\">").innerHTML();
+				status = userAgent.doc.findFirst(SPAN_ID + "ListView3_ctrl" + counter
+				+	"_Label5\">").innerHTML();
+				Doctor tmpDoc = new Doctor(name, city, state, zip, licNum, expDate, status);
+				docList.add(tmpDoc);
+				counter++;
+			}
+			for (Doctor doc : docList) {
+				System.out.println(doc.toString());
+			}
+		} else {
+			String span = userAgent.doc.findFirst("<span>" + query).toString();
+			String amount = span.substring(72, 73);
+			licNum = query;
+			expDate = userAgent.doc.findFirst(SPAN_ID + "ListView3_ctrl"+amount+"_Label3\">")
+					.innerHTML();
+			status = userAgent.doc.findFirst(SPAN_ID + "ListView3_ctrl"+amount+"_Label5\">")
+					.innerHTML();
+			Doctor tmpDoc = new Doctor(name, city, state, zip, licNum, expDate, status);
+			System.out.println(tmpDoc.toString());
+		}
+		return docList;
+	}
+	
+	
 	private Doctor getFromUrl(String url, String query) throws IOException, JauntException {
 		UserAgent userAgent = new UserAgent();
 		Doctor tmpDoc = new Doctor();

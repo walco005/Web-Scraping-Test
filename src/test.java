@@ -21,8 +21,9 @@ public class Test {
 		//This hides all the warnings produced by HtmlUnit
 		java.util.logging.Logger.getLogger("com.gargoylesoftware").setLevel(Level.OFF); 
 		ArMedicalParser p = new ArMedicalParser();
-		List<Doctor> docList = p.execute(RADIO, QUERY);
-		printDoctorList(docList, OUTPUT_FILE_NAME);
+		p.getFromUrl2("http://www.armedicalboard.org/public/verify/results.aspx?strPHIDNO=ASMB12738", "");
+//		List<Doctor> docList = p.execute(RADIO, QUERY);
+//		printDoctorList(docList, OUTPUT_FILE_NAME);
 	}
 	
 	/**
