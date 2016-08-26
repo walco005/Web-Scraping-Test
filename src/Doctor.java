@@ -11,24 +11,11 @@ public final class Doctor {
 	private String city = "";
 	private String state = "";
 	private String zip = "";
-	private String mailingAddress = "";
 	private String licenseNum = "";
 	private String expDate = "";
 	private String licenseStatus = "";
-	private int amountOfOccurences = 0;
 	
 	public Doctor() {
-	}
-	public Doctor(String name, String city, String state, String zip, String mailingAddress,
-			String licenseNum, String expDate, String licenseStatus) {
-		this.name = name;
-		this.city = city;
-		this.state = state;
-		this.zip = zip;
-		this.mailingAddress = mailingAddress;
-		this.licenseNum = licenseNum;
-		this.expDate = expDate;
-		this.licenseStatus = licenseStatus;
 	}
 	public Doctor(String name, String city, String state, String zip,
 			String licenseNum, String expDate, String licenseStatus) {
@@ -52,9 +39,6 @@ public final class Doctor {
 	public String getZip() {
 		return zip;
 	}
-	public String getMailingAddress() {
-		return mailingAddress;
-	}
 	public String getLicenseNum() {
 		return licenseNum;
 	}
@@ -63,9 +47,6 @@ public final class Doctor {
 	}
 	public String getLicenseStatus() {
 		return licenseStatus;
-	}
-	public int getAmount() {
-		return amountOfOccurences;
 	}
 	public void setName(String name) {
 		this.name = name;
@@ -79,9 +60,6 @@ public final class Doctor {
 	public void setZip(String zip) {
 		this.zip = zip;
 	}
-	public void setMailingAddress(String mailingAddress) {
-		this.mailingAddress = mailingAddress;
-	}
 	public void setLicenseNum(String licenseNum) {
 		this.licenseNum = licenseNum;
 	}
@@ -90,32 +68,6 @@ public final class Doctor {
 	}
 	public void setLicenseStatus(String licenseStatus) {
 		this.licenseStatus = licenseStatus;
-	}
-	public void setAmount(int amount) {
-		this.amountOfOccurences = amount;
-	}
-
-	/**
-	 * Sets all the values of the Doctor object.
-	 * @param name
-	 * @param city
-	 * @param state
-	 * @param zip
-	 * @param licenseNum
-	 * @param expDate
-	 * @param licenseStatus
-	 * @param mailingAddress
-	 */
-	public void setAll(String name, String city, String state, String zip, String licenseNum, 
-			String expDate, String licenseStatus, String mailingAddress) {
-		this.name = name;
-		this.city = city;
-		this.state = state;
-		this.zip = zip;
-		this.licenseNum = licenseNum;
-		this.expDate = expDate;
-		this.licenseStatus = licenseStatus;
-		this.mailingAddress = mailingAddress;
 	}
 
 	@Override
