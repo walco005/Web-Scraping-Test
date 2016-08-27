@@ -74,9 +74,17 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 				+ query + "\"");
 		ArrayList<Doctor> doctorList = new ArrayList<>();
 		LinkedHashSet<String> urlList = parseResultsPage(page, 1, new LinkedHashSet<>());
+		int i = 1;
+		int doctorAmount = urlList.size();
+		System.out.println("Parsing " + doctorAmount + " doctors.");
 		for(String s : urlList) {
+			if(i % 10 == 0) {
+				System.out.println(i + " of " + doctorAmount + " doctors parsed...");
+			}
 			doctorList.addAll(getFromUrl(s,""));
+			i++;
 		}
+		System.out.println(doctorAmount + " doctors with " + doctorList.size() + " unique licenses found.");
 		return doctorList;
 	}
 	
@@ -87,12 +95,6 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 	 * @return 
 	 * @throws IOException
 	 * @throws JauntException 
-	 */
-	/*TODO: BUG WHERE IF YOU ARE ON THE X*10TH PAGE AND IF THE 
-	 * LAST PAGE IS THAT NEXT PAGE IT DOESN'T ACTUALLY LOOK AT THE LAST PAGE.
-	 * i.e. you're on the 51-60 loop and you start on 61 (the last page).
-	 * The loop recognizes that 60 is the last link and stores that as the
-	 * last 
 	 */
 	private LinkedHashSet<String> parseResultsPage(HtmlPage page, int startPageNum, 
 			LinkedHashSet<String> urlList) throws IOException, JauntException {
@@ -119,13 +121,39 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 			break;
 		default: //The 'almost completed' case. This will complete the parsing.
 			if (lastLink.matches("\\d+")) { //Checks if lastLink is a number.
-				lastPageToParse = Integer.parseInt(lastLink);
-				urlList.addAll(getUrls(page.asXml(), startPageNum, lastPageToParse));
+				if(links.size() < 20) { //Checks if this is the last page (less than 20 results)
+					for(Element e : links) {
+						if(e.toString().contains("results.aspx?strPHIDNO")) {
+							urlList.add(grabUrlFromTag(e));
+						}
+					}
+				} else {
+					lastPageToParse = Integer.parseInt(lastLink);
+					urlList.addAll(getUrls(page.asXml(), startPageNum, lastPageToParse));
+				}
 			}
 			break;
 		}
 		userAgent.close();
 		return urlList;
+	}
+	
+	/**
+	 * Given an Anchor element (Jaunt), returns the full url that is linked to.
+	 * 
+	 * @param tag		The anchor tag that the user wishes to extract a url from.
+	 * @return link	The link in the anchor tag appended to the ArMedical website url.
+	 */
+	private String grabUrlFromTag(Element tag) {
+		/* TODO: Add an if check in here to throw a custom exception if the tag does not 
+		 * follow the required format.
+		 */
+		String linkTag = tag.toString();
+			/* The tag is cut off at the following points:
+			 * <a href=" | results.aspx?strPHIDNO=ASMB208746 | ">
+			 */
+		String link = PREFIX_URL + linkTag.substring(9, linkTag.length() - 2);
+		return link;
 	}
 	
 	/**
@@ -151,13 +179,8 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 				userAgent.openContent(page.asXml());
 			}
 			for(Element e : userAgent.doc.findFirst("<table>").findEvery("<a href>")) {
-				String linkTag = e.toString();
-				if(!linkTag.contains("javascript")) {
-					/* The tag is cut off at the following points:
-					 * <a href=" | results.aspx?strPHIDNO=ASMB208746 | ">
-					 */
-					String link = PREFIX_URL + linkTag.substring(9, e.toString().length() - 2);
-					urlList.add(link);
+				if(e.toString().contains("results.aspx?strPHIDNO")) {
+					urlList.add(grabUrlFromTag(e));
 				}
 			}
 		}
