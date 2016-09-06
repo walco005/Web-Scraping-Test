@@ -76,7 +76,7 @@ public class ArMedicalParser implements WebsiteParser<Doctor> {
 		LinkedHashSet<String> urlList = parseResultsPage(page, 1, new LinkedHashSet<>());
 		int i = 1;
 		int doctorAmount = urlList.size();
-		System.out.println("Parsing " + doctorAmount + " doctors.");
+		System.out.println(doctorAmount + " doctors found.");
 		for(String s : urlList) {
 			if(i % 10 == 0) {
 				System.out.println(i + " of " + doctorAmount + " doctors parsed...");

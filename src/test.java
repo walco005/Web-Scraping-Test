@@ -9,10 +9,17 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class Test {
+	/**
+	 * The license to use Jaunt is monthly, so the Jaunt library must be updated monthly. I will
+	 * try to keep it updated but if the error "JAUNT HAS EXPIRED! [http://jaunt-api.com]" shows
+	 * up when trying to run it, you must replace the jaunt*.*.* with the newest Jaunt .jar,
+	 * available at jaunt-api.com/download.htm
+	 */
 	private final static int RADIO = 1; //Which radio button is selected on the search page.
 																			//0 = License Number, 1 = Last Name
-	private final static String QUERY = "za";
-	private final static String OUTPUT_FILE_NAME = "results.csv";
+	private final static String QUERY = "za"; //The license number or last name substring
+																					 //to search by
+	private final static String OUTPUT_FILE_NAME = "results.csv"; 
 	private static final CSVFormat CSV_FILE_FORMAT = CSVFormat.DEFAULT.withRecordSeparator("\n");
 	private static final Object [] HEADER = 
 		{"name","city","state","zip","licenseNum","expirationDate","licenseStatus"};
